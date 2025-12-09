@@ -1,0 +1,1501 @@
+timestamp,alert_type,source_ip,severity,status
+2025-01-18 02:42:23,Suspicious Login,107.174.221.132,medium,quarantined
+2025-01-08 16:14:36,Malware,66.92.109.1,high,reviewed
+2025-01-22 18:22:31,Malware,152.19.222.202,medium,quarantined
+2025-01-21 11:41:26,Brute Force,118.230.232.206,high,quarantined
+2025-01-24 02:15:01,Malware,87.95.225.217,medium,quarantined
+2025-01-04 09:11:48,Brute Force,140.195.131.47,medium,blocked
+2025-01-23 01:16:25,Brute Force,149.252.12.202,medium,quarantined
+2025-01-23 16:26:32,Suspicious Login,86.27.104.73,high,blocked
+2025-01-24 09:50:12,Malware,134.49.43.222,medium,blocked
+2025-01-01 11:36:55,Suspicious Login,95.56.75.216,high,reviewed
+2025-01-06 15:16:52,Suspicious Login,142.154.107.29,medium,blocked
+2025-01-07 00:50:19,SQL Injection,227.233.63.237,medium,blocked
+2025-01-12 07:37:47,DDoS,253.82.143.61,medium,quarantined
+2025-01-26 07:05:18,Malware,43.66.53.251,critical,reviewed
+2025-01-18 17:40:26,DDoS,181.244.125.29,medium,quarantined
+2025-01-27 22:43:25,Malware,199.218.149.59,medium,blocked
+2025-01-13 05:39:48,Suspicious Login,143.11.41.67,medium,blocked
+2025-01-14 12:26:50,DDoS,75.169.165.157,medium,blocked
+2025-01-25 18:34:52,Suspicious Login,203.66.228.11,medium,quarantined
+2025-01-03 12:25:59,Malware,112.151.128.8,high,reviewed
+2025-01-21 05:24:23,DDoS,103.242.124.214,medium,reviewed
+2025-01-08 11:55:38,DDoS,234.123.162.205,high,blocked
+2025-01-13 10:58:12,DDoS,215.152.228.184,medium,reviewed
+2025-01-12 18:51:45,Brute Force,29.151.75.240,high,quarantined
+2025-01-11 16:21:50,Malware,5.130.224.222,high,quarantined
+2025-01-02 15:35:27,Malware,238.157.107.88,medium,quarantined
+2025-01-27 12:59:10,Brute Force,75.22.94.64,medium,blocked
+2025-01-29 05:28:15,Suspicious Login,136.23.223.157,high,quarantined
+2025-01-07 06:07:55,SQL Injection,161.125.47.61,high,blocked
+2025-01-05 13:43:45,Malware,63.105.204.45,critical,blocked
+2025-01-18 15:29:06,SQL Injection,161.134.192.69,high,blocked
+2025-01-23 13:51:57,Malware,80.1.185.152,high,blocked
+2025-01-12 09:17:31,Suspicious Login,108.232.102.226,medium,reviewed
+2025-01-17 15:33:16,Suspicious Login,60.120.238.162,critical,blocked
+2025-01-30 03:07:57,Suspicious Login,2.22.176.93,high,blocked
+2025-01-14 20:03:34,SQL Injection,125.55.130.173,high,blocked
+2025-01-28 03:36:42,DDoS,248.213.39.18,high,reviewed
+2025-01-04 08:07:55,SQL Injection,144.132.91.230,high,quarantined
+2025-01-23 05:02:53,Malware,14.97.178.113,high,blocked
+2025-01-29 06:06:01,Brute Force,73.191.128.83,medium,quarantined
+2025-01-14 08:43:40,DDoS,97.244.206.236,high,quarantined
+2025-01-26 23:09:41,Malware,199.155.67.255,medium,blocked
+2025-01-24 08:17:19,Brute Force,7.235.201.219,medium,quarantined
+2025-01-28 20:25:32,Suspicious Login,254.245.196.42,high,blocked
+2025-01-25 19:55:36,Brute Force,95.66.62.16,medium,reviewed
+2025-01-15 01:54:28,Suspicious Login,142.63.106.215,medium,reviewed
+2025-01-20 03:00:19,Brute Force,255.185.46.176,medium,quarantined
+2025-01-15 03:32:12,Malware,213.168.233.28,medium,quarantined
+2025-01-10 14:25:17,Malware,24.185.82.175,high,reviewed
+2025-01-30 01:36:27,DDoS,58.50.16.190,critical,quarantined
+2025-01-02 15:05:40,Malware,204.7.164.227,medium,blocked
+2025-01-12 19:47:23,SQL Injection,103.133.10.34,medium,blocked
+2025-01-02 20:17:50,Brute Force,96.70.93.158,critical,quarantined
+2025-01-09 22:34:43,SQL Injection,215.240.244.76,high,quarantined
+2025-01-07 01:37:58,Malware,43.180.221.54,high,blocked
+2025-01-23 09:06:40,Brute Force,127.202.104.24,medium,reviewed
+2025-01-04 05:50:58,SQL Injection,28.180.16.149,high,reviewed
+2025-01-25 12:10:08,Suspicious Login,245.84.34.94,medium,blocked
+2025-01-02 14:24:34,SQL Injection,104.9.55.107,medium,quarantined
+2025-01-25 21:49:54,DDoS,190.214.89.69,high,reviewed
+2025-01-11 06:52:55,SQL Injection,190.232.166.53,medium,quarantined
+2025-01-19 18:12:48,SQL Injection,152.15.59.125,critical,quarantined
+2025-01-05 14:27:10,Brute Force,133.36.188.203,medium,reviewed
+2025-01-02 14:13:19,Malware,85.43.96.251,critical,blocked
+2025-01-15 05:24:21,SQL Injection,171.221.101.42,medium,quarantined
+2025-01-07 08:15:34,Suspicious Login,246.117.207.56,high,quarantined
+2025-01-29 23:24:39,Brute Force,213.179.159.157,medium,blocked
+2025-01-27 17:18:52,Malware,59.240.177.253,high,quarantined
+2025-01-16 23:03:47,Suspicious Login,85.97.108.214,medium,quarantined
+2025-01-02 06:48:21,Brute Force,1.73.80.161,medium,blocked
+2025-01-17 16:18:44,Malware,44.194.97.2,medium,reviewed
+2025-01-12 23:06:33,Brute Force,148.143.7.89,high,blocked
+2025-01-05 17:26:40,Malware,169.250.17.240,critical,reviewed
+2025-01-08 15:45:46,Malware,71.14.79.58,high,reviewed
+2025-01-29 11:07:49,DDoS,96.1.81.201,high,blocked
+2025-01-20 17:31:22,DDoS,115.149.99.199,high,blocked
+2025-01-12 03:14:21,Brute Force,93.217.151.49,critical,reviewed
+2025-01-19 11:19:31,Brute Force,34.49.188.176,medium,blocked
+2025-01-29 01:01:27,Brute Force,239.177.142.210,critical,blocked
+2025-01-11 11:41:05,DDoS,27.35.193.48,high,blocked
+2025-01-25 08:20:23,Malware,111.227.159.164,high,reviewed
+2025-01-18 16:54:44,SQL Injection,159.105.225.89,high,blocked
+2025-01-18 07:45:30,Suspicious Login,166.214.219.201,medium,blocked
+2025-01-09 18:12:50,Brute Force,113.242.204.160,medium,reviewed
+2025-01-10 13:59:40,Malware,169.108.122.47,medium,quarantined
+2025-01-28 21:09:44,Malware,196.62.44.98,critical,quarantined
+2025-01-15 18:57:58,SQL Injection,56.140.144.224,medium,reviewed
+2025-01-04 01:52:58,DDoS,203.84.107.75,high,quarantined
+2025-01-19 07:34:09,SQL Injection,20.33.31.216,high,quarantined
+2025-01-14 18:31:26,Brute Force,110.149.106.88,medium,quarantined
+2025-01-15 09:34:41,Brute Force,137.123.23.119,critical,quarantined
+2025-01-09 23:11:06,Suspicious Login,62.243.41.109,high,blocked
+2025-01-04 03:36:04,Brute Force,190.175.50.95,medium,reviewed
+2025-01-22 10:43:29,Brute Force,86.68.38.63,medium,blocked
+2025-01-10 01:43:43,DDoS,35.8.199.74,high,blocked
+2025-01-21 19:14:25,DDoS,239.234.204.68,medium,blocked
+2025-01-20 13:33:45,SQL Injection,179.65.171.43,high,blocked
+2025-01-18 09:03:46,Suspicious Login,242.255.254.18,critical,blocked
+2025-01-03 06:42:01,Malware,37.204.197.104,critical,blocked
+2025-01-16 20:53:28,Brute Force,96.112.133.25,critical,quarantined
+2025-01-07 07:46:56,Suspicious Login,143.23.198.149,critical,blocked
+2025-01-08 21:24:31,Suspicious Login,92.61.172.6,medium,quarantined
+2025-01-20 10:38:03,Suspicious Login,72.49.5.200,medium,blocked
+2025-01-27 20:42:55,Malware,196.184.125.8,high,blocked
+2025-01-24 00:07:13,DDoS,89.149.158.13,high,quarantined
+2025-01-22 15:21:58,Brute Force,207.99.11.46,medium,reviewed
+2025-01-14 07:59:57,SQL Injection,101.173.72.231,medium,quarantined
+2025-01-22 07:28:48,Suspicious Login,197.121.171.115,medium,blocked
+2025-01-20 04:33:45,Malware,3.173.224.242,critical,blocked
+2025-01-06 23:38:58,Brute Force,184.4.77.102,medium,reviewed
+2025-01-30 20:31:31,SQL Injection,134.205.113.199,high,blocked
+2025-01-01 10:42:18,Brute Force,82.105.27.253,high,blocked
+2025-01-18 00:36:54,Suspicious Login,14.24.149.40,medium,reviewed
+2025-01-29 15:36:38,Suspicious Login,9.138.247.130,high,reviewed
+2025-01-02 06:43:42,Suspicious Login,205.102.241.106,medium,quarantined
+2025-01-18 20:43:04,Malware,233.12.59.248,high,quarantined
+2025-01-03 20:07:07,Malware,228.3.101.16,high,blocked
+2025-01-16 20:33:28,Brute Force,82.230.174.110,medium,blocked
+2025-01-14 03:26:54,Malware,169.117.131.75,critical,blocked
+2025-01-06 18:58:58,Suspicious Login,136.118.27.88,medium,quarantined
+2025-01-09 09:18:25,Brute Force,252.74.24.154,high,blocked
+2025-01-15 19:04:25,Suspicious Login,100.177.29.81,medium,quarantined
+2025-01-08 07:00:15,Suspicious Login,27.117.27.210,medium,blocked
+2025-01-10 10:52:02,Brute Force,132.12.147.179,medium,quarantined
+2025-01-29 11:18:28,SQL Injection,252.141.160.9,medium,blocked
+2025-01-05 04:18:47,DDoS,169.8.184.188,high,blocked
+2025-01-03 21:01:27,Brute Force,187.244.100.125,critical,reviewed
+2025-01-13 10:36:30,Brute Force,66.134.44.245,high,quarantined
+2025-01-27 03:25:48,Brute Force,104.84.8.81,medium,quarantined
+2025-01-02 19:28:14,SQL Injection,20.76.254.206,medium,quarantined
+2025-01-15 03:54:01,Brute Force,76.4.98.83,high,blocked
+2025-01-30 07:57:04,SQL Injection,243.42.119.104,medium,blocked
+2025-01-29 00:29:11,DDoS,129.23.209.8,high,reviewed
+2025-01-15 00:08:17,Malware,24.247.184.207,critical,quarantined
+2025-01-12 07:39:09,DDoS,207.35.71.192,medium,quarantined
+2025-01-10 08:22:02,Malware,234.248.202.253,critical,reviewed
+2025-01-21 17:27:12,Brute Force,223.233.118.137,medium,blocked
+2025-01-18 04:58:02,Malware,167.4.215.61,high,quarantined
+2025-01-16 12:54:20,DDoS,53.143.152.210,high,reviewed
+2025-01-26 00:19:04,Malware,240.117.48.213,medium,blocked
+2025-01-13 08:30:21,Malware,94.113.101.228,high,blocked
+2025-01-03 23:16:51,Malware,229.124.215.120,high,reviewed
+2025-01-16 17:35:24,SQL Injection,106.203.89.216,critical,quarantined
+2025-01-04 08:15:53,SQL Injection,14.32.18.92,medium,blocked
+2025-01-11 03:35:27,Malware,107.145.23.97,high,reviewed
+2025-01-27 00:20:10,Malware,111.215.60.159,high,quarantined
+2025-01-28 20:46:14,Suspicious Login,202.246.72.9,medium,quarantined
+2025-01-06 18:29:38,Suspicious Login,142.65.12.250,medium,quarantined
+2025-01-08 02:54:39,DDoS,43.50.72.114,medium,blocked
+2025-01-18 14:47:10,Suspicious Login,53.173.101.61,medium,quarantined
+2025-01-09 23:54:11,DDoS,42.143.135.226,medium,quarantined
+2025-01-12 16:20:45,Brute Force,214.5.93.240,medium,reviewed
+2025-01-07 01:38:50,DDoS,13.49.40.177,medium,blocked
+2025-01-20 21:06:02,DDoS,148.93.50.208,medium,quarantined
+2025-01-14 20:56:19,DDoS,138.226.132.241,medium,quarantined
+2025-01-20 23:24:12,DDoS,151.94.120.219,high,blocked
+2025-01-14 12:08:11,Suspicious Login,242.24.184.191,critical,reviewed
+2025-01-30 19:14:26,Suspicious Login,138.247.43.179,medium,reviewed
+2025-01-13 06:46:45,Suspicious Login,128.219.89.150,critical,blocked
+2025-01-28 21:19:49,SQL Injection,224.112.209.244,medium,reviewed
+2025-01-15 08:02:59,DDoS,198.199.146.253,critical,reviewed
+2025-01-06 20:48:58,SQL Injection,133.48.75.152,medium,reviewed
+2025-01-18 19:37:08,DDoS,11.52.42.174,medium,quarantined
+2025-01-18 01:45:06,Malware,50.200.25.147,high,quarantined
+2025-01-08 07:29:14,Malware,155.220.128.185,high,reviewed
+2025-01-17 12:48:22,Suspicious Login,157.100.115.151,high,reviewed
+2025-01-19 05:05:56,Malware,249.177.47.212,critical,reviewed
+2025-01-04 08:40:25,Malware,253.180.70.218,high,reviewed
+2025-01-09 23:12:03,Suspicious Login,62.194.124.45,critical,reviewed
+2025-01-27 21:32:14,Brute Force,92.55.58.178,medium,reviewed
+2025-01-12 04:02:23,Malware,59.153.112.250,medium,blocked
+2025-01-22 03:20:57,Brute Force,248.114.247.249,medium,blocked
+2025-01-10 06:02:53,Brute Force,19.136.141.61,medium,reviewed
+2025-01-05 07:30:30,Suspicious Login,86.1.89.102,high,reviewed
+2025-01-17 13:43:40,Brute Force,137.53.140.244,critical,reviewed
+2025-01-13 17:34:33,SQL Injection,162.96.74.202,medium,reviewed
+2025-01-23 04:37:29,Suspicious Login,222.209.14.86,medium,quarantined
+2025-01-23 21:16:40,Brute Force,30.38.52.153,high,reviewed
+2025-01-20 17:49:46,Malware,111.161.20.167,medium,reviewed
+2025-01-05 13:55:25,Brute Force,216.90.73.241,critical,blocked
+2025-01-29 19:15:00,Suspicious Login,225.178.36.19,high,blocked
+2025-01-20 12:56:29,DDoS,146.254.197.118,medium,reviewed
+2025-01-12 17:00:22,Brute Force,183.184.227.113,high,quarantined
+2025-01-26 16:51:47,Malware,110.55.166.87,medium,reviewed
+2025-01-09 13:47:52,SQL Injection,107.181.142.179,high,quarantined
+2025-01-24 11:45:16,Malware,122.112.216.190,medium,quarantined
+2025-01-28 11:31:16,SQL Injection,12.22.204.143,high,reviewed
+2025-01-20 15:45:37,DDoS,163.9.167.249,medium,quarantined
+2025-01-09 14:00:34,Suspicious Login,93.86.146.144,medium,reviewed
+2025-01-30 03:01:04,DDoS,164.4.183.212,medium,blocked
+2025-01-21 09:19:51,Malware,250.75.103.250,medium,blocked
+2025-01-30 18:35:12,SQL Injection,250.195.235.118,medium,reviewed
+2025-01-21 03:31:53,Suspicious Login,94.79.176.126,high,reviewed
+2025-01-27 14:02:03,DDoS,197.249.84.77,critical,quarantined
+2025-01-13 20:38:15,SQL Injection,140.198.212.135,high,blocked
+2025-01-12 17:00:14,Brute Force,193.128.252.9,medium,reviewed
+2025-01-01 11:16:04,Brute Force,14.77.80.86,critical,reviewed
+2025-01-13 09:30:29,Malware,137.87.98.83,medium,quarantined
+2025-01-24 01:54:11,Malware,235.226.85.110,medium,reviewed
+2025-01-09 12:11:24,Brute Force,221.92.169.171,medium,blocked
+2025-01-04 07:31:09,Brute Force,9.23.72.95,medium,quarantined
+2025-01-20 22:45:12,Brute Force,247.58.93.31,high,quarantined
+2025-01-09 20:06:30,Malware,205.192.236.174,medium,blocked
+2025-01-17 10:18:35,Brute Force,254.123.58.110,critical,blocked
+2025-01-30 23:24:57,DDoS,219.171.248.206,medium,reviewed
+2025-01-07 01:15:49,Suspicious Login,214.13.248.198,medium,quarantined
+2025-01-07 20:00:09,Suspicious Login,169.20.254.246,medium,blocked
+2025-01-08 19:19:37,Brute Force,92.182.136.173,medium,blocked
+2025-01-06 21:09:50,DDoS,78.207.23.138,medium,blocked
+2025-01-12 07:34:17,Brute Force,131.224.17.222,high,reviewed
+2025-01-03 09:46:38,DDoS,242.220.103.35,critical,reviewed
+2025-01-16 05:44:26,SQL Injection,103.227.181.134,medium,blocked
+2025-01-01 07:25:03,DDoS,144.63.39.62,high,reviewed
+2025-01-26 16:37:52,DDoS,215.206.165.112,medium,blocked
+2025-01-14 02:03:04,SQL Injection,149.209.50.130,medium,blocked
+2025-01-15 12:19:18,Suspicious Login,203.14.52.81,medium,reviewed
+2025-01-24 13:14:49,Malware,161.218.248.61,high,blocked
+2025-01-15 02:59:44,DDoS,165.67.100.172,high,blocked
+2025-01-19 23:44:04,Malware,6.35.122.19,medium,reviewed
+2025-01-23 17:05:30,Brute Force,142.75.162.122,medium,blocked
+2025-01-14 12:14:05,Malware,235.219.231.50,high,blocked
+2025-01-26 23:24:45,SQL Injection,246.120.187.234,medium,quarantined
+2025-01-04 06:31:15,Malware,188.177.232.142,medium,reviewed
+2025-01-23 23:23:17,Brute Force,49.131.47.135,critical,reviewed
+2025-01-13 02:12:18,Brute Force,100.205.126.210,medium,quarantined
+2025-01-10 04:11:55,Malware,127.246.3.59,medium,reviewed
+2025-01-24 03:18:57,SQL Injection,155.61.178.64,medium,quarantined
+2025-01-21 03:45:36,Suspicious Login,37.84.179.145,medium,reviewed
+2025-01-21 18:30:01,Suspicious Login,132.253.252.50,high,quarantined
+2025-01-25 04:48:46,Brute Force,166.155.157.51,critical,blocked
+2025-01-30 18:03:11,Brute Force,234.143.185.206,medium,reviewed
+2025-01-10 14:30:30,SQL Injection,183.224.63.239,critical,blocked
+2025-01-10 06:00:49,DDoS,40.46.98.244,medium,reviewed
+2025-01-23 22:05:31,DDoS,150.8.157.228,critical,quarantined
+2025-01-24 15:34:29,DDoS,195.252.111.55,high,blocked
+2025-01-08 01:35:30,SQL Injection,183.196.217.183,medium,quarantined
+2025-01-19 14:20:08,Brute Force,50.68.200.115,medium,quarantined
+2025-01-05 01:20:18,DDoS,21.107.229.129,high,blocked
+2025-01-25 07:04:59,Malware,76.70.222.70,high,blocked
+2025-01-25 09:24:47,DDoS,155.117.181.227,high,quarantined
+2025-01-27 01:15:00,Brute Force,192.206.204.105,critical,blocked
+2025-01-08 10:22:54,DDoS,125.19.53.222,high,reviewed
+2025-01-22 12:31:44,Suspicious Login,36.136.206.45,medium,reviewed
+2025-01-20 07:06:21,Brute Force,70.143.121.138,medium,blocked
+2025-01-19 02:15:26,Brute Force,169.190.148.241,medium,reviewed
+2025-01-28 04:49:47,Brute Force,45.69.20.213,high,blocked
+2025-01-03 19:46:30,SQL Injection,117.152.49.124,medium,reviewed
+2025-01-12 09:24:48,Malware,48.234.15.219,critical,blocked
+2025-01-28 00:51:26,Suspicious Login,55.229.173.248,high,blocked
+2025-01-02 10:40:55,SQL Injection,118.170.59.69,medium,quarantined
+2025-01-05 11:00:52,SQL Injection,61.205.22.245,critical,reviewed
+2025-01-27 21:02:08,Brute Force,207.108.101.50,medium,reviewed
+2025-01-27 09:28:18,DDoS,127.187.152.142,high,reviewed
+2025-01-26 08:24:51,SQL Injection,124.241.138.119,high,quarantined
+2025-01-15 18:46:26,DDoS,33.206.133.46,critical,blocked
+2025-01-25 22:01:35,Suspicious Login,190.249.250.105,critical,reviewed
+2025-01-17 19:56:55,Brute Force,242.100.204.114,critical,quarantined
+2025-01-01 12:01:04,DDoS,179.181.10.84,medium,reviewed
+2025-01-22 20:13:00,SQL Injection,183.146.155.200,high,reviewed
+2025-01-19 07:15:43,DDoS,75.246.169.95,medium,reviewed
+2025-01-11 20:27:45,Brute Force,80.35.34.238,high,reviewed
+2025-01-02 10:27:30,DDoS,129.156.154.97,medium,blocked
+2025-01-14 14:13:08,Brute Force,103.218.162.145,high,reviewed
+2025-01-24 02:23:19,Suspicious Login,158.238.175.149,medium,reviewed
+2025-01-20 14:55:51,SQL Injection,252.19.65.211,medium,blocked
+2025-01-16 23:57:10,DDoS,57.124.10.76,high,reviewed
+2025-01-20 01:43:28,Malware,109.248.53.72,medium,blocked
+2025-01-14 03:07:38,DDoS,157.202.222.118,high,quarantined
+2025-01-26 03:56:12,Brute Force,183.96.4.157,medium,quarantined
+2025-01-15 01:34:19,SQL Injection,212.36.75.94,medium,reviewed
+2025-01-27 07:05:24,SQL Injection,147.110.132.66,high,quarantined
+2025-01-24 10:57:05,SQL Injection,103.240.154.212,medium,blocked
+2025-01-26 04:54:26,Suspicious Login,63.29.44.32,high,quarantined
+2025-01-05 18:04:25,Malware,77.48.33.250,medium,quarantined
+2025-01-09 02:39:33,DDoS,131.123.113.72,medium,reviewed
+2025-01-03 17:16:55,Suspicious Login,94.52.71.253,medium,reviewed
+2025-01-12 22:15:56,Brute Force,165.82.216.238,high,blocked
+2025-01-08 11:18:22,Malware,199.237.11.94,high,reviewed
+2025-01-08 08:31:04,SQL Injection,15.137.170.105,medium,quarantined
+2025-01-23 18:05:40,Suspicious Login,1.66.44.14,medium,blocked
+2025-01-29 00:50:08,DDoS,253.1.101.251,medium,reviewed
+2025-01-23 22:43:19,SQL Injection,149.226.160.176,critical,quarantined
+2025-01-28 04:52:34,Suspicious Login,92.20.165.116,high,quarantined
+2025-01-04 01:08:14,DDoS,109.156.18.86,critical,blocked
+2025-01-11 12:41:24,DDoS,224.139.158.124,high,blocked
+2025-01-18 22:12:40,DDoS,164.109.67.126,medium,quarantined
+2025-01-22 08:54:15,DDoS,184.99.177.166,high,quarantined
+2025-01-29 07:12:06,SQL Injection,61.116.31.245,critical,quarantined
+2025-01-13 18:57:15,Brute Force,23.18.219.90,medium,reviewed
+2025-01-26 19:52:54,Suspicious Login,115.192.139.118,medium,reviewed
+2025-01-01 08:50:14,SQL Injection,231.17.32.201,high,reviewed
+2025-01-27 23:31:46,DDoS,88.56.121.117,high,quarantined
+2025-01-14 02:47:09,Malware,106.253.101.200,high,reviewed
+2025-01-08 14:36:43,Malware,176.4.157.26,medium,reviewed
+2025-01-18 00:06:28,DDoS,87.181.92.192,high,blocked
+2025-01-20 16:18:54,Malware,222.101.5.112,medium,blocked
+2025-01-17 13:09:58,SQL Injection,1.210.85.205,medium,blocked
+2025-01-27 18:05:32,Suspicious Login,109.20.49.226,medium,quarantined
+2025-01-01 06:17:47,Suspicious Login,72.122.32.106,medium,blocked
+2025-01-23 20:11:41,Malware,98.234.209.217,medium,reviewed
+2025-01-01 00:07:49,Malware,15.180.237.153,critical,reviewed
+2025-01-02 11:07:29,SQL Injection,179.74.114.167,high,quarantined
+2025-01-04 21:28:49,Malware,190.140.93.190,high,blocked
+2025-01-19 13:31:27,SQL Injection,218.101.124.249,medium,quarantined
+2025-01-22 12:14:00,Malware,171.180.182.138,high,blocked
+2025-01-24 16:36:42,SQL Injection,56.49.188.18,medium,quarantined
+2025-01-19 17:15:47,Malware,40.108.178.94,high,blocked
+2025-01-01 07:06:27,Brute Force,216.60.39.228,medium,blocked
+2025-01-05 17:54:05,Malware,118.253.70.163,medium,blocked
+2025-01-24 12:04:46,SQL Injection,72.93.241.133,medium,quarantined
+2025-01-13 16:58:54,Malware,83.45.43.184,medium,blocked
+2025-01-07 19:11:29,Malware,74.72.181.21,medium,quarantined
+2025-01-23 23:59:12,Suspicious Login,45.243.111.222,medium,reviewed
+2025-01-19 21:07:29,Malware,138.63.196.130,high,quarantined
+2025-01-15 00:14:56,Brute Force,10.228.246.239,critical,quarantined
+2025-01-12 23:15:18,DDoS,91.193.246.228,medium,quarantined
+2025-01-15 23:13:55,Suspicious Login,140.40.245.161,medium,blocked
+2025-01-24 10:53:03,SQL Injection,42.34.45.166,critical,blocked
+2025-01-18 18:07:18,Suspicious Login,190.43.207.23,critical,reviewed
+2025-01-07 03:03:39,Brute Force,243.97.54.90,high,quarantined
+2025-01-02 20:05:52,Suspicious Login,127.242.16.189,medium,reviewed
+2025-01-16 05:07:41,SQL Injection,115.254.158.20,medium,blocked
+2025-01-04 08:10:13,DDoS,117.98.115.25,high,quarantined
+2025-01-01 02:47:51,Brute Force,152.236.173.245,high,reviewed
+2025-01-07 22:17:45,Malware,133.183.101.164,high,quarantined
+2025-01-02 12:39:15,Suspicious Login,77.245.195.224,medium,quarantined
+2025-01-07 14:15:46,SQL Injection,82.197.46.164,medium,quarantined
+2025-01-07 15:59:52,SQL Injection,17.226.177.144,medium,blocked
+2025-01-29 10:00:21,SQL Injection,174.202.218.189,medium,quarantined
+2025-01-22 06:40:20,SQL Injection,39.215.84.96,high,reviewed
+2025-01-14 02:24:56,Malware,124.93.112.238,critical,reviewed
+2025-01-03 21:52:26,DDoS,41.251.217.137,medium,quarantined
+2025-01-11 04:02:46,Brute Force,146.86.47.41,high,blocked
+2025-01-08 07:52:36,Suspicious Login,5.201.82.95,medium,reviewed
+2025-01-23 11:24:36,Malware,174.64.59.21,high,quarantined
+2025-01-29 17:36:53,Malware,5.46.7.178,medium,blocked
+2025-01-18 10:26:41,DDoS,138.52.253.112,high,reviewed
+2025-01-29 10:59:57,Brute Force,62.105.11.66,medium,quarantined
+2025-01-06 02:41:32,DDoS,14.130.157.12,critical,blocked
+2025-01-08 17:44:42,SQL Injection,137.58.25.118,critical,reviewed
+2025-01-30 07:04:34,Suspicious Login,239.76.100.246,high,quarantined
+2025-01-18 13:52:25,SQL Injection,11.87.62.34,high,reviewed
+2025-01-13 04:56:15,DDoS,164.90.228.219,critical,blocked
+2025-01-06 07:40:03,Malware,181.75.67.166,medium,blocked
+2025-01-28 14:53:23,Brute Force,255.171.105.123,high,reviewed
+2025-01-08 03:50:20,Brute Force,141.70.105.188,medium,blocked
+2025-01-14 08:44:16,Malware,184.218.2.162,high,reviewed
+2025-01-04 00:46:10,SQL Injection,55.6.71.79,critical,quarantined
+2025-01-12 00:13:48,Brute Force,228.240.243.133,medium,blocked
+2025-01-18 17:34:04,Brute Force,169.79.252.68,medium,quarantined
+2025-01-15 19:27:48,DDoS,153.254.164.24,high,quarantined
+2025-01-11 18:55:12,SQL Injection,175.50.111.189,high,blocked
+2025-01-26 15:35:32,SQL Injection,180.63.198.97,medium,quarantined
+2025-01-15 23:27:44,Suspicious Login,55.18.3.244,medium,reviewed
+2025-01-05 16:51:51,Brute Force,80.40.105.136,medium,blocked
+2025-01-18 14:41:22,SQL Injection,197.20.240.70,critical,blocked
+2025-01-10 11:05:31,Brute Force,135.120.79.79,medium,blocked
+2025-01-11 18:28:28,Malware,109.205.17.86,high,blocked
+2025-01-24 10:51:33,SQL Injection,139.93.40.239,medium,reviewed
+2025-01-11 09:19:08,Brute Force,9.160.176.100,medium,reviewed
+2025-01-21 09:25:43,DDoS,73.243.121.170,medium,reviewed
+2025-01-15 01:01:05,DDoS,229.139.50.171,high,quarantined
+2025-01-16 17:38:05,Brute Force,91.139.26.62,critical,quarantined
+2025-01-07 22:47:56,Malware,89.190.16.97,high,reviewed
+2025-01-17 08:15:09,Brute Force,67.110.191.117,medium,quarantined
+2025-01-29 14:23:46,Malware,243.194.185.11,medium,quarantined
+2025-01-05 16:34:57,Malware,241.231.61.42,medium,blocked
+2025-01-29 18:45:21,SQL Injection,156.185.57.81,medium,reviewed
+2025-01-24 18:37:06,SQL Injection,119.51.221.222,medium,quarantined
+2025-01-24 18:54:56,Brute Force,104.213.255.248,medium,reviewed
+2025-01-25 21:23:29,SQL Injection,145.219.246.19,high,blocked
+2025-01-25 23:20:51,Brute Force,247.58.251.140,medium,reviewed
+2025-01-22 01:04:24,Malware,12.78.160.32,medium,blocked
+2025-01-30 18:41:53,Brute Force,59.189.85.174,medium,reviewed
+2025-01-23 07:02:13,Suspicious Login,88.71.248.168,critical,reviewed
+2025-01-16 22:31:03,Brute Force,204.2.223.43,medium,reviewed
+2025-01-25 21:11:05,SQL Injection,174.183.207.145,high,blocked
+2025-01-30 17:02:28,Malware,20.47.80.50,high,reviewed
+2025-01-13 18:46:48,SQL Injection,8.251.212.244,medium,reviewed
+2025-01-30 08:48:52,SQL Injection,29.36.236.121,critical,reviewed
+2025-01-04 07:47:10,Suspicious Login,129.124.81.115,medium,blocked
+2025-01-02 05:36:39,Malware,76.8.21.182,high,blocked
+2025-01-14 02:36:49,Suspicious Login,209.221.26.21,high,blocked
+2025-01-27 21:34:20,Suspicious Login,60.128.147.163,high,reviewed
+2025-01-26 10:13:44,Suspicious Login,5.19.60.80,critical,quarantined
+2025-01-21 05:09:50,DDoS,150.67.219.210,high,quarantined
+2025-01-14 00:47:02,Suspicious Login,115.232.172.206,medium,blocked
+2025-01-09 21:21:40,Suspicious Login,71.156.230.57,high,quarantined
+2025-01-23 17:23:51,DDoS,183.5.20.190,medium,blocked
+2025-01-28 21:52:01,Suspicious Login,167.99.195.195,high,reviewed
+2025-01-13 22:19:57,Malware,106.153.27.222,high,blocked
+2025-01-09 16:10:30,SQL Injection,175.73.151.217,high,reviewed
+2025-01-28 01:05:41,SQL Injection,126.61.88.159,critical,blocked
+2025-01-01 17:51:33,Malware,59.188.39.220,high,reviewed
+2025-01-18 23:26:11,DDoS,53.176.35.155,medium,blocked
+2025-01-03 07:01:36,Brute Force,180.11.240.126,high,reviewed
+2025-01-10 07:13:07,Malware,2.162.119.176,medium,quarantined
+2025-01-07 01:35:03,Malware,156.191.98.24,medium,quarantined
+2025-01-12 22:05:49,DDoS,89.121.130.167,medium,quarantined
+2025-01-18 04:13:14,DDoS,108.3.27.73,high,quarantined
+2025-01-04 02:03:12,Malware,244.26.75.226,high,reviewed
+2025-01-29 20:24:06,Malware,155.135.144.205,critical,blocked
+2025-01-19 16:29:28,Malware,254.74.39.209,high,reviewed
+2025-01-20 09:01:51,DDoS,55.184.170.119,medium,blocked
+2025-01-26 12:05:33,SQL Injection,244.149.113.159,high,quarantined
+2025-01-11 18:20:49,DDoS,25.143.244.184,medium,quarantined
+2025-01-26 14:03:32,Suspicious Login,116.201.90.7,critical,quarantined
+2025-01-30 09:34:32,DDoS,200.145.52.51,medium,reviewed
+2025-01-30 22:20:12,Suspicious Login,245.165.82.180,medium,blocked
+2025-01-13 03:28:57,Brute Force,190.231.55.123,high,quarantined
+2025-01-28 22:37:56,Malware,88.89.70.139,high,quarantined
+2025-01-21 00:53:07,SQL Injection,118.186.117.165,high,quarantined
+2025-01-30 15:28:20,Malware,240.124.161.177,high,quarantined
+2025-01-20 03:27:36,SQL Injection,184.252.58.208,medium,blocked
+2025-01-16 02:28:09,Malware,69.196.224.103,critical,reviewed
+2025-01-06 09:17:22,DDoS,111.174.168.11,medium,blocked
+2025-01-15 06:11:31,DDoS,221.16.90.255,high,quarantined
+2025-01-14 01:37:15,DDoS,16.203.46.182,high,blocked
+2025-01-06 07:14:13,SQL Injection,86.228.156.67,high,blocked
+2025-01-06 22:16:08,DDoS,169.248.121.4,medium,quarantined
+2025-01-27 20:06:34,DDoS,74.245.41.27,medium,blocked
+2025-01-04 20:14:36,DDoS,40.215.43.234,medium,blocked
+2025-01-14 04:10:51,Malware,123.81.223.65,medium,reviewed
+2025-01-21 05:36:51,Suspicious Login,119.68.14.168,medium,reviewed
+2025-01-08 04:03:41,Brute Force,192.18.144.56,high,blocked
+2025-01-08 14:03:06,DDoS,65.70.222.172,high,reviewed
+2025-01-28 12:19:04,SQL Injection,213.242.23.119,critical,quarantined
+2025-01-20 18:30:59,SQL Injection,183.8.206.228,critical,reviewed
+2025-01-16 15:53:51,DDoS,204.54.177.108,medium,quarantined
+2025-01-13 10:53:50,SQL Injection,127.158.149.87,high,quarantined
+2025-01-04 09:55:35,Brute Force,9.42.254.62,medium,blocked
+2025-01-01 22:10:56,Malware,29.246.76.72,critical,quarantined
+2025-01-18 14:01:34,SQL Injection,180.226.220.48,high,quarantined
+2025-01-19 10:47:49,DDoS,250.88.134.37,medium,reviewed
+2025-01-23 02:02:10,DDoS,29.89.230.131,high,quarantined
+2025-01-09 13:08:12,Malware,9.6.159.15,high,blocked
+2025-01-02 21:27:02,Suspicious Login,2.81.176.251,medium,blocked
+2025-01-20 20:33:35,Brute Force,24.76.80.142,medium,reviewed
+2025-01-15 14:51:08,DDoS,130.238.58.117,medium,reviewed
+2025-01-27 07:32:44,DDoS,47.195.15.172,medium,blocked
+2025-01-16 14:16:38,Suspicious Login,75.45.212.208,medium,blocked
+2025-01-10 11:39:52,Brute Force,174.170.190.219,high,blocked
+2025-01-07 18:41:09,Brute Force,164.111.39.8,medium,reviewed
+2025-01-05 20:13:40,DDoS,194.146.248.198,high,quarantined
+2025-01-03 11:29:54,Malware,21.162.231.148,medium,reviewed
+2025-01-28 19:17:47,DDoS,100.198.238.62,critical,quarantined
+2025-01-07 17:07:16,Brute Force,216.96.206.124,medium,blocked
+2025-01-07 13:35:09,DDoS,5.70.145.65,medium,reviewed
+2025-01-02 11:02:44,Suspicious Login,236.168.30.254,medium,quarantined
+2025-01-20 21:13:00,SQL Injection,52.194.24.159,medium,quarantined
+2025-01-05 01:02:33,DDoS,234.185.124.79,medium,blocked
+2025-01-17 00:15:38,Suspicious Login,222.186.83.108,high,reviewed
+2025-01-05 03:40:44,Brute Force,188.10.30.19,critical,quarantined
+2025-01-26 23:33:33,Suspicious Login,217.157.98.204,medium,reviewed
+2025-01-18 09:39:34,SQL Injection,55.125.90.141,critical,blocked
+2025-01-22 23:04:54,Brute Force,219.18.232.203,medium,reviewed
+2025-01-24 23:03:28,SQL Injection,245.55.171.88,high,reviewed
+2025-01-25 00:54:15,SQL Injection,9.186.131.32,medium,blocked
+2025-01-30 08:39:47,Malware,175.134.211.178,high,reviewed
+2025-01-29 06:17:27,Brute Force,107.239.106.221,critical,reviewed
+2025-01-03 15:32:04,Suspicious Login,226.158.239.48,medium,quarantined
+2025-01-28 14:24:53,Suspicious Login,210.158.5.185,high,blocked
+2025-01-05 05:33:57,Brute Force,68.159.108.200,medium,quarantined
+2025-01-20 16:39:47,Malware,15.188.228.188,critical,blocked
+2025-01-05 05:29:24,SQL Injection,41.27.106.218,high,quarantined
+2025-01-24 07:23:29,Suspicious Login,31.234.45.87,medium,quarantined
+2025-01-07 01:56:12,SQL Injection,86.183.13.74,high,reviewed
+2025-01-12 10:07:37,DDoS,173.142.86.99,critical,blocked
+2025-01-22 20:15:37,Suspicious Login,219.12.95.219,medium,blocked
+2025-01-30 14:18:48,SQL Injection,169.12.180.117,high,blocked
+2025-01-30 20:07:44,Brute Force,165.255.47.217,medium,blocked
+2025-01-26 19:02:16,Brute Force,164.12.240.108,medium,blocked
+2025-01-02 06:45:27,DDoS,25.235.204.33,high,blocked
+2025-01-08 11:37:13,SQL Injection,69.102.216.134,high,quarantined
+2025-01-13 04:16:22,Suspicious Login,79.110.122.41,critical,quarantined
+2025-01-18 23:44:41,DDoS,94.135.157.19,critical,blocked
+2025-01-03 11:32:03,Malware,220.52.242.32,high,blocked
+2025-01-21 17:57:17,DDoS,218.152.169.59,high,reviewed
+2025-01-04 02:06:39,SQL Injection,198.189.237.243,medium,reviewed
+2025-01-04 00:00:27,DDoS,20.196.231.208,critical,reviewed
+2025-01-12 02:28:18,Malware,62.46.24.25,high,blocked
+2025-01-02 07:30:38,Brute Force,201.92.20.231,medium,reviewed
+2025-01-07 03:35:20,Suspicious Login,139.122.108.197,high,blocked
+2025-01-18 01:31:37,Malware,237.228.132.136,high,blocked
+2025-01-04 04:42:53,SQL Injection,59.75.217.172,high,quarantined
+2025-01-12 16:44:56,Suspicious Login,60.173.93.129,medium,quarantined
+2025-01-30 02:08:33,Malware,231.101.227.115,medium,blocked
+2025-01-30 06:50:33,Malware,25.186.75.112,critical,quarantined
+2025-01-21 02:07:08,Brute Force,194.133.168.147,high,blocked
+2025-01-10 07:07:57,DDoS,89.146.216.203,high,reviewed
+2025-01-03 13:02:18,Suspicious Login,43.3.1.62,high,blocked
+2025-01-06 00:00:58,Malware,50.16.155.78,medium,blocked
+2025-01-17 06:41:00,SQL Injection,94.10.214.166,high,reviewed
+2025-01-11 05:31:45,Malware,228.223.80.221,high,quarantined
+2025-01-17 03:41:21,SQL Injection,174.157.117.144,medium,reviewed
+2025-01-23 18:28:20,Suspicious Login,226.226.27.238,medium,quarantined
+2025-01-29 15:47:52,Brute Force,134.157.104.28,medium,blocked
+2025-01-16 12:29:09,Suspicious Login,15.51.255.93,critical,blocked
+2025-01-11 14:08:47,SQL Injection,140.25.254.132,high,quarantined
+2025-01-14 02:52:57,Brute Force,17.80.110.42,critical,reviewed
+2025-01-21 11:31:31,Suspicious Login,93.82.195.199,medium,quarantined
+2025-01-27 17:47:53,SQL Injection,229.203.228.55,medium,reviewed
+2025-01-27 06:28:11,SQL Injection,159.224.190.143,high,blocked
+2025-01-27 17:07:55,SQL Injection,203.205.242.81,medium,quarantined
+2025-01-19 02:02:33,Suspicious Login,89.172.249.62,medium,quarantined
+2025-01-09 07:54:50,Suspicious Login,124.80.47.199,medium,quarantined
+2025-01-07 03:17:36,Brute Force,41.163.205.50,medium,quarantined
+2025-01-04 08:01:57,Brute Force,238.169.108.214,medium,blocked
+2025-01-09 03:10:32,Suspicious Login,104.46.160.161,medium,blocked
+2025-01-21 11:41:11,DDoS,91.172.17.255,high,quarantined
+2025-01-05 12:13:13,Malware,176.64.216.215,high,quarantined
+2025-01-02 18:39:03,Malware,181.14.203.75,medium,blocked
+2025-01-15 09:20:39,SQL Injection,3.251.241.11,medium,quarantined
+2025-01-28 18:52:32,Malware,92.59.13.196,high,quarantined
+2025-01-01 13:08:05,SQL Injection,102.73.146.5,high,blocked
+2025-01-13 18:21:36,Brute Force,95.38.253.215,medium,quarantined
+2025-01-21 05:20:47,SQL Injection,63.62.81.103,medium,blocked
+2025-01-02 17:16:28,DDoS,41.43.132.58,high,quarantined
+2025-01-30 13:24:33,Brute Force,187.40.226.138,high,reviewed
+2025-01-16 19:49:34,DDoS,12.102.223.42,high,blocked
+2025-01-12 12:45:16,Brute Force,31.66.77.164,medium,quarantined
+2025-01-09 05:19:03,Malware,85.14.91.203,high,quarantined
+2025-01-24 07:17:36,Brute Force,203.116.151.90,critical,reviewed
+2025-01-30 08:45:28,Brute Force,34.7.255.154,high,reviewed
+2025-01-05 10:01:07,Brute Force,154.17.12.195,medium,quarantined
+2025-01-30 03:08:07,DDoS,203.223.113.214,high,blocked
+2025-01-11 20:02:51,Malware,139.148.42.238,medium,quarantined
+2025-01-25 14:13:59,Suspicious Login,146.79.227.165,high,quarantined
+2025-01-17 19:24:24,Malware,61.36.143.126,high,reviewed
+2025-01-24 02:31:43,Malware,80.49.57.178,high,quarantined
+2025-01-15 14:53:48,Suspicious Login,95.242.143.233,medium,quarantined
+2025-01-04 18:50:38,Suspicious Login,161.150.30.75,medium,blocked
+2025-01-17 16:16:41,Malware,41.148.210.190,medium,reviewed
+2025-01-18 21:30:11,Malware,234.158.197.249,medium,reviewed
+2025-01-19 04:21:21,Malware,84.107.136.205,high,quarantined
+2025-01-17 16:32:15,SQL Injection,62.145.8.215,medium,quarantined
+2025-01-01 02:21:50,Brute Force,35.74.168.77,critical,quarantined
+2025-01-29 23:02:13,SQL Injection,130.35.199.196,high,blocked
+2025-01-10 18:11:04,DDoS,94.149.210.190,medium,quarantined
+2025-01-02 06:44:48,SQL Injection,208.225.6.109,high,blocked
+2025-01-14 19:15:38,DDoS,30.4.69.134,medium,quarantined
+2025-01-15 07:17:42,DDoS,59.154.165.1,medium,quarantined
+2025-01-10 08:32:08,Suspicious Login,8.160.124.114,medium,reviewed
+2025-01-22 19:55:15,Malware,147.226.219.165,high,quarantined
+2025-01-05 10:23:57,SQL Injection,186.248.157.30,critical,blocked
+2025-01-17 01:03:39,Brute Force,154.129.239.134,high,blocked
+2025-01-04 11:32:46,Malware,98.70.73.148,critical,reviewed
+2025-01-12 00:36:08,SQL Injection,35.61.197.131,medium,reviewed
+2025-01-20 08:11:02,Suspicious Login,140.171.199.137,medium,reviewed
+2025-01-28 20:37:47,Malware,134.251.30.244,medium,blocked
+2025-01-14 18:34:40,Suspicious Login,60.15.199.179,critical,quarantined
+2025-01-27 18:04:59,DDoS,155.177.170.124,high,quarantined
+2025-01-18 01:06:13,Suspicious Login,101.157.230.23,critical,reviewed
+2025-01-26 21:52:27,DDoS,7.249.229.72,medium,reviewed
+2025-01-15 00:21:57,SQL Injection,55.174.178.180,medium,reviewed
+2025-01-27 02:47:37,Malware,106.186.156.209,medium,quarantined
+2025-01-22 01:27:27,SQL Injection,48.105.133.188,high,reviewed
+2025-01-19 03:36:06,Brute Force,93.230.237.162,high,blocked
+2025-01-04 01:10:33,Suspicious Login,199.155.189.210,medium,quarantined
+2025-01-18 10:36:39,SQL Injection,232.155.72.28,medium,reviewed
+2025-01-09 08:11:29,Brute Force,26.189.79.78,medium,reviewed
+2025-01-07 23:26:12,SQL Injection,218.93.89.235,critical,quarantined
+2025-01-17 08:38:46,Brute Force,137.60.160.198,critical,reviewed
+2025-01-08 13:44:18,Brute Force,125.46.84.93,medium,reviewed
+2025-01-14 11:38:21,DDoS,195.92.21.172,medium,quarantined
+2025-01-18 17:21:14,Brute Force,135.57.62.231,high,blocked
+2025-01-14 15:25:21,SQL Injection,220.225.158.223,high,quarantined
+2025-01-21 18:02:06,Suspicious Login,187.242.234.232,medium,quarantined
+2025-01-25 10:53:20,Brute Force,57.9.171.60,high,quarantined
+2025-01-06 18:21:13,DDoS,84.130.134.222,medium,blocked
+2025-01-08 04:24:34,Brute Force,69.132.170.66,high,reviewed
+2025-01-09 10:57:44,DDoS,66.118.242.51,medium,quarantined
+2025-01-10 19:44:24,SQL Injection,128.243.116.234,high,reviewed
+2025-01-13 05:34:05,Malware,212.129.25.185,high,reviewed
+2025-01-11 07:47:30,Brute Force,225.198.129.186,high,blocked
+2025-01-20 12:11:14,Brute Force,218.125.127.235,high,blocked
+2025-01-04 16:55:05,SQL Injection,116.34.162.57,medium,quarantined
+2025-01-08 15:57:28,Brute Force,23.61.132.205,medium,reviewed
+2025-01-30 00:58:25,Malware,60.2.129.76,high,reviewed
+2025-01-22 17:39:28,Malware,243.160.135.131,high,quarantined
+2025-01-16 09:04:51,Malware,90.144.226.245,medium,quarantined
+2025-01-14 23:09:03,Malware,108.129.38.151,medium,blocked
+2025-01-27 14:04:37,SQL Injection,32.228.160.205,high,quarantined
+2025-01-05 19:59:07,Brute Force,135.201.123.218,medium,blocked
+2025-01-23 10:35:15,Brute Force,123.16.125.65,medium,blocked
+2025-01-14 06:47:29,SQL Injection,174.170.105.49,high,blocked
+2025-01-03 17:55:16,Suspicious Login,97.18.86.213,medium,reviewed
+2025-01-28 12:08:51,Malware,83.15.129.254,medium,blocked
+2025-01-09 01:36:09,Malware,171.153.42.30,high,reviewed
+2025-01-22 23:38:59,Brute Force,7.218.79.225,medium,reviewed
+2025-01-03 19:42:48,SQL Injection,214.42.59.232,medium,blocked
+2025-01-22 22:19:07,Malware,147.99.124.199,high,reviewed
+2025-01-05 19:41:44,Suspicious Login,189.19.217.67,medium,blocked
+2025-01-26 01:42:21,DDoS,228.23.14.224,medium,quarantined
+2025-01-19 09:34:35,DDoS,214.131.92.146,critical,quarantined
+2025-01-12 17:41:31,Malware,88.234.166.32,medium,quarantined
+2025-01-11 01:48:36,Malware,36.77.241.139,medium,quarantined
+2025-01-18 21:24:08,SQL Injection,168.18.158.242,medium,quarantined
+2025-01-17 07:46:16,Suspicious Login,247.9.232.108,high,reviewed
+2025-01-28 22:54:30,Brute Force,231.164.96.244,medium,reviewed
+2025-01-13 08:57:26,Malware,112.7.37.208,high,quarantined
+2025-01-14 02:29:59,DDoS,90.254.65.29,medium,quarantined
+2025-01-10 16:11:55,SQL Injection,186.102.124.248,medium,reviewed
+2025-01-07 01:26:40,Malware,207.44.132.218,medium,blocked
+2025-01-03 07:44:56,Suspicious Login,221.191.103.32,medium,blocked
+2025-01-30 01:49:40,DDoS,52.17.30.213,critical,reviewed
+2025-01-16 22:38:05,Suspicious Login,179.211.231.28,medium,blocked
+2025-01-24 15:26:29,Malware,207.182.238.138,medium,reviewed
+2025-01-02 00:54:23,Malware,163.24.23.119,high,reviewed
+2025-01-26 05:20:03,DDoS,148.152.202.140,medium,blocked
+2025-01-05 22:11:39,SQL Injection,67.1.245.167,high,quarantined
+2025-01-21 21:56:08,SQL Injection,205.63.17.81,medium,quarantined
+2025-01-13 19:52:14,Malware,120.2.131.169,medium,blocked
+2025-01-29 17:36:27,Malware,105.71.43.5,critical,blocked
+2025-01-16 08:18:15,DDoS,57.187.243.64,medium,blocked
+2025-01-29 13:31:58,DDoS,13.195.152.255,medium,blocked
+2025-01-14 04:33:14,DDoS,18.243.37.232,medium,quarantined
+2025-01-28 10:10:41,Brute Force,164.48.79.238,medium,quarantined
+2025-01-17 09:57:33,Malware,54.125.23.64,medium,blocked
+2025-01-27 03:50:40,Suspicious Login,33.122.74.44,high,blocked
+2025-01-14 14:50:55,Malware,167.118.195.206,critical,reviewed
+2025-01-28 18:14:13,DDoS,162.136.102.58,medium,quarantined
+2025-01-14 16:45:46,SQL Injection,140.131.160.158,critical,blocked
+2025-01-20 22:47:11,DDoS,97.18.122.121,high,blocked
+2025-01-10 03:42:21,SQL Injection,107.146.165.149,critical,quarantined
+2025-01-18 05:06:54,SQL Injection,197.62.106.208,high,reviewed
+2025-01-27 18:24:54,SQL Injection,138.25.54.29,medium,quarantined
+2025-01-26 23:52:19,DDoS,235.79.238.206,medium,quarantined
+2025-01-17 21:31:01,Suspicious Login,189.81.59.191,high,blocked
+2025-01-14 23:40:00,Suspicious Login,35.203.206.59,high,quarantined
+2025-01-13 17:40:41,DDoS,7.220.231.19,critical,reviewed
+2025-01-13 09:48:24,Malware,188.253.113.50,medium,blocked
+2025-01-18 22:37:27,SQL Injection,221.82.229.29,high,reviewed
+2025-01-20 15:43:58,Suspicious Login,60.103.223.161,high,quarantined
+2025-01-09 09:25:16,SQL Injection,138.30.163.47,critical,blocked
+2025-01-21 09:56:39,DDoS,13.140.207.39,high,reviewed
+2025-01-10 10:32:08,Brute Force,6.155.49.212,high,blocked
+2025-01-15 20:29:02,Brute Force,111.75.106.254,high,blocked
+2025-01-17 04:38:13,Suspicious Login,177.26.13.95,high,reviewed
+2025-01-27 20:43:47,DDoS,20.230.52.239,medium,blocked
+2025-01-16 19:05:07,Malware,43.146.21.148,high,blocked
+2025-01-04 22:22:56,DDoS,184.194.193.126,high,quarantined
+2025-01-19 08:00:15,Suspicious Login,237.227.172.34,medium,blocked
+2025-01-06 16:47:03,Suspicious Login,6.2.246.167,high,reviewed
+2025-01-22 22:49:51,DDoS,144.213.78.115,high,reviewed
+2025-01-16 07:21:45,DDoS,64.188.155.222,medium,quarantined
+2025-01-09 11:26:44,Malware,140.213.5.88,high,quarantined
+2025-01-24 05:15:30,SQL Injection,7.208.157.149,medium,quarantined
+2025-01-29 13:42:01,Suspicious Login,43.160.187.118,high,reviewed
+2025-01-21 19:50:09,Malware,63.158.206.40,medium,blocked
+2025-01-25 03:33:14,DDoS,174.141.171.25,high,reviewed
+2025-01-02 07:59:17,SQL Injection,193.27.170.72,medium,blocked
+2025-01-19 01:23:16,DDoS,2.127.178.96,critical,quarantined
+2025-01-09 20:05:01,Brute Force,89.246.13.48,high,blocked
+2025-01-06 08:18:26,DDoS,205.33.214.41,critical,blocked
+2025-01-04 12:29:48,DDoS,200.44.45.220,medium,blocked
+2025-01-16 23:36:24,Brute Force,145.81.193.23,medium,reviewed
+2025-01-07 09:44:16,Brute Force,38.101.49.122,high,blocked
+2025-01-26 22:42:59,Malware,231.241.5.104,medium,reviewed
+2025-01-29 01:59:25,Brute Force,132.116.3.249,medium,quarantined
+2025-01-01 15:51:38,Suspicious Login,20.213.86.41,medium,quarantined
+2025-01-06 14:47:55,Suspicious Login,151.137.91.48,medium,blocked
+2025-01-30 14:21:24,Suspicious Login,188.213.108.72,high,blocked
+2025-01-19 13:35:48,Brute Force,206.93.45.24,medium,quarantined
+2025-01-11 03:20:12,SQL Injection,97.133.45.159,high,blocked
+2025-01-25 03:18:13,DDoS,13.109.76.18,critical,quarantined
+2025-01-13 16:34:04,SQL Injection,199.94.118.81,critical,reviewed
+2025-01-22 03:14:56,DDoS,156.27.124.197,medium,reviewed
+2025-01-30 11:17:46,Suspicious Login,65.218.39.148,high,blocked
+2025-01-24 17:14:37,Malware,229.80.226.174,critical,blocked
+2025-01-19 14:17:19,Malware,74.115.150.42,high,blocked
+2025-01-30 18:59:05,Malware,143.223.96.207,critical,blocked
+2025-01-01 10:43:14,Malware,212.135.183.193,medium,quarantined
+2025-01-05 14:15:22,DDoS,63.3.149.100,high,reviewed
+2025-01-10 17:32:22,Brute Force,244.142.59.19,high,blocked
+2025-01-07 06:33:31,Suspicious Login,144.229.187.89,high,quarantined
+2025-01-28 09:11:11,Malware,185.187.196.234,high,quarantined
+2025-01-18 13:30:26,SQL Injection,207.2.145.211,medium,reviewed
+2025-01-28 02:08:07,Malware,12.115.107.165,medium,reviewed
+2025-01-04 08:17:58,Suspicious Login,55.88.170.237,critical,reviewed
+2025-01-29 12:11:20,DDoS,97.106.77.86,medium,reviewed
+2025-01-26 11:42:10,Malware,231.10.249.166,high,quarantined
+2025-01-09 05:13:35,Malware,210.78.97.167,medium,reviewed
+2025-01-23 16:14:36,Brute Force,220.91.78.86,critical,quarantined
+2025-01-06 00:57:01,Suspicious Login,39.49.206.145,medium,quarantined
+2025-01-23 02:42:37,Malware,219.138.145.46,medium,blocked
+2025-01-06 10:24:34,Brute Force,210.198.24.34,critical,reviewed
+2025-01-24 08:51:38,SQL Injection,244.236.152.37,high,blocked
+2025-01-04 19:55:02,Brute Force,69.120.179.110,medium,reviewed
+2025-01-27 21:33:36,SQL Injection,226.7.19.101,medium,quarantined
+2025-01-09 06:24:07,Malware,77.227.140.83,medium,reviewed
+2025-01-25 08:02:17,Suspicious Login,141.105.241.104,critical,reviewed
+2025-01-20 02:08:28,Suspicious Login,207.233.160.212,medium,quarantined
+2025-01-28 11:29:26,DDoS,87.18.44.131,medium,blocked
+2025-01-22 21:07:02,Brute Force,45.16.134.104,medium,reviewed
+2025-01-19 13:36:36,Brute Force,191.75.143.102,high,blocked
+2025-01-02 10:10:13,SQL Injection,178.137.78.91,high,reviewed
+2025-01-05 07:42:22,Malware,241.21.5.17,high,quarantined
+2025-01-07 02:27:45,Brute Force,77.124.106.103,critical,reviewed
+2025-01-20 19:27:10,Malware,71.219.236.146,high,blocked
+2025-01-08 14:09:07,Brute Force,46.93.35.97,medium,blocked
+2025-01-23 01:35:35,Suspicious Login,163.17.92.202,medium,reviewed
+2025-01-11 14:57:53,Malware,137.178.191.222,high,blocked
+2025-01-02 16:43:15,Suspicious Login,173.12.39.23,medium,quarantined
+2025-01-23 01:59:47,DDoS,119.93.139.235,medium,reviewed
+2025-01-20 13:29:07,SQL Injection,250.49.184.67,medium,quarantined
+2025-01-29 11:48:28,Suspicious Login,66.15.199.229,critical,reviewed
+2025-01-29 16:06:18,SQL Injection,37.255.38.107,medium,reviewed
+2025-01-18 03:30:49,Malware,214.239.14.215,medium,blocked
+2025-01-12 06:00:04,DDoS,139.64.201.238,high,blocked
+2025-01-25 13:02:51,Malware,251.170.7.29,high,reviewed
+2025-01-18 03:56:55,Malware,246.151.184.73,medium,quarantined
+2025-01-21 01:12:18,Brute Force,214.54.6.104,medium,blocked
+2025-01-08 07:08:40,Malware,135.97.183.5,high,blocked
+2025-01-18 16:15:49,Brute Force,77.205.63.255,high,quarantined
+2025-01-25 08:39:38,Malware,60.9.74.104,high,blocked
+2025-01-29 09:09:25,Brute Force,26.242.57.67,medium,quarantined
+2025-01-09 00:16:31,Brute Force,12.7.11.160,high,reviewed
+2025-01-14 09:45:26,Suspicious Login,178.182.38.15,high,quarantined
+2025-01-18 03:46:04,SQL Injection,35.49.223.109,critical,quarantined
+2025-01-08 00:15:52,Brute Force,222.19.6.171,medium,blocked
+2025-01-29 11:09:03,Malware,12.193.117.58,high,blocked
+2025-01-03 09:03:19,DDoS,154.229.45.47,medium,quarantined
+2025-01-19 13:13:39,Suspicious Login,234.179.151.166,critical,quarantined
+2025-01-11 06:43:15,Brute Force,55.162.121.22,critical,reviewed
+2025-01-13 08:04:50,Suspicious Login,220.86.83.70,medium,quarantined
+2025-01-25 05:10:31,Malware,120.110.246.237,medium,blocked
+2025-01-30 12:50:45,Suspicious Login,176.255.106.59,medium,reviewed
+2025-01-02 16:43:40,Suspicious Login,42.57.188.125,high,quarantined
+2025-01-29 02:21:58,SQL Injection,118.249.188.136,medium,quarantined
+2025-01-07 08:16:00,Brute Force,29.251.223.244,high,quarantined
+2025-01-13 19:59:01,Malware,169.208.162.42,high,quarantined
+2025-01-16 14:52:15,Suspicious Login,148.216.192.88,high,quarantined
+2025-01-05 01:51:01,DDoS,62.180.64.8,medium,reviewed
+2025-01-27 13:51:55,Brute Force,137.3.203.149,critical,reviewed
+2025-01-29 12:32:28,SQL Injection,136.105.72.55,medium,blocked
+2025-01-03 10:37:32,Brute Force,6.113.196.32,medium,quarantined
+2025-01-16 08:00:19,Suspicious Login,246.96.168.235,critical,reviewed
+2025-01-10 13:54:43,SQL Injection,127.221.214.23,medium,reviewed
+2025-01-19 08:18:41,DDoS,20.179.20.217,medium,blocked
+2025-01-12 01:19:26,SQL Injection,249.37.183.133,critical,reviewed
+2025-01-13 13:47:27,Brute Force,93.217.41.175,high,quarantined
+2025-01-02 15:33:07,DDoS,202.194.209.51,medium,blocked
+2025-01-18 23:41:00,Brute Force,200.157.186.136,high,reviewed
+2025-01-14 23:11:18,Malware,24.213.109.189,high,quarantined
+2025-01-04 23:30:40,SQL Injection,1.155.242.139,critical,blocked
+2025-01-09 07:25:02,Malware,32.99.235.120,critical,quarantined
+2025-01-14 21:09:41,SQL Injection,230.3.86.237,medium,blocked
+2025-01-03 04:36:46,SQL Injection,116.46.67.141,high,reviewed
+2025-01-29 10:40:59,SQL Injection,17.168.94.216,high,blocked
+2025-01-06 14:39:54,SQL Injection,216.212.202.236,medium,blocked
+2025-01-10 14:15:19,Suspicious Login,81.133.126.179,high,reviewed
+2025-01-16 13:46:33,Brute Force,36.54.109.184,high,reviewed
+2025-01-09 17:54:58,Brute Force,82.109.150.5,medium,reviewed
+2025-01-28 21:12:20,Malware,223.208.244.157,high,blocked
+2025-01-22 17:21:12,Brute Force,38.209.183.6,critical,quarantined
+2025-01-29 06:48:13,DDoS,112.187.57.113,high,reviewed
+2025-01-13 15:38:30,SQL Injection,206.217.55.181,critical,blocked
+2025-01-09 06:04:24,SQL Injection,132.110.182.84,high,quarantined
+2025-01-21 09:04:58,Suspicious Login,116.87.179.43,medium,quarantined
+2025-01-19 06:19:12,Malware,222.174.127.68,medium,quarantined
+2025-01-11 18:51:06,SQL Injection,251.113.222.126,medium,reviewed
+2025-01-07 18:53:05,Brute Force,99.219.26.67,medium,blocked
+2025-01-28 14:32:08,DDoS,234.49.13.31,medium,blocked
+2025-01-25 23:57:13,SQL Injection,45.237.166.116,high,blocked
+2025-01-19 02:31:32,SQL Injection,147.202.55.206,medium,reviewed
+2025-01-16 18:37:05,DDoS,247.128.131.57,medium,quarantined
+2025-01-15 14:00:42,SQL Injection,50.220.52.90,medium,quarantined
+2025-01-15 04:43:24,Malware,223.18.24.1,medium,blocked
+2025-01-22 22:18:59,DDoS,141.102.19.36,high,reviewed
+2025-01-18 08:38:20,Brute Force,158.238.113.93,medium,reviewed
+2025-01-05 04:21:01,Suspicious Login,207.238.215.31,high,quarantined
+2025-01-03 09:08:48,SQL Injection,187.226.215.42,critical,quarantined
+2025-01-13 21:38:46,SQL Injection,87.1.119.154,high,reviewed
+2025-01-13 15:55:26,Malware,254.132.248.35,high,reviewed
+2025-01-13 11:00:09,DDoS,123.89.176.53,high,quarantined
+2025-01-22 07:47:05,SQL Injection,225.234.120.205,high,quarantined
+2025-01-25 01:46:23,Malware,231.111.58.160,critical,blocked
+2025-01-15 11:44:16,Malware,163.107.80.116,medium,blocked
+2025-01-10 05:48:50,DDoS,157.253.14.227,high,blocked
+2025-01-06 04:31:10,DDoS,253.215.203.169,medium,blocked
+2025-01-29 08:39:47,DDoS,255.211.245.25,medium,quarantined
+2025-01-08 21:49:44,Malware,126.195.171.206,medium,blocked
+2025-01-02 01:58:20,Malware,17.17.29.202,medium,blocked
+2025-01-09 12:05:15,Brute Force,28.49.12.192,high,quarantined
+2025-01-18 06:07:24,DDoS,127.60.34.224,high,reviewed
+2025-01-06 11:16:31,Brute Force,46.194.235.213,medium,blocked
+2025-01-29 08:13:49,Brute Force,158.56.170.109,medium,reviewed
+2025-01-24 05:48:36,SQL Injection,243.226.131.142,medium,reviewed
+2025-01-07 16:55:42,Suspicious Login,43.164.9.2,medium,reviewed
+2025-01-17 01:19:48,Suspicious Login,214.161.38.73,medium,blocked
+2025-01-05 14:15:16,Suspicious Login,55.65.239.240,medium,reviewed
+2025-01-05 21:39:11,DDoS,50.226.241.136,medium,blocked
+2025-01-08 17:44:27,SQL Injection,117.132.169.181,high,blocked
+2025-01-29 18:31:39,Malware,59.43.152.199,high,reviewed
+2025-01-29 09:04:47,Malware,10.188.100.164,medium,quarantined
+2025-01-17 12:10:23,Suspicious Login,3.44.48.79,high,quarantined
+2025-01-25 15:31:20,Malware,102.17.114.91,high,blocked
+2025-01-15 08:08:39,Malware,145.224.84.203,medium,reviewed
+2025-01-17 04:45:08,SQL Injection,181.83.224.49,critical,reviewed
+2025-01-08 14:48:00,Suspicious Login,231.134.12.13,high,blocked
+2025-01-10 02:23:41,Suspicious Login,54.158.228.37,high,quarantined
+2025-01-07 11:47:59,DDoS,6.246.245.190,medium,quarantined
+2025-01-15 12:25:33,SQL Injection,10.118.147.9,medium,quarantined
+2025-01-27 21:23:23,Suspicious Login,240.6.113.66,medium,blocked
+2025-01-06 17:57:50,Malware,73.103.213.206,medium,blocked
+2025-01-12 19:03:50,Brute Force,27.135.132.114,medium,blocked
+2025-01-24 13:03:58,DDoS,13.182.251.189,high,blocked
+2025-01-20 21:18:34,SQL Injection,65.205.198.226,high,blocked
+2025-01-01 03:35:25,Suspicious Login,115.27.239.79,high,reviewed
+2025-01-02 12:59:37,SQL Injection,15.203.147.38,critical,quarantined
+2025-01-13 16:18:29,Malware,77.141.92.239,medium,quarantined
+2025-01-08 22:13:33,DDoS,174.56.37.232,medium,quarantined
+2025-01-16 08:10:16,Suspicious Login,209.246.106.194,high,quarantined
+2025-01-26 22:45:11,Brute Force,183.212.31.58,high,reviewed
+2025-01-23 11:08:38,Malware,196.4.122.200,medium,quarantined
+2025-01-01 00:54:50,Malware,56.205.17.170,high,blocked
+2025-01-27 07:41:30,Suspicious Login,150.218.122.34,critical,reviewed
+2025-01-30 19:41:30,Brute Force,62.163.165.24,medium,quarantined
+2025-01-21 17:23:05,DDoS,18.251.51.200,high,reviewed
+2025-01-25 06:22:15,Brute Force,60.116.51.9,medium,reviewed
+2025-01-24 22:29:52,Suspicious Login,177.56.11.152,medium,quarantined
+2025-01-23 08:41:51,DDoS,72.188.172.142,critical,reviewed
+2025-01-15 21:16:12,SQL Injection,60.149.30.246,medium,blocked
+2025-01-30 22:51:15,DDoS,144.150.45.211,medium,blocked
+2025-01-05 23:40:31,Suspicious Login,247.117.106.5,critical,blocked
+2025-01-27 08:20:52,Malware,247.68.95.214,medium,quarantined
+2025-01-16 22:25:18,DDoS,142.240.62.57,medium,quarantined
+2025-01-26 03:34:11,Suspicious Login,181.191.141.93,high,quarantined
+2025-01-07 02:08:35,Suspicious Login,195.171.27.245,medium,blocked
+2025-01-15 04:47:25,Brute Force,136.34.13.88,medium,reviewed
+2025-01-08 07:41:21,Brute Force,150.76.214.190,medium,quarantined
+2025-01-19 05:01:13,Suspicious Login,32.215.52.145,critical,quarantined
+2025-01-28 01:10:18,SQL Injection,172.94.133.97,medium,blocked
+2025-01-29 07:31:12,Suspicious Login,181.108.83.207,high,blocked
+2025-01-06 12:08:27,Suspicious Login,113.206.45.200,medium,reviewed
+2025-01-02 00:23:22,DDoS,74.61.78.220,medium,quarantined
+2025-01-26 03:19:03,Malware,248.71.75.86,high,reviewed
+2025-01-12 22:15:43,SQL Injection,170.95.217.58,high,reviewed
+2025-01-09 15:44:28,SQL Injection,134.83.40.173,high,quarantined
+2025-01-15 17:39:54,Suspicious Login,9.158.165.82,medium,blocked
+2025-01-15 18:13:36,SQL Injection,54.2.102.101,critical,blocked
+2025-01-25 02:29:34,SQL Injection,53.157.40.109,medium,quarantined
+2025-01-24 03:04:29,Malware,53.92.169.220,critical,reviewed
+2025-01-05 21:48:12,SQL Injection,95.149.136.124,critical,reviewed
+2025-01-18 07:12:17,Suspicious Login,45.120.88.90,high,quarantined
+2025-01-07 12:27:52,Brute Force,109.228.173.61,high,blocked
+2025-01-11 13:23:34,DDoS,162.88.13.87,high,quarantined
+2025-01-14 14:30:27,SQL Injection,104.210.18.16,high,quarantined
+2025-01-16 01:05:06,Suspicious Login,123.113.149.71,medium,reviewed
+2025-01-16 07:37:12,SQL Injection,81.142.244.5,high,blocked
+2025-01-05 17:39:16,Malware,166.23.50.64,medium,quarantined
+2025-01-08 08:47:36,Malware,255.40.205.144,medium,quarantined
+2025-01-26 07:26:41,Malware,141.100.12.27,high,reviewed
+2025-01-11 11:41:51,DDoS,198.243.18.142,critical,blocked
+2025-01-17 01:15:51,Malware,33.202.221.66,high,reviewed
+2025-01-03 06:20:22,Suspicious Login,37.65.68.90,high,quarantined
+2025-01-09 12:04:53,Malware,248.84.122.86,high,quarantined
+2025-01-23 13:11:35,SQL Injection,120.191.73.89,medium,quarantined
+2025-01-15 14:03:20,Malware,150.144.179.182,high,blocked
+2025-01-20 22:43:25,Brute Force,74.173.198.78,medium,blocked
+2025-01-30 00:37:58,Malware,77.235.66.181,high,quarantined
+2025-01-26 05:31:00,Malware,8.40.175.82,medium,blocked
+2025-01-02 16:42:22,DDoS,185.187.231.190,medium,reviewed
+2025-01-28 10:07:55,SQL Injection,204.242.78.103,high,reviewed
+2025-01-29 14:21:32,Malware,187.189.19.23,medium,reviewed
+2025-01-10 04:01:01,Malware,194.218.147.61,medium,reviewed
+2025-01-20 11:40:32,Malware,123.36.233.193,critical,reviewed
+2025-01-29 20:45:37,SQL Injection,33.242.183.174,medium,quarantined
+2025-01-08 03:52:02,SQL Injection,16.136.70.160,medium,quarantined
+2025-01-28 00:55:41,Brute Force,74.51.148.17,high,quarantined
+2025-01-12 05:48:36,DDoS,186.24.208.174,high,reviewed
+2025-01-14 22:53:12,SQL Injection,44.140.168.120,critical,blocked
+2025-01-30 03:01:20,Suspicious Login,152.85.139.210,medium,reviewed
+2025-01-21 10:28:38,Suspicious Login,162.37.186.143,high,reviewed
+2025-01-25 03:27:54,Brute Force,52.62.5.239,high,blocked
+2025-01-20 11:26:06,Malware,206.216.16.132,medium,reviewed
+2025-01-19 19:20:16,Brute Force,149.76.72.56,high,blocked
+2025-01-03 12:15:48,DDoS,182.32.159.209,high,reviewed
+2025-01-21 22:07:45,Malware,218.102.220.96,medium,quarantined
+2025-01-01 02:44:06,SQL Injection,203.48.158.172,high,blocked
+2025-01-21 23:03:17,Malware,188.153.25.99,medium,quarantined
+2025-01-11 19:52:10,Malware,4.9.206.20,high,quarantined
+2025-01-05 08:22:19,Suspicious Login,36.4.61.67,medium,blocked
+2025-01-22 03:21:42,DDoS,104.213.31.240,medium,reviewed
+2025-01-24 13:13:02,Malware,162.133.69.137,high,quarantined
+2025-01-09 07:18:35,SQL Injection,37.222.84.8,medium,reviewed
+2025-01-17 16:36:13,Brute Force,31.119.8.51,high,blocked
+2025-01-19 16:17:22,DDoS,193.169.243.34,medium,reviewed
+2025-01-29 20:48:54,Brute Force,237.112.254.203,high,reviewed
+2025-01-06 12:26:20,Malware,200.176.37.175,high,quarantined
+2025-01-23 09:31:32,Malware,191.51.183.180,critical,blocked
+2025-01-09 02:44:29,DDoS,112.146.213.112,medium,reviewed
+2025-01-28 16:41:04,SQL Injection,132.5.145.169,medium,reviewed
+2025-01-19 19:22:31,Suspicious Login,139.6.68.167,medium,quarantined
+2025-01-19 15:30:40,DDoS,151.233.191.198,medium,blocked
+2025-01-14 04:34:31,DDoS,68.118.224.225,high,reviewed
+2025-01-19 19:44:05,Suspicious Login,183.22.150.41,medium,reviewed
+2025-01-29 03:02:11,DDoS,54.254.200.136,high,reviewed
+2025-01-17 13:46:00,Malware,236.238.152.81,high,quarantined
+2025-01-11 12:17:01,Suspicious Login,168.179.94.61,high,reviewed
+2025-01-14 01:40:45,SQL Injection,65.56.150.198,high,reviewed
+2025-01-22 10:47:40,Malware,23.210.97.90,medium,blocked
+2025-01-08 11:29:05,SQL Injection,1.213.20.24,medium,quarantined
+2025-01-06 04:12:31,Suspicious Login,134.152.18.130,critical,blocked
+2025-01-04 20:39:49,Brute Force,17.47.193.201,high,reviewed
+2025-01-21 06:22:50,Suspicious Login,236.76.209.133,medium,quarantined
+2025-01-19 01:02:28,Brute Force,45.86.128.135,high,blocked
+2025-01-22 04:27:26,Suspicious Login,74.65.74.119,medium,reviewed
+2025-01-27 20:47:33,DDoS,173.26.200.99,medium,reviewed
+2025-01-20 18:44:53,DDoS,104.149.54.183,medium,blocked
+2025-01-26 11:37:27,Malware,70.168.20.235,critical,blocked
+2025-01-23 06:42:25,Malware,82.6.255.24,medium,quarantined
+2025-01-04 04:28:12,DDoS,158.95.224.42,medium,reviewed
+2025-01-21 13:16:08,Malware,187.106.103.11,high,quarantined
+2025-01-06 13:44:30,Brute Force,114.192.67.207,high,quarantined
+2025-01-08 13:28:21,SQL Injection,53.27.60.168,medium,quarantined
+2025-01-08 21:30:01,Malware,114.37.48.28,high,reviewed
+2025-01-15 19:17:22,DDoS,155.145.7.205,medium,quarantined
+2025-01-09 14:16:17,Brute Force,91.173.132.17,medium,quarantined
+2025-01-06 02:26:18,Suspicious Login,69.253.206.228,high,blocked
+2025-01-03 15:18:00,Malware,179.93.237.77,medium,reviewed
+2025-01-22 15:33:17,Malware,78.145.195.226,medium,reviewed
+2025-01-20 22:51:52,Brute Force,8.9.199.235,medium,blocked
+2025-01-05 17:38:27,SQL Injection,20.159.67.221,high,quarantined
+2025-01-17 07:28:26,SQL Injection,27.30.126.216,critical,reviewed
+2025-01-24 13:06:42,Suspicious Login,15.150.130.113,medium,reviewed
+2025-01-16 02:01:45,Suspicious Login,206.174.40.231,medium,reviewed
+2025-01-04 08:11:06,SQL Injection,102.220.87.131,medium,blocked
+2025-01-11 14:54:49,Brute Force,186.183.241.247,critical,blocked
+2025-01-07 11:02:38,Suspicious Login,21.41.249.137,medium,blocked
+2025-01-10 20:34:44,DDoS,76.17.93.178,high,blocked
+2025-01-27 00:12:26,SQL Injection,87.82.219.196,high,quarantined
+2025-01-14 10:19:34,Brute Force,154.188.74.14,medium,reviewed
+2025-01-15 16:24:56,SQL Injection,226.143.161.133,critical,blocked
+2025-01-10 14:06:34,Suspicious Login,218.105.149.81,critical,quarantined
+2025-01-10 16:55:30,Brute Force,172.38.148.121,medium,reviewed
+2025-01-11 03:59:06,SQL Injection,127.192.120.73,medium,quarantined
+2025-01-25 21:22:04,Brute Force,33.21.146.83,high,quarantined
+2025-01-15 09:40:43,SQL Injection,117.11.113.126,high,quarantined
+2025-01-10 11:19:50,Malware,97.112.188.53,medium,blocked
+2025-01-13 04:38:22,DDoS,235.235.208.204,critical,quarantined
+2025-01-04 09:03:58,Suspicious Login,14.51.49.211,medium,reviewed
+2025-01-15 11:47:47,SQL Injection,141.86.161.42,medium,blocked
+2025-01-30 20:32:52,Suspicious Login,213.53.131.220,medium,reviewed
+2025-01-16 06:21:26,Malware,153.210.159.23,critical,blocked
+2025-01-15 04:14:47,Malware,106.193.44.145,critical,quarantined
+2025-01-16 00:54:43,Brute Force,100.58.254.25,medium,reviewed
+2025-01-17 15:36:27,Malware,74.41.248.145,medium,quarantined
+2025-01-30 02:22:39,DDoS,193.90.79.162,critical,quarantined
+2025-01-27 16:00:25,SQL Injection,70.164.29.180,high,blocked
+2025-01-06 17:08:19,Suspicious Login,120.245.140.182,medium,quarantined
+2025-01-19 03:47:16,DDoS,159.108.51.39,high,reviewed
+2025-01-23 20:31:21,Malware,168.28.136.189,high,reviewed
+2025-01-05 04:46:33,DDoS,239.93.221.58,medium,blocked
+2025-01-11 12:41:39,Brute Force,56.196.105.175,high,blocked
+2025-01-14 18:07:51,SQL Injection,175.63.240.9,high,reviewed
+2025-01-25 13:08:52,Malware,148.239.131.58,high,reviewed
+2025-01-19 17:17:33,Brute Force,252.122.69.80,high,quarantined
+2025-01-17 20:30:27,DDoS,26.175.212.44,medium,reviewed
+2025-01-19 06:07:34,Suspicious Login,74.44.182.113,medium,quarantined
+2025-01-30 15:57:31,Malware,203.250.216.134,high,reviewed
+2025-01-01 01:03:43,SQL Injection,250.52.105.154,high,quarantined
+2025-01-06 22:48:42,DDoS,138.27.185.50,medium,quarantined
+2025-01-01 03:49:43,SQL Injection,217.221.90.184,critical,blocked
+2025-01-03 17:09:01,SQL Injection,70.143.154.155,medium,blocked
+2025-01-15 05:33:41,DDoS,106.244.142.53,medium,quarantined
+2025-01-21 15:40:00,DDoS,184.77.57.75,medium,blocked
+2025-01-01 05:17:01,Malware,13.14.125.133,medium,quarantined
+2025-01-29 06:46:46,SQL Injection,226.23.178.49,medium,blocked
+2025-01-02 08:54:57,Suspicious Login,53.112.118.61,medium,quarantined
+2025-01-01 04:21:40,Suspicious Login,1.138.27.122,high,blocked
+2025-01-17 23:17:37,Suspicious Login,211.214.123.162,medium,quarantined
+2025-01-20 01:13:05,Malware,197.140.134.2,medium,blocked
+2025-01-26 22:39:16,DDoS,86.230.26.99,medium,reviewed
+2025-01-29 21:34:48,Suspicious Login,120.153.217.192,critical,reviewed
+2025-01-20 00:26:38,Suspicious Login,75.26.226.126,medium,reviewed
+2025-01-13 01:07:11,SQL Injection,229.6.231.113,medium,reviewed
+2025-01-17 20:00:06,SQL Injection,30.255.66.71,medium,blocked
+2025-01-02 10:40:36,SQL Injection,225.153.23.31,medium,reviewed
+2025-01-13 08:08:17,Malware,139.186.114.137,critical,quarantined
+2025-01-07 11:10:58,Suspicious Login,168.169.116.9,high,blocked
+2025-01-24 14:16:08,Brute Force,73.138.218.253,medium,quarantined
+2025-01-14 23:06:05,Brute Force,123.99.88.223,medium,quarantined
+2025-01-23 02:40:34,SQL Injection,126.10.85.79,high,reviewed
+2025-01-20 03:11:11,Brute Force,34.153.65.168,high,quarantined
+2025-01-30 18:00:50,DDoS,127.83.40.197,critical,quarantined
+2025-01-02 22:31:01,Malware,51.28.27.186,high,blocked
+2025-01-18 11:53:47,Brute Force,80.102.170.139,critical,blocked
+2025-01-09 04:41:09,SQL Injection,162.158.46.125,critical,quarantined
+2025-01-10 04:10:57,Suspicious Login,3.155.128.188,high,quarantined
+2025-01-24 10:24:50,SQL Injection,16.167.77.123,high,quarantined
+2025-01-11 19:02:59,Suspicious Login,64.18.143.19,medium,reviewed
+2025-01-22 23:25:37,Malware,85.90.205.54,high,reviewed
+2025-01-30 06:24:52,Brute Force,22.181.115.95,high,blocked
+2025-01-01 19:45:05,Suspicious Login,41.152.47.205,medium,reviewed
+2025-01-03 13:56:31,SQL Injection,88.136.240.195,medium,reviewed
+2025-01-30 21:55:03,Malware,54.9.92.150,medium,reviewed
+2025-01-13 07:53:06,SQL Injection,178.231.75.253,medium,quarantined
+2025-01-24 03:48:31,SQL Injection,91.135.226.155,high,quarantined
+2025-01-15 15:00:31,Malware,245.207.3.183,medium,blocked
+2025-01-25 07:04:41,Brute Force,9.127.163.193,medium,blocked
+2025-01-29 06:53:27,Suspicious Login,46.252.178.87,medium,quarantined
+2025-01-19 21:44:01,DDoS,213.194.198.216,medium,quarantined
+2025-01-04 14:50:11,DDoS,3.148.245.8,high,quarantined
+2025-01-10 23:05:26,Suspicious Login,106.93.251.39,medium,blocked
+2025-01-27 14:16:17,Suspicious Login,231.132.29.219,high,blocked
+2025-01-18 15:33:30,Suspicious Login,251.153.188.28,medium,blocked
+2025-01-24 08:35:22,Suspicious Login,102.73.135.47,high,blocked
+2025-01-06 02:14:09,DDoS,68.20.158.198,medium,reviewed
+2025-01-24 17:42:26,SQL Injection,102.75.111.152,high,quarantined
+2025-01-14 00:05:29,DDoS,25.254.24.19,medium,reviewed
+2025-01-14 01:10:44,SQL Injection,65.1.100.5,critical,blocked
+2025-01-21 06:31:39,DDoS,70.146.236.190,medium,quarantined
+2025-01-22 10:13:50,DDoS,190.250.39.180,high,reviewed
+2025-01-29 01:55:54,Brute Force,247.218.165.252,critical,quarantined
+2025-01-07 03:28:25,SQL Injection,76.56.208.255,high,reviewed
+2025-01-05 22:56:53,SQL Injection,132.122.212.165,high,quarantined
+2025-01-25 17:18:21,DDoS,77.126.218.225,critical,blocked
+2025-01-10 11:08:18,Malware,35.64.128.30,medium,quarantined
+2025-01-26 06:17:47,Malware,53.147.75.103,high,blocked
+2025-01-17 20:20:39,Brute Force,140.228.201.145,medium,quarantined
+2025-01-08 08:39:50,Malware,134.99.178.1,critical,quarantined
+2025-01-18 09:39:29,Brute Force,154.131.220.62,critical,quarantined
+2025-01-28 01:06:51,Malware,138.233.160.112,medium,reviewed
+2025-01-10 11:07:11,Malware,196.129.48.44,medium,blocked
+2025-01-18 08:28:34,Suspicious Login,255.118.213.12,medium,blocked
+2025-01-01 18:55:40,Suspicious Login,231.66.200.100,medium,blocked
+2025-01-19 19:35:43,Brute Force,236.106.51.21,medium,quarantined
+2025-01-13 00:38:28,Suspicious Login,233.154.177.75,high,reviewed
+2025-01-26 04:48:09,Malware,69.106.198.74,medium,blocked
+2025-01-13 05:47:30,Brute Force,125.169.215.140,medium,quarantined
+2025-01-02 22:44:23,Suspicious Login,149.182.32.51,critical,quarantined
+2025-01-16 19:11:54,SQL Injection,199.196.60.149,high,quarantined
+2025-01-06 05:20:52,Brute Force,134.208.128.126,medium,quarantined
+2025-01-20 00:12:41,Suspicious Login,172.178.118.105,critical,quarantined
+2025-01-30 01:33:35,DDoS,31.209.80.199,medium,reviewed
+2025-01-13 16:06:55,Suspicious Login,111.59.246.90,critical,quarantined
+2025-01-23 23:46:45,Suspicious Login,79.25.141.45,high,reviewed
+2025-01-20 07:21:12,Suspicious Login,175.175.84.241,medium,quarantined
+2025-01-18 17:22:49,Brute Force,31.18.40.188,medium,blocked
+2025-01-01 08:15:12,DDoS,166.221.190.42,high,reviewed
+2025-01-15 03:04:19,Malware,7.127.42.112,high,quarantined
+2025-01-03 12:31:02,Brute Force,193.153.161.172,medium,blocked
+2025-01-22 07:16:23,Malware,19.192.185.130,medium,reviewed
+2025-01-18 11:19:26,DDoS,12.193.78.119,medium,blocked
+2025-01-17 15:40:43,Suspicious Login,194.83.81.81,medium,blocked
+2025-01-16 05:27:26,DDoS,29.235.53.76,medium,quarantined
+2025-01-30 15:39:47,Malware,185.180.96.114,high,quarantined
+2025-01-18 18:18:23,Malware,164.24.129.75,high,blocked
+2025-01-22 16:09:23,DDoS,66.210.254.145,critical,blocked
+2025-01-30 14:50:14,SQL Injection,208.182.83.156,medium,quarantined
+2025-01-27 23:02:16,Brute Force,134.58.104.190,high,reviewed
+2025-01-14 13:31:11,Malware,204.148.47.249,medium,blocked
+2025-01-17 09:12:48,SQL Injection,126.106.96.48,medium,blocked
+2025-01-15 18:53:30,Brute Force,3.189.245.211,medium,blocked
+2025-01-24 19:19:29,DDoS,25.186.238.12,high,reviewed
+2025-01-06 03:42:55,Suspicious Login,99.183.203.16,high,blocked
+2025-01-10 04:43:36,SQL Injection,211.85.27.28,medium,blocked
+2025-01-21 21:09:18,DDoS,171.172.112.156,high,blocked
+2025-01-24 10:13:59,Brute Force,115.206.203.142,high,blocked
+2025-01-15 05:20:37,SQL Injection,67.212.162.155,high,reviewed
+2025-01-16 00:42:01,Suspicious Login,204.32.248.245,high,reviewed
+2025-01-30 03:43:14,DDoS,174.220.19.187,high,blocked
+2025-01-18 09:43:35,DDoS,23.49.243.104,medium,blocked
+2025-01-11 00:22:50,Brute Force,242.116.71.45,medium,reviewed
+2025-01-07 09:33:14,DDoS,128.149.22.38,medium,reviewed
+2025-01-13 02:53:01,Malware,106.47.48.251,critical,blocked
+2025-01-23 17:48:19,SQL Injection,202.120.144.158,medium,quarantined
+2025-01-30 14:30:11,SQL Injection,221.135.177.167,medium,quarantined
+2025-01-10 07:48:36,SQL Injection,131.185.87.56,critical,blocked
+2025-01-12 17:52:07,SQL Injection,255.225.250.72,medium,reviewed
+2025-01-29 08:10:12,Brute Force,129.3.143.111,high,blocked
+2025-01-16 06:36:28,Malware,175.26.205.153,critical,quarantined
+2025-01-17 19:34:28,Brute Force,60.33.141.186,critical,blocked
+2025-01-17 12:46:17,DDoS,228.52.167.166,medium,quarantined
+2025-01-08 12:22:56,DDoS,93.10.199.41,medium,reviewed
+2025-01-03 07:04:13,Suspicious Login,61.188.249.35,critical,reviewed
+2025-01-01 06:50:35,Suspicious Login,179.48.87.218,medium,quarantined
+2025-01-09 19:09:22,DDoS,134.176.90.235,critical,reviewed
+2025-01-11 16:23:39,Brute Force,104.133.143.137,high,reviewed
+2025-01-08 06:11:00,Brute Force,99.140.107.194,medium,blocked
+2025-01-10 15:35:52,DDoS,27.186.128.60,high,blocked
+2025-01-12 08:26:30,Brute Force,40.19.120.107,high,reviewed
+2025-01-18 19:14:03,Malware,24.222.200.151,medium,blocked
+2025-01-17 02:44:24,DDoS,178.40.164.234,medium,reviewed
+2025-01-17 08:22:08,Malware,62.212.209.43,high,reviewed
+2025-01-12 12:36:42,Malware,220.185.227.126,critical,blocked
+2025-01-10 04:27:32,Suspicious Login,68.46.236.218,high,blocked
+2025-01-27 08:21:58,DDoS,116.63.237.176,medium,reviewed
+2025-01-20 11:47:18,DDoS,148.98.189.210,medium,quarantined
+2025-01-09 23:00:11,SQL Injection,128.120.111.157,medium,blocked
+2025-01-11 02:09:19,Suspicious Login,225.10.21.2,medium,blocked
+2025-01-15 08:58:28,Suspicious Login,24.10.237.195,high,reviewed
+2025-01-24 11:03:35,Malware,245.47.175.135,critical,quarantined
+2025-01-03 08:09:58,SQL Injection,241.61.54.74,medium,blocked
+2025-01-14 05:43:21,DDoS,232.24.245.26,medium,reviewed
+2025-01-02 09:42:42,SQL Injection,150.90.136.244,medium,quarantined
+2025-01-24 15:12:41,SQL Injection,91.193.102.67,high,blocked
+2025-01-10 12:28:32,Brute Force,59.78.198.253,high,blocked
+2025-01-27 23:56:43,Brute Force,32.123.17.215,medium,quarantined
+2025-01-25 18:48:16,SQL Injection,19.226.192.100,critical,reviewed
+2025-01-30 18:26:15,Brute Force,60.213.28.72,medium,blocked
+2025-01-10 03:44:53,Suspicious Login,18.235.3.17,high,blocked
+2025-01-10 08:24:19,Brute Force,133.232.222.6,high,quarantined
+2025-01-06 15:10:50,DDoS,135.223.4.61,critical,reviewed
+2025-01-22 01:34:14,Malware,153.58.16.63,medium,blocked
+2025-01-01 18:10:17,Suspicious Login,136.208.228.165,high,blocked
+2025-01-28 19:55:28,DDoS,3.231.135.220,medium,reviewed
+2025-01-30 13:00:12,Malware,248.144.133.27,high,blocked
+2025-01-23 18:29:37,Brute Force,125.206.175.16,critical,blocked
+2025-01-25 14:30:26,DDoS,35.64.84.114,high,blocked
+2025-01-15 19:39:54,SQL Injection,175.74.25.223,medium,quarantined
+2025-01-21 13:58:13,Suspicious Login,182.88.138.171,critical,reviewed
+2025-01-15 02:05:05,Brute Force,2.77.242.243,critical,reviewed
+2025-01-24 03:47:02,SQL Injection,255.58.208.23,medium,reviewed
+2025-01-26 06:04:33,DDoS,209.138.252.62,medium,blocked
+2025-01-28 22:22:11,Malware,85.159.72.237,critical,quarantined
+2025-01-18 05:36:38,SQL Injection,180.233.10.4,critical,reviewed
+2025-01-10 05:48:07,Brute Force,143.61.26.227,high,quarantined
+2025-01-09 12:33:35,SQL Injection,201.78.206.76,critical,reviewed
+2025-01-17 03:52:20,Suspicious Login,23.97.68.114,medium,quarantined
+2025-01-06 12:54:58,SQL Injection,253.157.255.167,medium,quarantined
+2025-01-20 05:54:31,Suspicious Login,191.129.204.121,critical,reviewed
+2025-01-08 01:42:48,Brute Force,169.196.177.13,high,blocked
+2025-01-30 14:15:35,Suspicious Login,236.181.62.152,high,blocked
+2025-01-13 17:23:19,Suspicious Login,241.196.156.127,high,blocked
+2025-01-21 01:56:22,Brute Force,136.173.37.193,critical,quarantined
+2025-01-13 00:51:07,Malware,188.194.51.79,medium,reviewed
+2025-01-07 12:40:01,DDoS,81.28.159.174,medium,quarantined
+2025-01-01 03:57:05,Suspicious Login,47.146.172.116,medium,reviewed
+2025-01-29 14:46:58,Suspicious Login,104.236.130.210,critical,blocked
+2025-01-15 11:39:53,DDoS,28.97.158.250,high,reviewed
+2025-01-08 08:07:40,Brute Force,33.44.242.35,critical,blocked
+2025-01-07 20:06:04,Suspicious Login,207.154.135.125,medium,blocked
+2025-01-10 05:50:31,Suspicious Login,36.192.239.212,medium,blocked
+2025-01-21 20:10:51,Malware,114.123.132.246,medium,blocked
+2025-01-09 17:40:14,Malware,206.31.193.131,medium,blocked
+2025-01-24 15:28:20,Suspicious Login,237.254.230.182,high,reviewed
+2025-01-24 04:05:29,DDoS,12.173.211.27,medium,quarantined
+2025-01-14 09:04:23,SQL Injection,150.156.149.192,medium,reviewed
+2025-01-03 16:27:36,Brute Force,200.140.51.35,critical,quarantined
+2025-01-28 15:25:59,Suspicious Login,250.35.169.185,critical,quarantined
+2025-01-13 02:39:34,Brute Force,39.73.174.212,high,quarantined
+2025-01-27 15:35:12,Malware,194.92.18.221,medium,quarantined
+2025-01-30 07:41:23,Suspicious Login,158.152.211.223,medium,blocked
+2025-01-07 10:10:02,Suspicious Login,93.170.109.146,medium,blocked
+2025-01-12 05:30:22,SQL Injection,115.33.136.147,high,reviewed
+2025-01-06 21:36:10,DDoS,156.8.41.208,high,blocked
+2025-01-22 08:00:45,Suspicious Login,242.246.212.73,critical,quarantined
+2025-01-17 19:17:52,DDoS,123.121.10.52,medium,blocked
+2025-01-22 10:14:26,DDoS,203.183.220.205,medium,quarantined
+2025-01-17 15:56:20,DDoS,177.247.183.238,high,blocked
+2025-01-11 02:16:18,Brute Force,240.117.226.95,medium,blocked
+2025-01-06 17:55:19,Brute Force,37.113.62.102,critical,blocked
+2025-01-06 17:46:57,Suspicious Login,94.198.100.80,high,quarantined
+2025-01-30 02:54:30,Brute Force,22.146.176.210,medium,quarantined
+2025-01-14 11:12:59,Malware,21.242.130.150,high,blocked
+2025-01-20 12:56:23,Malware,201.22.209.141,medium,blocked
+2025-01-20 17:08:09,Brute Force,213.241.196.27,medium,reviewed
+2025-01-28 09:43:38,Malware,209.254.9.112,high,reviewed
+2025-01-27 16:05:08,SQL Injection,97.178.31.244,high,blocked
+2025-01-28 10:09:22,Suspicious Login,70.110.141.16,medium,reviewed
+2025-01-14 08:16:38,Suspicious Login,98.162.99.221,high,blocked
+2025-01-01 18:57:47,Malware,140.157.244.48,medium,blocked
+2025-01-22 22:54:44,SQL Injection,42.186.126.6,high,reviewed
+2025-01-17 01:08:22,SQL Injection,73.105.212.44,critical,quarantined
+2025-01-19 01:28:11,DDoS,161.185.248.3,high,reviewed
+2025-01-08 01:37:29,Malware,165.146.249.160,high,blocked
+2025-01-24 06:22:49,Brute Force,39.183.26.55,medium,quarantined
+2025-01-01 15:46:15,Malware,154.78.85.112,high,blocked
+2025-01-05 18:53:40,Malware,109.208.76.129,high,blocked
+2025-01-23 06:11:05,Malware,217.88.210.141,medium,reviewed
+2025-01-20 09:40:02,Malware,74.20.231.172,high,quarantined
+2025-01-05 16:49:29,SQL Injection,13.201.109.152,critical,reviewed
+2025-01-29 18:35:13,Malware,229.182.9.163,medium,blocked
+2025-01-20 11:10:33,SQL Injection,106.34.22.61,medium,blocked
+2025-01-12 19:38:33,Malware,56.118.87.247,medium,blocked
+2025-01-14 20:20:49,Brute Force,112.115.130.216,medium,blocked
+2025-01-17 01:00:10,SQL Injection,245.230.240.243,high,blocked
+2025-01-15 15:51:32,Brute Force,170.223.83.46,medium,reviewed
+2025-01-25 08:39:05,SQL Injection,108.27.243.146,medium,reviewed
+2025-01-28 02:31:04,SQL Injection,67.128.32.156,critical,reviewed
+2025-01-07 11:12:42,Suspicious Login,228.4.14.160,medium,blocked
+2025-01-29 19:20:34,SQL Injection,244.62.249.48,medium,blocked
+2025-01-29 15:04:36,Suspicious Login,216.89.208.101,high,reviewed
+2025-01-07 03:48:27,DDoS,44.52.196.171,high,quarantined
+2025-01-04 11:10:12,DDoS,86.157.80.6,medium,quarantined
+2025-01-07 00:08:07,SQL Injection,86.91.214.40,medium,quarantined
+2025-01-01 08:19:11,DDoS,147.46.138.212,medium,reviewed
+2025-01-24 08:16:06,Suspicious Login,251.58.131.41,medium,blocked
+2025-01-07 13:04:39,SQL Injection,130.234.105.104,high,quarantined
+2025-01-01 13:20:42,Suspicious Login,251.11.195.129,medium,blocked
+2025-01-24 21:31:13,Suspicious Login,24.136.48.10,medium,reviewed
+2025-01-15 14:14:01,Suspicious Login,100.187.239.9,high,blocked
+2025-01-06 18:35:54,Brute Force,112.133.17.248,medium,quarantined
+2025-01-07 09:43:00,SQL Injection,101.81.2.140,high,reviewed
+2025-01-08 17:46:13,DDoS,218.153.62.184,high,reviewed
+2025-01-28 14:02:13,SQL Injection,211.151.111.121,medium,blocked
+2025-01-21 11:18:07,Malware,93.204.118.163,medium,reviewed
+2025-01-14 05:43:55,SQL Injection,86.184.155.254,medium,blocked
+2025-01-05 11:35:11,SQL Injection,52.38.78.206,medium,quarantined
+2025-01-26 08:30:34,Brute Force,160.82.183.249,critical,reviewed
+2025-01-11 21:04:48,SQL Injection,37.243.163.166,medium,reviewed
+2025-01-27 01:49:38,Suspicious Login,181.253.34.159,high,blocked
+2025-01-27 19:23:28,DDoS,140.67.89.192,medium,reviewed
+2025-01-25 23:03:41,Brute Force,35.239.5.165,critical,blocked
+2025-01-16 22:14:51,Malware,104.71.229.212,critical,quarantined
+2025-01-12 19:55:54,DDoS,170.179.63.232,high,blocked
+2025-01-04 14:49:18,Brute Force,65.58.227.34,high,blocked
+2025-01-02 08:09:04,DDoS,237.118.6.144,high,blocked
+2025-01-25 05:08:08,Brute Force,53.166.113.242,medium,quarantined
+2025-01-16 00:18:20,Suspicious Login,179.64.42.41,medium,blocked
+2025-01-17 09:21:42,SQL Injection,155.64.94.16,medium,quarantined
+2025-01-14 12:48:45,SQL Injection,221.239.188.199,critical,reviewed
+2025-01-30 01:32:11,Brute Force,241.125.66.201,high,reviewed
+2025-01-08 18:29:04,Brute Force,241.198.102.49,high,reviewed
+2025-01-12 21:44:27,Malware,190.42.245.105,medium,blocked
+2025-01-11 06:33:39,Suspicious Login,68.207.87.179,high,quarantined
+2025-01-13 10:05:15,SQL Injection,100.168.187.87,medium,quarantined
+2025-01-03 23:24:59,Brute Force,247.63.243.69,medium,reviewed
+2025-01-01 21:49:22,Malware,164.187.92.46,medium,quarantined
+2025-01-10 14:05:58,Suspicious Login,164.95.148.163,high,reviewed
+2025-01-14 18:18:49,Suspicious Login,19.146.115.222,critical,quarantined
+2025-01-10 09:28:42,SQL Injection,54.59.167.86,high,reviewed
+2025-01-29 10:07:39,Brute Force,27.253.201.177,critical,reviewed
+2025-01-18 18:09:36,DDoS,180.217.9.201,high,quarantined
+2025-01-27 07:20:21,Malware,102.38.27.191,high,reviewed
+2025-01-30 10:03:25,Suspicious Login,102.241.166.252,high,blocked
+2025-01-03 23:33:34,SQL Injection,62.100.107.195,medium,quarantined
+2025-01-19 05:09:03,DDoS,182.236.245.249,high,quarantined
+2025-01-06 09:07:51,DDoS,252.161.106.152,medium,quarantined
+2025-01-27 06:28:14,SQL Injection,205.34.7.185,high,blocked
+2025-01-29 17:09:49,DDoS,68.211.90.248,critical,quarantined
+2025-01-02 23:17:01,SQL Injection,57.177.115.249,high,blocked
+2025-01-20 22:40:41,Brute Force,74.188.158.68,medium,blocked
+2025-01-01 09:00:52,Brute Force,250.198.77.248,medium,reviewed
+2025-01-05 02:07:21,Brute Force,201.234.115.52,high,blocked
+2025-01-02 15:50:39,SQL Injection,8.135.31.25,critical,reviewed
+2025-01-28 09:14:09,DDoS,93.63.166.27,high,blocked
+2025-01-21 16:14:38,Brute Force,202.40.252.74,medium,blocked
+2025-01-24 12:24:18,Brute Force,156.4.26.94,critical,quarantined
+2025-01-09 08:44:55,DDoS,145.159.44.222,high,reviewed
+2025-01-25 02:06:55,Suspicious Login,34.31.45.244,medium,reviewed
+2025-01-28 01:20:10,DDoS,38.239.197.227,medium,reviewed
+2025-01-25 06:26:21,Malware,156.220.196.3,medium,reviewed
+2025-01-13 02:18:45,SQL Injection,44.32.98.195,medium,quarantined
+2025-01-07 08:32:52,Brute Force,94.206.224.171,critical,reviewed
+2025-01-23 16:24:28,DDoS,227.57.200.20,medium,blocked
+2025-01-14 11:45:45,DDoS,181.141.118.181,high,reviewed
+2025-01-09 06:00:05,Brute Force,9.22.145.242,medium,reviewed
+2025-01-23 02:48:00,Brute Force,18.137.250.43,medium,quarantined
+2025-01-08 19:16:58,Brute Force,240.98.37.96,high,reviewed
+2025-01-07 23:11:27,Suspicious Login,97.63.15.210,medium,quarantined
+2025-01-19 19:32:24,Brute Force,248.161.9.165,high,blocked
+2025-01-22 16:26:28,Malware,24.125.212.119,high,reviewed
+2025-01-10 19:10:54,Suspicious Login,159.109.239.1,critical,reviewed
+2025-01-07 00:18:54,SQL Injection,70.58.147.120,medium,reviewed
+2025-01-13 05:57:19,DDoS,127.215.34.19,critical,reviewed
+2025-01-01 21:18:04,Brute Force,50.188.219.153,high,reviewed
+2025-01-30 13:20:37,Suspicious Login,23.171.183.12,high,reviewed
+2025-01-26 01:53:24,SQL Injection,199.165.217.122,medium,reviewed
+2025-01-03 05:06:17,Suspicious Login,97.162.179.86,high,blocked
+2025-01-06 03:10:15,Suspicious Login,246.34.15.45,medium,blocked
+2025-01-19 11:56:21,Suspicious Login,169.79.211.243,medium,reviewed
+2025-01-25 12:06:49,Suspicious Login,176.251.97.249,critical,quarantined
+2025-01-27 22:34:31,DDoS,115.21.211.235,high,blocked
+2025-01-15 21:32:08,DDoS,60.117.29.95,medium,quarantined
+2025-01-07 05:30:03,SQL Injection,158.31.166.150,medium,quarantined
+2025-01-28 16:28:28,SQL Injection,134.78.73.48,medium,blocked
+2025-01-14 09:04:25,DDoS,3.156.12.230,medium,reviewed
+2025-01-16 01:42:11,Suspicious Login,2.177.69.80,high,blocked
+2025-01-02 01:12:24,Suspicious Login,78.205.88.87,high,quarantined
+2025-01-22 19:27:14,Brute Force,64.64.140.159,medium,reviewed
+2025-01-19 23:11:08,SQL Injection,251.160.73.216,high,reviewed
+2025-01-22 12:45:33,Brute Force,5.25.237.50,medium,quarantined
+2025-01-07 05:01:12,Malware,171.28.45.222,medium,reviewed
+2025-01-01 15:01:57,DDoS,216.95.73.246,high,quarantined
+2025-01-29 11:57:38,SQL Injection,191.99.154.25,medium,blocked
+2025-01-07 01:12:36,Suspicious Login,35.184.45.22,high,blocked
+2025-01-14 23:06:03,DDoS,87.152.185.201,medium,blocked
+2025-01-23 17:10:27,Malware,80.168.223.49,medium,reviewed
+2025-01-18 17:27:21,SQL Injection,194.147.251.195,medium,quarantined
+2025-01-07 09:36:35,DDoS,94.218.93.103,high,reviewed
+2025-01-23 22:01:53,SQL Injection,181.147.87.191,medium,blocked
+2025-01-24 13:47:50,SQL Injection,148.66.162.91,high,reviewed
+2025-01-06 21:56:43,Malware,96.216.191.125,medium,blocked
+2025-01-25 18:09:43,SQL Injection,122.240.158.244,high,quarantined
+2025-01-21 22:01:56,Suspicious Login,2.206.169.109,high,blocked
+2025-01-11 06:56:41,SQL Injection,31.100.98.9,critical,reviewed
+2025-01-22 15:53:25,Suspicious Login,109.124.33.50,medium,reviewed
+2025-01-15 11:22:43,Brute Force,195.167.125.136,high,reviewed
+2025-01-10 11:38:25,Malware,234.39.132.101,high,quarantined
+2025-01-28 12:44:19,Brute Force,1.60.133.24,high,reviewed
+2025-01-19 06:55:17,SQL Injection,233.222.37.97,high,quarantined
+2025-01-12 11:32:49,DDoS,115.93.22.88,high,blocked
+2025-01-04 18:54:13,SQL Injection,148.105.104.61,high,quarantined
+2025-01-21 09:12:38,Malware,242.246.20.102,critical,blocked
+2025-01-15 03:06:38,Brute Force,115.24.119.193,medium,reviewed
+2025-01-14 12:31:02,Brute Force,182.73.218.3,high,blocked
+2025-01-09 12:44:26,SQL Injection,54.199.217.168,medium,reviewed
+2025-01-20 06:31:46,DDoS,115.251.110.34,high,reviewed
+2025-01-19 08:02:10,SQL Injection,215.229.218.219,medium,blocked
+2025-01-17 23:27:27,DDoS,27.38.125.195,medium,blocked
+2025-01-05 09:44:19,Malware,7.227.249.20,medium,reviewed
+2025-01-12 22:56:15,SQL Injection,204.122.37.59,high,quarantined
+2025-01-29 23:10:29,Malware,216.165.50.96,medium,quarantined
+2025-01-13 19:33:36,Suspicious Login,149.224.53.2,high,reviewed
+2025-01-22 03:46:17,DDoS,88.101.208.52,critical,reviewed
+2025-01-17 11:25:10,Suspicious Login,127.65.117.21,high,quarantined
+2025-01-20 18:22:16,Brute Force,97.5.232.222,medium,reviewed
+2025-01-27 11:37:09,Suspicious Login,51.53.27.110,high,reviewed
+2025-01-10 02:10:10,SQL Injection,65.212.32.70,high,reviewed
+2025-01-12 17:26:01,Brute Force,91.254.173.77,medium,quarantined
+2025-01-01 16:10:02,DDoS,97.132.42.27,high,quarantined
+2025-01-25 08:07:59,Brute Force,248.183.93.209,medium,reviewed
+2025-01-01 02:09:26,Suspicious Login,55.147.205.138,medium,quarantined
+2025-01-03 02:38:32,Suspicious Login,136.84.91.81,medium,reviewed
+2025-01-01 21:58:02,Suspicious Login,155.31.105.144,high,reviewed
+2025-01-12 18:53:42,Suspicious Login,112.165.1.182,medium,reviewed
+2025-01-14 03:29:58,Suspicious Login,115.22.3.139,high,reviewed
+2025-01-07 00:05:03,Malware,158.101.252.230,high,blocked
+2025-01-16 14:13:42,Suspicious Login,205.252.4.13,medium,reviewed
+2025-01-12 11:52:25,SQL Injection,175.143.86.7,medium,blocked
+2025-01-17 20:22:35,SQL Injection,129.5.40.59,high,blocked
+2025-01-29 07:52:04,DDoS,149.5.223.249,medium,blocked
+2025-01-27 13:22:09,Suspicious Login,87.230.183.27,medium,quarantined
+2025-01-20 20:47:53,SQL Injection,135.87.141.211,critical,quarantined
+2025-01-01 06:48:59,DDoS,229.134.158.62,medium,reviewed
+2025-01-28 11:29:06,Suspicious Login,208.39.156.114,high,blocked
+2025-01-09 12:55:34,SQL Injection,227.101.105.67,high,blocked
+2025-01-04 04:19:41,SQL Injection,9.136.157.20,high,reviewed
+2025-01-11 09:49:33,SQL Injection,52.10.107.160,medium,reviewed
+2025-01-01 08:11:06,Suspicious Login,6.91.53.165,medium,reviewed
+2025-01-20 02:20:47,DDoS,72.217.130.5,medium,reviewed
+2025-01-21 19:10:36,Malware,107.201.97.76,high,blocked
+2025-01-28 12:59:44,Malware,115.12.173.166,medium,blocked
+2025-01-24 18:11:37,SQL Injection,190.63.79.73,high,reviewed
+2025-01-03 05:38:23,SQL Injection,200.109.47.224,high,blocked
+2025-01-01 07:17:09,Malware,182.60.175.23,medium,reviewed
+2025-01-25 22:37:04,SQL Injection,253.94.99.86,high,blocked
+2025-01-03 19:32:46,Brute Force,2.143.200.24,medium,reviewed
+2025-01-10 16:55:07,Suspicious Login,154.86.185.49,high,blocked
+2025-01-24 00:05:49,Brute Force,194.224.67.74,high,blocked
+2025-01-05 11:53:31,Brute Force,162.47.119.228,medium,reviewed
+2025-01-19 16:54:35,Suspicious Login,26.164.130.217,high,blocked
+2025-01-10 10:25:06,Brute Force,73.10.88.214,medium,blocked
+2025-01-10 17:53:51,SQL Injection,54.70.79.36,medium,quarantined
+2025-01-11 05:31:04,Suspicious Login,43.135.92.62,critical,quarantined
+2025-01-27 03:14:36,DDoS,41.166.97.170,medium,quarantined
+2025-01-06 23:55:02,Suspicious Login,43.138.205.84,high,reviewed
+2025-01-21 18:36:33,SQL Injection,221.126.148.142,medium,blocked
+2025-01-25 01:15:24,Brute Force,201.250.68.91,medium,blocked
+2025-01-18 22:19:39,Suspicious Login,136.185.226.71,medium,blocked
+2025-01-08 22:31:20,SQL Injection,99.159.17.250,high,reviewed
+2025-01-14 14:51:37,DDoS,249.84.123.208,medium,reviewed
+2025-01-16 23:45:54,SQL Injection,233.98.147.91,high,blocked
+2025-01-07 21:42:35,Malware,140.15.135.166,high,reviewed
+2025-01-20 01:26:24,DDoS,149.95.134.134,critical,reviewed
+2025-01-22 08:20:04,SQL Injection,216.41.78.1,critical,blocked
+2025-01-28 14:59:42,Brute Force,213.207.61.99,high,quarantined
+2025-01-08 07:02:04,Brute Force,40.18.213.235,medium,quarantined
+2025-01-27 22:09:55,Suspicious Login,193.28.198.195,critical,blocked
+2025-01-23 16:28:29,Malware,152.180.54.43,medium,blocked
+2025-01-18 01:55:45,Suspicious Login,106.200.150.23,medium,quarantined
+2025-01-16 11:48:10,Malware,123.129.60.61,medium,reviewed
+2025-01-07 08:34:27,Suspicious Login,231.128.102.150,high,reviewed
+2025-01-13 02:59:38,DDoS,159.205.202.13,medium,quarantined
+2025-01-20 22:38:13,Suspicious Login,109.39.232.79,medium,quarantined
+2025-01-25 07:20:37,Malware,203.98.217.218,medium,reviewed
+2025-01-29 21:17:34,Malware,92.242.29.253,medium,blocked
+2025-01-03 01:34:56,DDoS,51.208.176.148,medium,reviewed
+2025-01-07 22:43:16,SQL Injection,119.66.23.93,medium,reviewed
+2025-01-09 10:44:22,DDoS,218.157.215.237,high,reviewed
+2025-01-11 15:12:26,SQL Injection,32.184.88.26,high,reviewed
+2025-01-18 15:55:26,Suspicious Login,73.113.7.146,high,quarantined
+2025-01-09 18:07:08,DDoS,82.170.92.246,medium,quarantined
+2025-01-23 14:31:42,SQL Injection,188.182.186.10,high,quarantined
+2025-01-24 02:06:19,DDoS,188.131.163.142,medium,blocked
+2025-01-29 15:15:11,DDoS,71.18.148.66,medium,blocked
+2025-01-03 13:31:07,Suspicious Login,244.14.138.169,medium,quarantined
+2025-01-09 18:52:52,Malware,38.159.180.128,high,reviewed
+2025-01-29 02:14:38,DDoS,247.63.33.249,medium,reviewed
+2025-01-28 08:02:56,Suspicious Login,44.246.130.64,critical,reviewed
+2025-01-06 21:26:24,DDoS,3.178.209.32,critical,blocked
+2025-01-29 15:40:48,Suspicious Login,134.6.21.83,medium,reviewed
+2025-01-29 22:40:53,Brute Force,157.213.161.60,medium,reviewed
+2025-01-28 07:31:18,Brute Force,253.140.220.128,medium,blocked
+2025-01-03 05:40:51,Suspicious Login,57.220.136.114,high,quarantined
+2025-01-27 02:33:39,Brute Force,185.118.171.212,critical,quarantined
+2025-01-15 17:49:10,Malware,25.14.44.38,critical,blocked
+2025-01-28 06:56:28,Brute Force,114.186.142.82,high,reviewed
+2025-01-16 23:18:26,DDoS,91.212.157.82,high,quarantined
+2025-01-17 16:37:29,Malware,238.202.197.163,medium,reviewed
+2025-01-05 17:43:30,Malware,43.249.196.143,high,reviewed
+2025-01-07 02:14:54,DDoS,116.101.30.160,high,reviewed
+2025-01-17 19:57:00,SQL Injection,14.208.22.109,medium,blocked
+2025-01-13 10:40:24,DDoS,147.175.6.235,medium,blocked
+2025-01-20 16:06:53,SQL Injection,226.123.255.178,medium,quarantined
+2025-01-11 00:16:44,Brute Force,65.42.253.253,medium,quarantined
+2025-01-29 04:02:29,Suspicious Login,96.66.52.167,critical,reviewed
+2025-01-02 17:13:33,Suspicious Login,204.197.235.237,medium,reviewed
+2025-01-30 18:33:45,Brute Force,251.249.86.82,high,reviewed
+2025-01-12 10:17:47,Brute Force,60.28.61.171,medium,reviewed
+2025-01-30 02:54:22,Suspicious Login,7.147.47.252,critical,quarantined
+2025-01-12 00:36:11,Suspicious Login,49.116.69.156,high,quarantined
+2025-01-07 23:22:53,SQL Injection,126.122.19.137,medium,quarantined
+2025-01-02 04:27:29,Suspicious Login,27.251.53.64,medium,blocked
+2025-01-02 17:17:48,Brute Force,188.199.248.56,high,blocked
+2025-01-11 05:14:35,SQL Injection,108.193.136.165,medium,blocked
+2025-01-14 14:35:01,Brute Force,41.35.117.11,medium,quarantined
+2025-01-01 02:49:51,DDoS,122.20.179.167,medium,reviewed
+2025-01-04 08:37:18,Malware,216.143.111.76,critical,reviewed
+2025-01-22 09:39:21,SQL Injection,70.196.118.50,high,quarantined
+2025-01-05 08:56:55,DDoS,205.9.52.235,medium,reviewed
+2025-01-21 15:46:25,Malware,49.204.165.141,high,quarantined
+2025-01-24 15:10:11,Suspicious Login,98.15.40.52,medium,blocked
+2025-01-29 02:50:04,Suspicious Login,209.93.15.102,high,blocked
+2025-01-02 20:17:12,Malware,48.184.228.237,medium,quarantined
+2025-01-10 02:23:33,DDoS,214.43.136.196,high,blocked
+2025-01-17 21:55:30,Malware,127.248.140.140,medium,reviewed
+2025-01-12 22:37:49,DDoS,254.107.126.89,high,quarantined
+2025-01-05 13:00:25,DDoS,144.184.233.82,medium,reviewed
+2025-01-26 09:10:09,Malware,226.85.110.34,medium,reviewed
+2025-01-28 05:22:59,DDoS,64.183.85.127,high,blocked
+2025-01-04 21:16:11,Brute Force,94.118.100.167,high,quarantined
+2025-01-02 11:51:30,DDoS,8.135.144.125,high,quarantined
+2025-01-08 19:52:52,DDoS,72.77.125.35,critical,reviewed
+2025-01-25 20:30:14,SQL Injection,133.159.166.13,high,quarantined
+2025-01-26 18:50:22,Suspicious Login,22.239.63.190,medium,reviewed
+2025-01-30 20:20:13,Suspicious Login,124.80.17.141,medium,reviewed
+2025-01-08 07:40:23,SQL Injection,204.28.29.16,critical,reviewed
+2025-01-12 08:34:33,DDoS,23.78.195.73,medium,reviewed
+2025-01-17 15:50:50,Suspicious Login,239.199.38.196,high,reviewed
+2025-01-09 09:42:12,SQL Injection,98.57.170.237,medium,blocked
+2025-01-07 10:12:23,Suspicious Login,221.220.172.191,medium,blocked
+2025-01-14 11:28:26,DDoS,52.54.154.54,medium,blocked
+2025-01-05 16:23:04,Brute Force,43.74.142.192,medium,quarantined
+2025-01-23 14:57:23,Malware,135.220.118.135,medium,quarantined
+2025-01-19 06:28:02,DDoS,211.55.201.17,medium,reviewed
+2025-01-19 01:54:21,Suspicious Login,59.47.249.125,high,reviewed
+2025-01-07 07:13:18,SQL Injection,165.226.243.231,medium,reviewed
+2025-01-04 05:14:37,Brute Force,5.240.216.88,critical,quarantined
+2025-01-30 22:05:14,Malware,231.136.27.27,high,quarantined
+2025-01-18 20:37:50,Suspicious Login,86.138.243.240,high,quarantined
+2025-01-17 06:20:18,Suspicious Login,137.157.4.79,high,quarantined
+2025-01-25 02:01:38,SQL Injection,24.44.246.198,high,reviewed
+2025-01-16 15:29:02,DDoS,221.133.131.187,medium,quarantined
+2025-01-19 03:44:09,Brute Force,108.144.198.212,medium,reviewed
+2025-01-02 10:38:47,Brute Force,60.179.202.77,high,blocked
+2025-01-10 08:03:03,DDoS,124.44.80.174,critical,blocked
+2025-01-06 00:31:55,DDoS,99.100.54.233,high,reviewed
+2025-01-25 14:51:43,Suspicious Login,170.188.77.1,high,blocked
+2025-01-28 02:43:42,Suspicious Login,239.52.85.215,medium,blocked
+2025-01-23 08:42:58,Suspicious Login,147.240.206.20,high,blocked
+2025-01-02 20:21:54,Suspicious Login,115.56.69.243,medium,reviewed
+2025-01-16 22:00:46,Brute Force,84.137.77.221,medium,blocked
+2025-01-15 11:58:44,DDoS,193.58.111.14,medium,blocked
+2025-01-18 04:26:46,Malware,237.40.27.201,medium,blocked
+2025-01-19 16:07:25,Brute Force,139.40.235.67,medium,reviewed
+2025-01-16 03:11:27,DDoS,87.6.30.101,high,blocked
+2025-01-12 21:27:30,DDoS,70.110.116.207,medium,quarantined
+2025-01-10 00:06:32,DDoS,9.29.193.77,medium,reviewed
+2025-01-07 10:42:37,DDoS,151.188.212.165,medium,reviewed
+2025-01-10 13:05:27,Malware,145.6.19.168,medium,quarantined
+2025-01-11 02:10:41,Malware,74.235.34.249,medium,reviewed
+2025-01-24 18:23:31,DDoS,223.204.25.170,medium,blocked
+2025-01-25 00:02:10,Suspicious Login,21.67.175.234,medium,reviewed
+2025-01-29 09:58:28,Suspicious Login,84.140.136.49,critical,blocked
+2025-01-11 07:20:25,Brute Force,142.220.180.211,medium,quarantined
+2025-01-12 04:40:09,Malware,53.136.68.63,high,blocked
+2025-01-18 10:12:44,DDoS,168.140.1.158,medium,blocked
+2025-01-27 02:44:26,DDoS,39.118.135.160,high,reviewed
+2025-01-21 08:03:49,Malware,220.56.34.187,medium,quarantined
+2025-01-13 21:12:59,DDoS,145.231.68.38,medium,quarantined
+2025-01-14 09:07:34,DDoS,126.107.106.139,medium,reviewed
+2025-01-24 08:41:27,Brute Force,192.75.30.11,critical,reviewed
+2025-01-13 05:06:18,SQL Injection,81.129.116.172,medium,reviewed
+2025-01-09 08:06:31,Brute Force,44.201.208.240,medium,blocked
+2025-01-17 23:47:58,Suspicious Login,127.211.197.37,medium,quarantined
+2025-01-05 03:53:24,Malware,234.136.139.119,medium,reviewed
+2025-01-30 20:47:32,DDoS,83.160.209.56,high,reviewed
+2025-01-13 23:45:18,SQL Injection,77.187.102.118,critical,reviewed
+2025-01-05 04:19:24,Suspicious Login,254.237.110.142,critical,blocked
+2025-01-16 10:28:53,Suspicious Login,54.74.40.9,high,blocked
+2025-01-17 12:34:58,Suspicious Login,184.78.63.18,high,blocked
+2025-01-21 08:48:36,SQL Injection,195.27.80.50,high,reviewed
+2025-01-29 12:47:16,Brute Force,147.74.94.206,high,blocked
+2025-01-07 06:41:47,SQL Injection,227.217.150.122,medium,blocked
+2025-01-14 11:09:31,Brute Force,200.168.82.19,high,blocked
+2025-01-24 02:55:32,SQL Injection,98.165.10.88,medium,quarantined
+2025-01-30 17:19:22,Brute Force,190.2.123.74,critical,reviewed
+2025-01-07 16:09:00,Malware,124.237.254.1,medium,blocked
+2025-01-17 02:29:31,Suspicious Login,234.32.113.254,medium,reviewed
+2025-01-11 06:54:28,Suspicious Login,244.230.87.50,critical,quarantined
+2025-01-14 00:12:00,DDoS,80.95.163.17,medium,quarantined
+2025-01-03 03:47:58,Malware,56.196.45.144,medium,quarantined
+2025-01-29 00:41:52,Brute Force,88.81.128.119,high,reviewed
+2025-01-03 04:42:53,DDoS,47.211.116.155,medium,reviewed
+2025-01-14 17:00:48,DDoS,179.171.154.56,high,blocked

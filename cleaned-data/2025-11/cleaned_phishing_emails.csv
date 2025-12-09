@@ -1,0 +1,4 @@
+timestamp,sender,subject,severity,action_taken
+2025-01-03 08:05,fake@paypal.com,Urgent: Account Locked!,high,blocked
+2025-01-03 08:45,hr-support@company.com,Updated HR Policies,medium,flagged
+2025-01-03 09:30,unknown@mail.ru,Invoice Attached,critical,blocked

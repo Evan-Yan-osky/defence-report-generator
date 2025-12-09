@@ -1,0 +1,4 @@
+timestamp,alert_type,source_ip,severity,status
+2025-01-02 09:41,Brute Force,45.33.21.9,critical,blocked
+2025-01-02 10:12,Malware,113.53.29.2,high,quarantined
+2025-01-02 11:50,Suspicious Login,89.22.11.4,medium,reviewed

@@ -1,0 +1,6078 @@
+{
+  "month": "2025-11",
+  "timestamp": "2025-11-25T16:09:13.760523",
+  "total_incidents": 155,
+  "total_threats": 101,
+  "total_vulnerabilities": 1,
+  "severity_summary": {
+    "medium": 1768,
+    "critical": 626,
+    "high": 1338
+  },
+  "event_type_summary": {
+    "incident": 1276,
+    "unknown": 1913,
+    "threat": 542,
+    "vulnerability": 1
+  },
+  "top_ips": {
+    "192.168.15.117": 2,
+    "192.168.86.96": 2,
+    "192.168.215.122": 2,
+    "192.168.95.162": 2,
+    "192.168.26.29": 2,
+    "192.168.106.145": 2,
+    "192.168.74.86": 2,
+    "192.168.62.138": 2,
+    "192.168.217.10": 2,
+    "192.168.249.164": 2,
+    "192.168.222.13": 2,
+    "192.168.209.123": 2,
+    "192.168.176.202": 2,
+    "192.168.224.57": 1,
+    "25.65.255.151": 1,
+    "192.168.234.64": 1,
+    "255.228.213.5": 1,
+    "52.241.102.66": 1,
+    "192.168.197.19": 1,
+    "222.250.58.19": 1
+  },
+  "top_users": {},
+  "file_analyses": {
+    "cleaned_firewall_large.csv": {
+      "incidents": [
+        {
+          "row": {
+            "timestamp": "2025-01-15 05:37:20",
+            "source_ip": "192.168.224.57",
+            "destination_ip": "25.65.255.151",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-15 05:37:20 192.168.224.57 25.65.255.151 blocked medium Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-28 16:15:51",
+            "source_ip": "192.168.197.19",
+            "destination_ip": "222.250.58.19",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Brute-force attempt"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-28 16:15:51 192.168.197.19 222.250.58.19 blocked medium Brute-force attempt"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 13:25:24",
+            "source_ip": "192.168.169.59",
+            "destination_ip": "66.77.57.105",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Normal traffic"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-03 13:25:24 192.168.169.59 66.77.57.105 blocked high Normal traffic"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-28 04:13:16",
+            "source_ip": "192.168.157.61",
+            "destination_ip": "17.4.155.178",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Brute-force attempt"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-28 04:13:16 192.168.157.61 17.4.155.178 blocked medium Brute-force attempt"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 19:34:53",
+            "source_ip": "192.168.74.198",
+            "destination_ip": "157.88.143.89",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Brute-force attempt"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-26 19:34:53 192.168.74.198 157.88.143.89 blocked high Brute-force attempt"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-09 10:25:58",
+            "source_ip": "192.168.86.96",
+            "destination_ip": "164.225.213.51",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-09 10:25:58 192.168.86.96 164.225.213.51 blocked medium Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-04 07:45:20",
+            "source_ip": "192.168.45.212",
+            "destination_ip": "55.39.90.204",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Normal traffic"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-04 07:45:20 192.168.45.212 55.39.90.204 blocked medium Normal traffic"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 15:46:12",
+            "source_ip": "192.168.193.214",
+            "destination_ip": "231.166.180.79",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-29 15:46:12 192.168.193.214 231.166.180.79 blocked critical Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 11:59:04",
+            "source_ip": "192.168.235.71",
+            "destination_ip": "241.146.145.229",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-20 11:59:04 192.168.235.71 241.146.145.229 blocked critical Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 05:42:32",
+            "source_ip": "192.168.254.36",
+            "destination_ip": "16.231.215.138",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Brute-force attempt"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-23 05:42:32 192.168.254.36 16.231.215.138 blocked critical Brute-force attempt"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-13 00:09:37",
+            "source_ip": "192.168.107.176",
+            "destination_ip": "56.181.40.97",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Normal traffic"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-13 00:09:37 192.168.107.176 56.181.40.97 blocked critical Normal traffic"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 10:53:32",
+            "source_ip": "192.168.152.193",
+            "destination_ip": "150.65.170.225",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-24 10:53:32 192.168.152.193 150.65.170.225 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-08 13:32:38",
+            "source_ip": "192.168.84.146",
+            "destination_ip": "194.35.207.155",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Brute-force attempt"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-08 13:32:38 192.168.84.146 194.35.207.155 blocked medium Brute-force attempt"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 09:40:38",
+            "source_ip": "192.168.198.216",
+            "destination_ip": "238.244.22.2",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-24 09:40:38 192.168.198.216 238.244.22.2 blocked medium Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 00:13:45",
+            "source_ip": "192.168.157.202",
+            "destination_ip": "138.43.117.86",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-02 00:13:45 192.168.157.202 138.43.117.86 blocked medium Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 03:18:46",
+            "source_ip": "192.168.144.128",
+            "destination_ip": "142.29.162.139",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-23 03:18:46 192.168.144.128 142.29.162.139 blocked medium Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 12:51:34",
+            "source_ip": "192.168.59.119",
+            "destination_ip": "47.210.193.144",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-22 12:51:34 192.168.59.119 47.210.193.144 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-05 01:42:26",
+            "source_ip": "192.168.12.26",
+            "destination_ip": "62.15.202.113",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-05 01:42:26 192.168.12.26 62.15.202.113 blocked critical Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 23:34:49",
+            "source_ip": "192.168.208.157",
+            "destination_ip": "9.37.162.73",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-18 23:34:49 192.168.208.157 9.37.162.73 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 12:24:48",
+            "source_ip": "192.168.56.159",
+            "destination_ip": "72.8.251.195",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-29 12:24:48 192.168.56.159 72.8.251.195 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-04 11:35:31",
+            "source_ip": "192.168.149.113",
+            "destination_ip": "104.150.91.106",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-04 11:35:31 192.168.149.113 104.150.91.106 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 21:00:30",
+            "source_ip": "192.168.21.168",
+            "destination_ip": "142.210.93.47",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-27 21:00:30 192.168.21.168 142.210.93.47 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-17 11:57:24",
+            "source_ip": "192.168.203.39",
+            "destination_ip": "133.223.162.157",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-17 11:57:24 192.168.203.39 133.223.162.157 blocked medium Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 05:36:51",
+            "source_ip": "192.168.100.99",
+            "destination_ip": "139.34.211.118",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-14 05:36:51 192.168.100.99 139.34.211.118 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 10:12:50",
+            "source_ip": "192.168.137.218",
+            "destination_ip": "109.172.65.189",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-26 10:12:50 192.168.137.218 109.172.65.189 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 02:12:51",
+            "source_ip": "192.168.58.88",
+            "destination_ip": "202.97.191.94",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Normal traffic"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-14 02:12:51 192.168.58.88 202.97.191.94 blocked medium Normal traffic"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-21 06:16:28",
+            "source_ip": "192.168.58.70",
+            "destination_ip": "219.92.100.7",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-21 06:16:28 192.168.58.70 219.92.100.7 blocked medium Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 00:24:39",
+            "source_ip": "192.168.181.247",
+            "destination_ip": "125.240.92.231",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-27 00:24:39 192.168.181.247 125.240.92.231 blocked medium Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 04:29:00",
+            "source_ip": "192.168.232.97",
+            "destination_ip": "1.59.55.144",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-18 04:29:00 192.168.232.97 1.59.55.144 blocked medium Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 02:42:29",
+            "source_ip": "192.168.207.217",
+            "destination_ip": "48.158.67.30",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Brute-force attempt"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-14 02:42:29 192.168.207.217 48.158.67.30 blocked medium Brute-force attempt"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 14:21:43",
+            "source_ip": "192.168.174.197",
+            "destination_ip": "15.216.228.161",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-20 14:21:43 192.168.174.197 15.216.228.161 blocked medium Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 16:33:08",
+            "source_ip": "192.168.149.236",
+            "destination_ip": "192.123.167.153",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-07 16:33:08 192.168.149.236 192.123.167.153 blocked high Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 23:30:07",
+            "source_ip": "192.168.77.222",
+            "destination_ip": "242.130.35.48",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-20 23:30:07 192.168.77.222 242.130.35.48 blocked high Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 13:31:20",
+            "source_ip": "192.168.37.27",
+            "destination_ip": "124.222.153.10",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-23 13:31:20 192.168.37.27 124.222.153.10 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-09 08:05:03",
+            "source_ip": "192.168.226.84",
+            "destination_ip": "47.81.153.121",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-09 08:05:03 192.168.226.84 47.81.153.121 blocked high Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-11 20:18:06",
+            "source_ip": "192.168.180.181",
+            "destination_ip": "111.231.25.22",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-11 20:18:06 192.168.180.181 111.231.25.22 blocked high Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-28 12:32:17",
+            "source_ip": "192.168.93.154",
+            "destination_ip": "6.67.171.150",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-28 12:32:17 192.168.93.154 6.67.171.150 blocked medium Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 22:04:32",
+            "source_ip": "192.168.110.182",
+            "destination_ip": "158.231.96.51",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Brute-force attempt"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-02 22:04:32 192.168.110.182 158.231.96.51 blocked medium Brute-force attempt"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-09 03:00:54",
+            "source_ip": "192.168.20.176",
+            "destination_ip": "228.124.236.222",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-09 03:00:54 192.168.20.176 228.124.236.222 blocked critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-06 21:17:22",
+            "source_ip": "192.168.41.180",
+            "destination_ip": "244.199.27.84",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Normal traffic"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-06 21:17:22 192.168.41.180 244.199.27.84 blocked medium Normal traffic"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-09 12:44:16",
+            "source_ip": "192.168.34.26",
+            "destination_ip": "111.99.43.14",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-09 12:44:16 192.168.34.26 111.99.43.14 blocked medium Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-11 14:41:36",
+            "source_ip": "192.168.156.149",
+            "destination_ip": "69.239.225.77",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-11 14:41:36 192.168.156.149 69.239.225.77 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 07:08:23",
+            "source_ip": "192.168.0.143",
+            "destination_ip": "21.69.238.210",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Normal traffic"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-24 07:08:23 192.168.0.143 21.69.238.210 blocked high Normal traffic"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 01:38:51",
+            "source_ip": "192.168.8.107",
+            "destination_ip": "228.68.205.39",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-22 01:38:51 192.168.8.107 228.68.205.39 blocked critical Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-06 06:56:58",
+            "source_ip": "192.168.145.39",
+            "destination_ip": "177.151.99.129",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-06 06:56:58 192.168.145.39 177.151.99.129 blocked critical Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 18:24:10",
+            "source_ip": "192.168.159.3",
+            "destination_ip": "164.182.23.235",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-23 18:24:10 192.168.159.3 164.182.23.235 blocked medium Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 05:35:53",
+            "source_ip": "192.168.93.130",
+            "destination_ip": "122.85.222.99",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-14 05:35:53 192.168.93.130 122.85.222.99 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 05:30:08",
+            "source_ip": "192.168.95.143",
+            "destination_ip": "20.31.250.26",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-26 05:30:08 192.168.95.143 20.31.250.26 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 06:55:34",
+            "source_ip": "192.168.50.250",
+            "destination_ip": "201.174.67.233",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-10 06:55:34 192.168.50.250 201.174.67.233 blocked high Suspicious outbound"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 00:00:36",
+            "source_ip": "192.168.160.66",
+            "destination_ip": "238.8.247.188",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Brute-force attempt"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-10 00:00:36 192.168.160.66 238.8.247.188 blocked high Brute-force attempt"
+        }
+      ],
+      "threats": [
+        {
+          "row": {
+            "timestamp": "2025-01-24 10:53:32",
+            "source_ip": "192.168.152.193",
+            "destination_ip": "150.65.170.225",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-24 10:53:32 192.168.152.193 150.65.170.225 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-25 03:11:24",
+            "source_ip": "192.168.215.122",
+            "destination_ip": "3.107.119.211",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-25 03:11:24 192.168.215.122 3.107.119.211 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 07:24:15",
+            "source_ip": "192.168.97.234",
+            "destination_ip": "150.151.100.16",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-02 07:24:15 192.168.97.234 150.151.100.16 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 21:00:21",
+            "source_ip": "192.168.194.150",
+            "destination_ip": "2.118.23.73",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-18 21:00:21 192.168.194.150 2.118.23.73 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-13 03:20:00",
+            "source_ip": "192.168.158.155",
+            "destination_ip": "254.145.10.39",
+            "action": "allowed",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-13 03:20:00 192.168.158.155 254.145.10.39 allowed high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 14:19:06",
+            "source_ip": "192.168.219.186",
+            "destination_ip": "14.190.187.80",
+            "action": "allowed",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-26 14:19:06 192.168.219.186 14.190.187.80 allowed critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 12:51:34",
+            "source_ip": "192.168.59.119",
+            "destination_ip": "47.210.193.144",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-22 12:51:34 192.168.59.119 47.210.193.144 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 23:34:49",
+            "source_ip": "192.168.208.157",
+            "destination_ip": "9.37.162.73",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-18 23:34:49 192.168.208.157 9.37.162.73 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 12:24:48",
+            "source_ip": "192.168.56.159",
+            "destination_ip": "72.8.251.195",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-29 12:24:48 192.168.56.159 72.8.251.195 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 07:22:18",
+            "source_ip": "192.168.51.198",
+            "destination_ip": "160.82.192.226",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-29 07:22:18 192.168.51.198 160.82.192.226 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-04 11:35:31",
+            "source_ip": "192.168.149.113",
+            "destination_ip": "104.150.91.106",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-04 11:35:31 192.168.149.113 104.150.91.106 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 21:00:30",
+            "source_ip": "192.168.21.168",
+            "destination_ip": "142.210.93.47",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-27 21:00:30 192.168.21.168 142.210.93.47 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-16 23:26:27",
+            "source_ip": "192.168.138.224",
+            "destination_ip": "225.255.64.83",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-16 23:26:27 192.168.138.224 225.255.64.83 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 05:36:51",
+            "source_ip": "192.168.100.99",
+            "destination_ip": "139.34.211.118",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-14 05:36:51 192.168.100.99 139.34.211.118 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 03:19:47",
+            "source_ip": "192.168.167.156",
+            "destination_ip": "64.61.85.89",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-27 03:19:47 192.168.167.156 64.61.85.89 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 10:12:50",
+            "source_ip": "192.168.137.218",
+            "destination_ip": "109.172.65.189",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-26 10:12:50 192.168.137.218 109.172.65.189 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-13 17:45:20",
+            "source_ip": "192.168.156.170",
+            "destination_ip": "67.137.47.103",
+            "action": "allowed",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-13 17:45:20 192.168.156.170 67.137.47.103 allowed critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 12:58:25",
+            "source_ip": "192.168.90.254",
+            "destination_ip": "99.180.55.93",
+            "action": "allowed",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-20 12:58:25 192.168.90.254 99.180.55.93 allowed high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 10:26:48",
+            "source_ip": "192.168.22.42",
+            "destination_ip": "229.27.41.214",
+            "action": "allowed",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-20 10:26:48 192.168.22.42 229.27.41.214 allowed high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-16 03:41:01",
+            "source_ip": "192.168.36.100",
+            "destination_ip": "93.132.108.163",
+            "action": "allowed",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-16 03:41:01 192.168.36.100 93.132.108.163 allowed high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 13:31:20",
+            "source_ip": "192.168.37.27",
+            "destination_ip": "124.222.153.10",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-23 13:31:20 192.168.37.27 124.222.153.10 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-09 03:00:54",
+            "source_ip": "192.168.20.176",
+            "destination_ip": "228.124.236.222",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-09 03:00:54 192.168.20.176 228.124.236.222 blocked critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-11 14:41:36",
+            "source_ip": "192.168.156.149",
+            "destination_ip": "69.239.225.77",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-11 14:41:36 192.168.156.149 69.239.225.77 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 05:35:53",
+            "source_ip": "192.168.93.130",
+            "destination_ip": "122.85.222.99",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-14 05:35:53 192.168.93.130 122.85.222.99 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 05:30:08",
+            "source_ip": "192.168.95.143",
+            "destination_ip": "20.31.250.26",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-26 05:30:08 192.168.95.143 20.31.250.26 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 13:01:46",
+            "source_ip": "192.168.193.154",
+            "destination_ip": "120.59.5.204",
+            "action": "allowed",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-24 13:01:46 192.168.193.154 120.59.5.204 allowed critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 09:05:43",
+            "source_ip": "192.168.90.252",
+            "destination_ip": "1.235.104.55",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-02 09:05:43 192.168.90.252 1.235.104.55 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-16 01:21:16",
+            "source_ip": "192.168.225.243",
+            "destination_ip": "159.36.90.91",
+            "action": "allowed",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-16 01:21:16 192.168.225.243 159.36.90.91 allowed high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-19 23:28:48",
+            "source_ip": "192.168.172.73",
+            "destination_ip": "79.204.244.102",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-19 23:28:48 192.168.172.73 79.204.244.102 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-15 19:31:47",
+            "source_ip": "192.168.112.214",
+            "destination_ip": "233.29.68.170",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-15 19:31:47 192.168.112.214 233.29.68.170 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-19 12:40:28",
+            "source_ip": "192.168.42.171",
+            "destination_ip": "152.164.190.211",
+            "action": "allowed",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-19 12:40:28 192.168.42.171 152.164.190.211 allowed critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 11:27:16",
+            "source_ip": "192.168.45.88",
+            "destination_ip": "88.199.87.7",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-07 11:27:16 192.168.45.88 88.199.87.7 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-21 09:50:12",
+            "source_ip": "192.168.26.29",
+            "destination_ip": "222.226.198.66",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-21 09:50:12 192.168.26.29 222.226.198.66 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-13 13:16:09",
+            "source_ip": "192.168.124.116",
+            "destination_ip": "31.127.13.202",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-13 13:16:09 192.168.124.116 31.127.13.202 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-30 21:00:44",
+            "source_ip": "192.168.217.15",
+            "destination_ip": "114.99.65.123",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-30 21:00:44 192.168.217.15 114.99.65.123 blocked medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 11:52:50",
+            "source_ip": "192.168.123.246",
+            "destination_ip": "86.140.20.211",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-03 11:52:50 192.168.123.246 86.140.20.211 blocked critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 19:17:30",
+            "source_ip": "192.168.147.36",
+            "destination_ip": "80.84.252.94",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-10 19:17:30 192.168.147.36 80.84.252.94 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-05 03:21:12",
+            "source_ip": "192.168.157.144",
+            "destination_ip": "129.77.151.34",
+            "action": "allowed",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-05 03:21:12 192.168.157.144 129.77.151.34 allowed critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 05:52:47",
+            "source_ip": "192.168.152.173",
+            "destination_ip": "196.162.47.126",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-29 05:52:47 192.168.152.173 196.162.47.126 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 01:54:26",
+            "source_ip": "192.168.17.138",
+            "destination_ip": "172.210.61.217",
+            "action": "allowed",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-10 01:54:26 192.168.17.138 172.210.61.217 allowed high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 04:43:56",
+            "source_ip": "192.168.199.68",
+            "destination_ip": "255.38.33.53",
+            "action": "blocked",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-03 04:43:56 192.168.199.68 255.38.33.53 blocked critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-28 20:09:14",
+            "source_ip": "192.168.42.103",
+            "destination_ip": "51.119.112.20",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-28 20:09:14 192.168.42.103 51.119.112.20 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 05:25:12",
+            "source_ip": "192.168.116.189",
+            "destination_ip": "252.12.150.247",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-26 05:25:12 192.168.116.189 252.12.150.247 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 13:18:07",
+            "source_ip": "192.168.34.144",
+            "destination_ip": "152.146.155.16",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-14 13:18:07 192.168.34.144 152.146.155.16 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 03:13:07",
+            "source_ip": "192.168.20.47",
+            "destination_ip": "83.90.241.78",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-22 03:13:07 192.168.20.47 83.90.241.78 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 04:26:20",
+            "source_ip": "192.168.23.130",
+            "destination_ip": "76.198.98.112",
+            "action": "allowed",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-27 04:26:20 192.168.23.130 76.198.98.112 allowed medium Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 04:07:37",
+            "source_ip": "192.168.118.60",
+            "destination_ip": "54.233.32.25",
+            "action": "allowed",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-22 04:07:37 192.168.118.60 54.233.32.25 allowed critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 23:22:48",
+            "source_ip": "192.168.217.182",
+            "destination_ip": "213.26.23.239",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-02 23:22:48 192.168.217.182 213.26.23.239 blocked high Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-04 06:17:56",
+            "source_ip": "192.168.200.3",
+            "destination_ip": "135.203.30.36",
+            "action": "allowed",
+            "severity": "critical",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-04 06:17:56 192.168.200.3 135.203.30.36 allowed critical Malware signature found"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-05 20:54:12",
+            "source_ip": "192.168.19.36",
+            "destination_ip": "198.207.169.138",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Malware signature found"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-05 20:54:12 192.168.19.36 198.207.169.138 blocked medium Malware signature found"
+        }
+      ],
+      "vulnerabilities": [],
+      "severity_counts": {
+        "medium": 625,
+        "critical": 214,
+        "high": 385
+      },
+      "event_types": {
+        "incident": 375,
+        "unknown": 613,
+        "threat": 236
+      },
+      "top_ips": {
+        "192.168.15.117": 2,
+        "192.168.86.96": 2,
+        "192.168.215.122": 2,
+        "192.168.95.162": 2,
+        "192.168.26.29": 2,
+        "192.168.106.145": 2,
+        "192.168.74.86": 2,
+        "192.168.62.138": 2,
+        "192.168.217.10": 2,
+        "192.168.249.164": 2,
+        "192.168.222.13": 2,
+        "192.168.209.123": 2,
+        "192.168.176.202": 2,
+        "192.168.224.57": 1,
+        "25.65.255.151": 1,
+        "192.168.234.64": 1,
+        "255.228.213.5": 1,
+        "52.241.102.66": 1,
+        "192.168.197.19": 1,
+        "222.250.58.19": 1
+      },
+      "top_users": {},
+      "total_events": 1224,
+      "date_range": {
+        "earliest": "2025-01-01 00:22:23",
+        "latest": "2025-01-30 22:12:29"
+      }
+    },
+    "cleaned_firewall_log.csv": {
+      "incidents": [
+        {
+          "row": {
+            "timestamp": "2025-01-01 10:15",
+            "source_ip": "192.168.1.10",
+            "destination_ip": "8.8.8.8",
+            "action": "blocked",
+            "severity": "high",
+            "details": "Port scan detected"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-01 10:15 192.168.1.10 8.8.8.8 blocked high Port scan detected"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-01 12:05",
+            "source_ip": "172.16.0.3",
+            "destination_ip": "1.1.1.1",
+            "action": "blocked",
+            "severity": "medium",
+            "details": "Suspicious outbound"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-01 12:05 172.16.0.3 1.1.1.1 blocked medium Suspicious outbound"
+        }
+      ],
+      "threats": [],
+      "vulnerabilities": [],
+      "severity_counts": {
+        "high": 1,
+        "medium": 1
+      },
+      "event_types": {
+        "incident": 2
+      },
+      "top_ips": {
+        "192.168.1.10": 1,
+        "8.8.8.8": 1,
+        "172.16.0.3": 1,
+        "1.1.1.1": 1
+      },
+      "top_users": {},
+      "total_events": 2,
+      "date_range": {
+        "earliest": "2025-01-01 10:15",
+        "latest": "2025-01-01 12:05"
+      }
+    },
+    "cleaned_ids_alerts.csv": {
+      "incidents": [
+        {
+          "row": {
+            "timestamp": "2025-01-02 09:41",
+            "alert_type": "Brute Force",
+            "source_ip": "45.33.21.9",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-02 09:41 Brute Force 45.33.21.9 critical blocked"
+        }
+      ],
+      "threats": [
+        {
+          "row": {
+            "timestamp": "2025-01-02 10:12",
+            "alert_type": "Malware",
+            "source_ip": "113.53.29.2",
+            "severity": "high",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-02 10:12 Malware 113.53.29.2 high quarantined"
+        }
+      ],
+      "vulnerabilities": [],
+      "severity_counts": {
+        "critical": 1,
+        "high": 1,
+        "medium": 1
+      },
+      "event_types": {
+        "incident": 1,
+        "threat": 1,
+        "unknown": 1
+      },
+      "top_ips": {
+        "45.33.21.9": 1,
+        "113.53.29.2": 1,
+        "89.22.11.4": 1
+      },
+      "top_users": {},
+      "total_events": 3,
+      "date_range": {
+        "earliest": "2025-01-02 09:41",
+        "latest": "2025-01-02 11:50"
+      }
+    },
+    "cleaned_ids_large.csv": {
+      "incidents": [
+        {
+          "row": {
+            "timestamp": "2025-01-04 09:11:48",
+            "alert_type": "Brute Force",
+            "source_ip": "140.195.131.47",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-04 09:11:48 Brute Force 140.195.131.47 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 16:26:32",
+            "alert_type": "Suspicious Login",
+            "source_ip": "86.27.104.73",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-23 16:26:32 Suspicious Login 86.27.104.73 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 09:50:12",
+            "alert_type": "Malware",
+            "source_ip": "134.49.43.222",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-24 09:50:12 Malware 134.49.43.222 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-06 15:16:52",
+            "alert_type": "Suspicious Login",
+            "source_ip": "142.154.107.29",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-06 15:16:52 Suspicious Login 142.154.107.29 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 00:50:19",
+            "alert_type": "SQL Injection",
+            "source_ip": "227.233.63.237",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-07 00:50:19 SQL Injection 227.233.63.237 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 22:43:25",
+            "alert_type": "Malware",
+            "source_ip": "199.218.149.59",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-27 22:43:25 Malware 199.218.149.59 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-13 05:39:48",
+            "alert_type": "Suspicious Login",
+            "source_ip": "143.11.41.67",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-13 05:39:48 Suspicious Login 143.11.41.67 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 12:26:50",
+            "alert_type": "DDoS",
+            "source_ip": "75.169.165.157",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-14 12:26:50 DDoS 75.169.165.157 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-08 11:55:38",
+            "alert_type": "DDoS",
+            "source_ip": "234.123.162.205",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-08 11:55:38 DDoS 234.123.162.205 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 12:59:10",
+            "alert_type": "Brute Force",
+            "source_ip": "75.22.94.64",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-27 12:59:10 Brute Force 75.22.94.64 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 06:07:55",
+            "alert_type": "SQL Injection",
+            "source_ip": "161.125.47.61",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-07 06:07:55 SQL Injection 161.125.47.61 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-05 13:43:45",
+            "alert_type": "Malware",
+            "source_ip": "63.105.204.45",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-05 13:43:45 Malware 63.105.204.45 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 15:29:06",
+            "alert_type": "SQL Injection",
+            "source_ip": "161.134.192.69",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-18 15:29:06 SQL Injection 161.134.192.69 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 13:51:57",
+            "alert_type": "Malware",
+            "source_ip": "80.1.185.152",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-23 13:51:57 Malware 80.1.185.152 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-17 15:33:16",
+            "alert_type": "Suspicious Login",
+            "source_ip": "60.120.238.162",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-17 15:33:16 Suspicious Login 60.120.238.162 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-30 03:07:57",
+            "alert_type": "Suspicious Login",
+            "source_ip": "2.22.176.93",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-30 03:07:57 Suspicious Login 2.22.176.93 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 20:03:34",
+            "alert_type": "SQL Injection",
+            "source_ip": "125.55.130.173",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-14 20:03:34 SQL Injection 125.55.130.173 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 05:02:53",
+            "alert_type": "Malware",
+            "source_ip": "14.97.178.113",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-23 05:02:53 Malware 14.97.178.113 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 23:09:41",
+            "alert_type": "Malware",
+            "source_ip": "199.155.67.255",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-26 23:09:41 Malware 199.155.67.255 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-28 20:25:32",
+            "alert_type": "Suspicious Login",
+            "source_ip": "254.245.196.42",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-28 20:25:32 Suspicious Login 254.245.196.42 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 15:05:40",
+            "alert_type": "Malware",
+            "source_ip": "204.7.164.227",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-02 15:05:40 Malware 204.7.164.227 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-12 19:47:23",
+            "alert_type": "SQL Injection",
+            "source_ip": "103.133.10.34",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-12 19:47:23 SQL Injection 103.133.10.34 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 01:37:58",
+            "alert_type": "Malware",
+            "source_ip": "43.180.221.54",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-07 01:37:58 Malware 43.180.221.54 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-25 12:10:08",
+            "alert_type": "Suspicious Login",
+            "source_ip": "245.84.34.94",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-25 12:10:08 Suspicious Login 245.84.34.94 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 14:13:19",
+            "alert_type": "Malware",
+            "source_ip": "85.43.96.251",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-02 14:13:19 Malware 85.43.96.251 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 23:24:39",
+            "alert_type": "Brute Force",
+            "source_ip": "213.179.159.157",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-29 23:24:39 Brute Force 213.179.159.157 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 06:48:21",
+            "alert_type": "Brute Force",
+            "source_ip": "1.73.80.161",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-02 06:48:21 Brute Force 1.73.80.161 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-12 23:06:33",
+            "alert_type": "Brute Force",
+            "source_ip": "148.143.7.89",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-12 23:06:33 Brute Force 148.143.7.89 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 11:07:49",
+            "alert_type": "DDoS",
+            "source_ip": "96.1.81.201",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-29 11:07:49 DDoS 96.1.81.201 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 17:31:22",
+            "alert_type": "DDoS",
+            "source_ip": "115.149.99.199",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-20 17:31:22 DDoS 115.149.99.199 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-19 11:19:31",
+            "alert_type": "Brute Force",
+            "source_ip": "34.49.188.176",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-19 11:19:31 Brute Force 34.49.188.176 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 01:01:27",
+            "alert_type": "Brute Force",
+            "source_ip": "239.177.142.210",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-29 01:01:27 Brute Force 239.177.142.210 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-11 11:41:05",
+            "alert_type": "DDoS",
+            "source_ip": "27.35.193.48",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-11 11:41:05 DDoS 27.35.193.48 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 16:54:44",
+            "alert_type": "SQL Injection",
+            "source_ip": "159.105.225.89",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-18 16:54:44 SQL Injection 159.105.225.89 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 07:45:30",
+            "alert_type": "Suspicious Login",
+            "source_ip": "166.214.219.201",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-18 07:45:30 Suspicious Login 166.214.219.201 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-09 23:11:06",
+            "alert_type": "Suspicious Login",
+            "source_ip": "62.243.41.109",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-09 23:11:06 Suspicious Login 62.243.41.109 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 10:43:29",
+            "alert_type": "Brute Force",
+            "source_ip": "86.68.38.63",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-22 10:43:29 Brute Force 86.68.38.63 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 01:43:43",
+            "alert_type": "DDoS",
+            "source_ip": "35.8.199.74",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-10 01:43:43 DDoS 35.8.199.74 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-21 19:14:25",
+            "alert_type": "DDoS",
+            "source_ip": "239.234.204.68",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-21 19:14:25 DDoS 239.234.204.68 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 13:33:45",
+            "alert_type": "SQL Injection",
+            "source_ip": "179.65.171.43",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-20 13:33:45 SQL Injection 179.65.171.43 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 09:03:46",
+            "alert_type": "Suspicious Login",
+            "source_ip": "242.255.254.18",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-18 09:03:46 Suspicious Login 242.255.254.18 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 06:42:01",
+            "alert_type": "Malware",
+            "source_ip": "37.204.197.104",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-03 06:42:01 Malware 37.204.197.104 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 07:46:56",
+            "alert_type": "Suspicious Login",
+            "source_ip": "143.23.198.149",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-07 07:46:56 Suspicious Login 143.23.198.149 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 10:38:03",
+            "alert_type": "Suspicious Login",
+            "source_ip": "72.49.5.200",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-20 10:38:03 Suspicious Login 72.49.5.200 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 20:42:55",
+            "alert_type": "Malware",
+            "source_ip": "196.184.125.8",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-27 20:42:55 Malware 196.184.125.8 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 07:28:48",
+            "alert_type": "Suspicious Login",
+            "source_ip": "197.121.171.115",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-22 07:28:48 Suspicious Login 197.121.171.115 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 04:33:45",
+            "alert_type": "Malware",
+            "source_ip": "3.173.224.242",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-20 04:33:45 Malware 3.173.224.242 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-30 20:31:31",
+            "alert_type": "SQL Injection",
+            "source_ip": "134.205.113.199",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-30 20:31:31 SQL Injection 134.205.113.199 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-01 10:42:18",
+            "alert_type": "Brute Force",
+            "source_ip": "82.105.27.253",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-01 10:42:18 Brute Force 82.105.27.253 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 20:07:07",
+            "alert_type": "Malware",
+            "source_ip": "228.3.101.16",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-03 20:07:07 Malware 228.3.101.16 high blocked"
+        }
+      ],
+      "threats": [
+        {
+          "row": {
+            "timestamp": "2025-01-08 16:14:36",
+            "alert_type": "Malware",
+            "source_ip": "66.92.109.1",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-08 16:14:36 Malware 66.92.109.1 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 18:22:31",
+            "alert_type": "Malware",
+            "source_ip": "152.19.222.202",
+            "severity": "medium",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-22 18:22:31 Malware 152.19.222.202 medium quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 02:15:01",
+            "alert_type": "Malware",
+            "source_ip": "87.95.225.217",
+            "severity": "medium",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-24 02:15:01 Malware 87.95.225.217 medium quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 09:50:12",
+            "alert_type": "Malware",
+            "source_ip": "134.49.43.222",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-24 09:50:12 Malware 134.49.43.222 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 07:05:18",
+            "alert_type": "Malware",
+            "source_ip": "43.66.53.251",
+            "severity": "critical",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-26 07:05:18 Malware 43.66.53.251 critical reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 22:43:25",
+            "alert_type": "Malware",
+            "source_ip": "199.218.149.59",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-27 22:43:25 Malware 199.218.149.59 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 12:25:59",
+            "alert_type": "Malware",
+            "source_ip": "112.151.128.8",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-03 12:25:59 Malware 112.151.128.8 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-11 16:21:50",
+            "alert_type": "Malware",
+            "source_ip": "5.130.224.222",
+            "severity": "high",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-11 16:21:50 Malware 5.130.224.222 high quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 15:35:27",
+            "alert_type": "Malware",
+            "source_ip": "238.157.107.88",
+            "severity": "medium",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-02 15:35:27 Malware 238.157.107.88 medium quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-05 13:43:45",
+            "alert_type": "Malware",
+            "source_ip": "63.105.204.45",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-05 13:43:45 Malware 63.105.204.45 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 13:51:57",
+            "alert_type": "Malware",
+            "source_ip": "80.1.185.152",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-23 13:51:57 Malware 80.1.185.152 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 05:02:53",
+            "alert_type": "Malware",
+            "source_ip": "14.97.178.113",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-23 05:02:53 Malware 14.97.178.113 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 23:09:41",
+            "alert_type": "Malware",
+            "source_ip": "199.155.67.255",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-26 23:09:41 Malware 199.155.67.255 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-15 03:32:12",
+            "alert_type": "Malware",
+            "source_ip": "213.168.233.28",
+            "severity": "medium",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-15 03:32:12 Malware 213.168.233.28 medium quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 14:25:17",
+            "alert_type": "Malware",
+            "source_ip": "24.185.82.175",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-10 14:25:17 Malware 24.185.82.175 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 15:05:40",
+            "alert_type": "Malware",
+            "source_ip": "204.7.164.227",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-02 15:05:40 Malware 204.7.164.227 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 01:37:58",
+            "alert_type": "Malware",
+            "source_ip": "43.180.221.54",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-07 01:37:58 Malware 43.180.221.54 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 14:13:19",
+            "alert_type": "Malware",
+            "source_ip": "85.43.96.251",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-02 14:13:19 Malware 85.43.96.251 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 17:18:52",
+            "alert_type": "Malware",
+            "source_ip": "59.240.177.253",
+            "severity": "high",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-27 17:18:52 Malware 59.240.177.253 high quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-17 16:18:44",
+            "alert_type": "Malware",
+            "source_ip": "44.194.97.2",
+            "severity": "medium",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-17 16:18:44 Malware 44.194.97.2 medium reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-05 17:26:40",
+            "alert_type": "Malware",
+            "source_ip": "169.250.17.240",
+            "severity": "critical",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-05 17:26:40 Malware 169.250.17.240 critical reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-08 15:45:46",
+            "alert_type": "Malware",
+            "source_ip": "71.14.79.58",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-08 15:45:46 Malware 71.14.79.58 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-25 08:20:23",
+            "alert_type": "Malware",
+            "source_ip": "111.227.159.164",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-25 08:20:23 Malware 111.227.159.164 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 13:59:40",
+            "alert_type": "Malware",
+            "source_ip": "169.108.122.47",
+            "severity": "medium",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-10 13:59:40 Malware 169.108.122.47 medium quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-28 21:09:44",
+            "alert_type": "Malware",
+            "source_ip": "196.62.44.98",
+            "severity": "critical",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-28 21:09:44 Malware 196.62.44.98 critical quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 06:42:01",
+            "alert_type": "Malware",
+            "source_ip": "37.204.197.104",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-03 06:42:01 Malware 37.204.197.104 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 20:42:55",
+            "alert_type": "Malware",
+            "source_ip": "196.184.125.8",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-27 20:42:55 Malware 196.184.125.8 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 04:33:45",
+            "alert_type": "Malware",
+            "source_ip": "3.173.224.242",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-20 04:33:45 Malware 3.173.224.242 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 20:43:04",
+            "alert_type": "Malware",
+            "source_ip": "233.12.59.248",
+            "severity": "high",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-18 20:43:04 Malware 233.12.59.248 high quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 20:07:07",
+            "alert_type": "Malware",
+            "source_ip": "228.3.101.16",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-03 20:07:07 Malware 228.3.101.16 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 03:26:54",
+            "alert_type": "Malware",
+            "source_ip": "169.117.131.75",
+            "severity": "critical",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-14 03:26:54 Malware 169.117.131.75 critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-15 00:08:17",
+            "alert_type": "Malware",
+            "source_ip": "24.247.184.207",
+            "severity": "critical",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-15 00:08:17 Malware 24.247.184.207 critical quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 08:22:02",
+            "alert_type": "Malware",
+            "source_ip": "234.248.202.253",
+            "severity": "critical",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-10 08:22:02 Malware 234.248.202.253 critical reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 04:58:02",
+            "alert_type": "Malware",
+            "source_ip": "167.4.215.61",
+            "severity": "high",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-18 04:58:02 Malware 167.4.215.61 high quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 00:19:04",
+            "alert_type": "Malware",
+            "source_ip": "240.117.48.213",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-26 00:19:04 Malware 240.117.48.213 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-13 08:30:21",
+            "alert_type": "Malware",
+            "source_ip": "94.113.101.228",
+            "severity": "high",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-13 08:30:21 Malware 94.113.101.228 high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 23:16:51",
+            "alert_type": "Malware",
+            "source_ip": "229.124.215.120",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-03 23:16:51 Malware 229.124.215.120 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-11 03:35:27",
+            "alert_type": "Malware",
+            "source_ip": "107.145.23.97",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-11 03:35:27 Malware 107.145.23.97 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 00:20:10",
+            "alert_type": "Malware",
+            "source_ip": "111.215.60.159",
+            "severity": "high",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-27 00:20:10 Malware 111.215.60.159 high quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 01:45:06",
+            "alert_type": "Malware",
+            "source_ip": "50.200.25.147",
+            "severity": "high",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-18 01:45:06 Malware 50.200.25.147 high quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-08 07:29:14",
+            "alert_type": "Malware",
+            "source_ip": "155.220.128.185",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-08 07:29:14 Malware 155.220.128.185 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-19 05:05:56",
+            "alert_type": "Malware",
+            "source_ip": "249.177.47.212",
+            "severity": "critical",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "critical",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-19 05:05:56 Malware 249.177.47.212 critical reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-04 08:40:25",
+            "alert_type": "Malware",
+            "source_ip": "253.180.70.218",
+            "severity": "high",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "high",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-04 08:40:25 Malware 253.180.70.218 high reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-12 04:02:23",
+            "alert_type": "Malware",
+            "source_ip": "59.153.112.250",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-12 04:02:23 Malware 59.153.112.250 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 17:49:46",
+            "alert_type": "Malware",
+            "source_ip": "111.161.20.167",
+            "severity": "medium",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-20 17:49:46 Malware 111.161.20.167 medium reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 16:51:47",
+            "alert_type": "Malware",
+            "source_ip": "110.55.166.87",
+            "severity": "medium",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-26 16:51:47 Malware 110.55.166.87 medium reviewed"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 11:45:16",
+            "alert_type": "Malware",
+            "source_ip": "122.112.216.190",
+            "severity": "medium",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-24 11:45:16 Malware 122.112.216.190 medium quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-21 09:19:51",
+            "alert_type": "Malware",
+            "source_ip": "250.75.103.250",
+            "severity": "medium",
+            "status": "blocked"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware",
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": true
+          },
+          "text": "2025-01-21 09:19:51 Malware 250.75.103.250 medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-13 09:30:29",
+            "alert_type": "Malware",
+            "source_ip": "137.87.98.83",
+            "severity": "medium",
+            "status": "quarantined"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-13 09:30:29 Malware 137.87.98.83 medium quarantined"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 01:54:11",
+            "alert_type": "Malware",
+            "source_ip": "235.226.85.110",
+            "severity": "medium",
+            "status": "reviewed"
+          },
+          "classification": {
+            "type": "threat",
+            "severity": "medium",
+            "keywords_found": [
+              "malware"
+            ],
+            "is_incident": false,
+            "is_threat": true
+          },
+          "text": "2025-01-24 01:54:11 Malware 235.226.85.110 medium reviewed"
+        }
+      ],
+      "vulnerabilities": [],
+      "severity_counts": {
+        "medium": 741,
+        "high": 537,
+        "critical": 222
+      },
+      "event_types": {
+        "unknown": 795,
+        "threat": 305,
+        "incident": 400
+      },
+      "top_ips": {
+        "107.174.221.132": 1,
+        "66.92.109.1": 1,
+        "152.19.222.202": 1,
+        "118.230.232.206": 1,
+        "87.95.225.217": 1,
+        "140.195.131.47": 1,
+        "149.252.12.202": 1,
+        "86.27.104.73": 1,
+        "134.49.43.222": 1,
+        "95.56.75.216": 1,
+        "142.154.107.29": 1,
+        "227.233.63.237": 1,
+        "253.82.143.61": 1,
+        "43.66.53.251": 1,
+        "181.244.125.29": 1,
+        "199.218.149.59": 1,
+        "143.11.41.67": 1,
+        "75.169.165.157": 1,
+        "203.66.228.11": 1,
+        "112.151.128.8": 1
+      },
+      "top_users": {},
+      "total_events": 1500,
+      "date_range": {
+        "earliest": "2025-01-01 00:07:49",
+        "latest": "2025-01-30 23:24:57"
+      }
+    },
+    "cleaned_phishing_emails.csv": {
+      "incidents": [
+        {
+          "row": {
+            "timestamp": "2025-01-03 08:05",
+            "sender": "fake@paypal.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-03 08:05 fake@paypal.com Urgent: Account Locked! high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 09:30",
+            "sender": "unknown@mail.ru",
+            "subject": "Invoice Attached",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-03 09:30 unknown@mail.ru Invoice Attached critical blocked"
+        }
+      ],
+      "threats": [],
+      "vulnerabilities": [
+        {
+          "row": {
+            "timestamp": "2025-01-03 08:45",
+            "sender": "hr-support@company.com",
+            "subject": "Updated HR Policies",
+            "severity": "medium",
+            "action_taken": "flagged"
+          },
+          "classification": {
+            "type": "vulnerability",
+            "severity": "medium",
+            "keywords_found": [
+              "update"
+            ],
+            "is_incident": false,
+            "is_threat": false
+          },
+          "text": "2025-01-03 08:45 hr-support@company.com Updated HR Policies medium flagged"
+        }
+      ],
+      "severity_counts": {
+        "high": 1,
+        "medium": 1,
+        "critical": 1
+      },
+      "event_types": {
+        "incident": 2,
+        "vulnerability": 1
+      },
+      "top_ips": {},
+      "top_users": {},
+      "total_events": 3,
+      "date_range": {
+        "earliest": "2025-01-03 08:05",
+        "latest": "2025-01-03 09:30"
+      }
+    },
+    "cleaned_phishing_large.csv": {
+      "incidents": [
+        {
+          "row": {
+            "timestamp": "2025-01-29 17:39:52",
+            "sender": "service@anz.com",
+            "subject": "Payment Needed",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-29 17:39:52 service@anz.com Payment Needed medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-11 09:55:33",
+            "sender": "fake@paypal.com",
+            "subject": "Payment Needed",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-11 09:55:33 fake@paypal.com Payment Needed medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-28 13:30:37",
+            "sender": "service@anz.com",
+            "subject": "Payment Needed",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-28 13:30:37 service@anz.com Payment Needed medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-05 21:35:00",
+            "sender": "hr-support@company.com",
+            "subject": "Invoice Attached",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-05 21:35:00 hr-support@company.com Invoice Attached high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-17 06:16:08",
+            "sender": "fake@paypal.com",
+            "subject": "Payment Needed",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-17 06:16:08 fake@paypal.com Payment Needed high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-14 13:45:19",
+            "sender": "fake@paypal.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-14 13:45:19 fake@paypal.com Urgent: Account Locked! medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 03:10:24",
+            "sender": "hr-support@company.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-18 03:10:24 hr-support@company.com Urgent: Account Locked! high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 12:16:06",
+            "sender": "security@amazon.com",
+            "subject": "Security Alert",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-02 12:16:06 security@amazon.com Security Alert medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 09:01:40",
+            "sender": "billing@apple.com",
+            "subject": "Document Shared With You",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-22 09:01:40 billing@apple.com Document Shared With You medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-19 23:20:28",
+            "sender": "fake@paypal.com",
+            "subject": "Document Shared With You",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-19 23:20:28 fake@paypal.com Document Shared With You medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-27 01:34:59",
+            "sender": "hr-support@company.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-27 01:34:59 hr-support@company.com Urgent: Account Locked! medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-12 19:08:10",
+            "sender": "unknown@mail.ru",
+            "subject": "Invoice Attached",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-12 19:08:10 unknown@mail.ru Invoice Attached high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-30 07:12:19",
+            "sender": "fake@paypal.com",
+            "subject": "Document Shared With You",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-30 07:12:19 fake@paypal.com Document Shared With You high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-23 15:01:13",
+            "sender": "hr-support@company.com",
+            "subject": "Payment Needed",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-23 15:01:13 hr-support@company.com Payment Needed medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-06 02:33:03",
+            "sender": "billing@apple.com",
+            "subject": "Payment Needed",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-06 02:33:03 billing@apple.com Payment Needed high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 16:45:12",
+            "sender": "hr-support@company.com",
+            "subject": "Invoice Attached",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-07 16:45:12 hr-support@company.com Invoice Attached high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 23:28:27",
+            "sender": "unknown@mail.ru",
+            "subject": "Urgent: Account Locked!",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-18 23:28:27 unknown@mail.ru Urgent: Account Locked! critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 08:49:14",
+            "sender": "security@amazon.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-20 08:49:14 security@amazon.com Urgent: Account Locked! critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-17 19:20:06",
+            "sender": "security@amazon.com",
+            "subject": "Payment Needed",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-17 19:20:06 security@amazon.com Payment Needed high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 11:07:54",
+            "sender": "fake@paypal.com",
+            "subject": "Security Alert",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-26 11:07:54 fake@paypal.com Security Alert medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 09:03:02",
+            "sender": "hr-support@company.com",
+            "subject": "Document Shared With You",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-07 09:03:02 hr-support@company.com Document Shared With You critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-17 09:41:05",
+            "sender": "security@amazon.com",
+            "subject": "Invoice Attached",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-17 09:41:05 security@amazon.com Invoice Attached medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-06 14:58:29",
+            "sender": "fake@paypal.com",
+            "subject": "Security Alert",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-06 14:58:29 fake@paypal.com Security Alert high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-17 15:45:54",
+            "sender": "unknown@mail.ru",
+            "subject": "Urgent: Account Locked!",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-17 15:45:54 unknown@mail.ru Urgent: Account Locked! high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-25 15:07:53",
+            "sender": "unknown@mail.ru",
+            "subject": "Security Alert",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-25 15:07:53 unknown@mail.ru Security Alert medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 00:56:39",
+            "sender": "billing@apple.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-29 00:56:39 billing@apple.com Urgent: Account Locked! high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-16 20:41:31",
+            "sender": "hr-support@company.com",
+            "subject": "Invoice Attached",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-16 20:41:31 hr-support@company.com Invoice Attached high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-20 04:06:29",
+            "sender": "security@amazon.com",
+            "subject": "Document Shared With You",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-20 04:06:29 security@amazon.com Document Shared With You critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 10:01:01",
+            "sender": "service@anz.com",
+            "subject": "Security Alert",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-03 10:01:01 service@anz.com Security Alert medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-16 02:21:01",
+            "sender": "fake@paypal.com",
+            "subject": "Document Shared With You",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-16 02:21:01 fake@paypal.com Document Shared With You high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-09 14:25:12",
+            "sender": "unknown@mail.ru",
+            "subject": "Payment Needed",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-09 14:25:12 unknown@mail.ru Payment Needed critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-03 22:17:02",
+            "sender": "service@anz.com",
+            "subject": "Payment Needed",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-03 22:17:02 service@anz.com Payment Needed high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-26 09:19:16",
+            "sender": "unknown@mail.ru",
+            "subject": "Security Alert",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-26 09:19:16 unknown@mail.ru Security Alert medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-06 22:16:30",
+            "sender": "fake@paypal.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-06 22:16:30 fake@paypal.com Urgent: Account Locked! high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-12 12:57:42",
+            "sender": "unknown@mail.ru",
+            "subject": "Invoice Attached",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-12 12:57:42 unknown@mail.ru Invoice Attached critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 15:14:11",
+            "sender": "service@anz.com",
+            "subject": "Document Shared With You",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-29 15:14:11 service@anz.com Document Shared With You medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 02:52:47",
+            "sender": "billing@apple.com",
+            "subject": "Payment Needed",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-10 02:52:47 billing@apple.com Payment Needed critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-18 06:11:50",
+            "sender": "service@anz.com",
+            "subject": "Payment Needed",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-18 06:11:50 service@anz.com Payment Needed high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-10 05:47:58",
+            "sender": "hr-support@company.com",
+            "subject": "Document Shared With You",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-10 05:47:58 hr-support@company.com Document Shared With You high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-06 23:41:29",
+            "sender": "hr-support@company.com",
+            "subject": "Security Alert",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-06 23:41:29 hr-support@company.com Security Alert high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-24 06:26:06",
+            "sender": "unknown@mail.ru",
+            "subject": "Payment Needed",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-24 06:26:06 unknown@mail.ru Payment Needed medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-16 08:20:34",
+            "sender": "hr-support@company.com",
+            "subject": "Document Shared With You",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-16 08:20:34 hr-support@company.com Document Shared With You medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-17 10:40:45",
+            "sender": "fake@paypal.com",
+            "subject": "Payment Needed",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-17 10:40:45 fake@paypal.com Payment Needed medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-07 22:13:54",
+            "sender": "hr-support@company.com",
+            "subject": "Payment Needed",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-07 22:13:54 hr-support@company.com Payment Needed high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 03:01:58",
+            "sender": "unknown@mail.ru",
+            "subject": "Security Alert",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-02 03:01:58 unknown@mail.ru Security Alert critical blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-22 14:18:48",
+            "sender": "security@amazon.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-22 14:18:48 security@amazon.com Urgent: Account Locked! medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-11 05:15:23",
+            "sender": "security@amazon.com",
+            "subject": "Urgent: Account Locked!",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-11 05:15:23 security@amazon.com Urgent: Account Locked! high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-29 04:12:01",
+            "sender": "billing@apple.com",
+            "subject": "Reset Your Password",
+            "severity": "high",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "high",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-29 04:12:01 billing@apple.com Reset Your Password high blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-09 11:01:09",
+            "sender": "fake@paypal.com",
+            "subject": "Security Alert",
+            "severity": "medium",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "medium",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-09 11:01:09 fake@paypal.com Security Alert medium blocked"
+        },
+        {
+          "row": {
+            "timestamp": "2025-01-02 08:40:00",
+            "sender": "unknown@mail.ru",
+            "subject": "Invoice Attached",
+            "severity": "critical",
+            "action_taken": "blocked"
+          },
+          "classification": {
+            "type": "incident",
+            "severity": "critical",
+            "keywords_found": [
+              "blocked"
+            ],
+            "is_incident": true,
+            "is_threat": false
+          },
+          "text": "2025-01-02 08:40:00 unknown@mail.ru Invoice Attached critical blocked"
+        }
+      ],
+      "threats": [],
+      "vulnerabilities": [],
+      "severity_counts": {
+        "high": 413,
+        "medium": 399,
+        "critical": 188
+      },
+      "event_types": {
+        "unknown": 504,
+        "incident": 496
+      },
+      "top_ips": {},
+      "top_users": {},
+      "total_events": 1000,
+      "date_range": {
+        "earliest": "2025-01-01 01:47:06",
+        "latest": "2025-01-30 22:32:08"
+      }
+    }
+  },
+  "key_incidents": [
+    {
+      "row": {
+        "timestamp": "2025-01-29 15:46:12",
+        "source_ip": "192.168.193.214",
+        "destination_ip": "231.166.180.79",
+        "action": "blocked",
+        "severity": "critical",
+        "details": "Port scan detected"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "critical",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-29 15:46:12 192.168.193.214 231.166.180.79 blocked critical Port scan detected"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-20 11:59:04",
+        "source_ip": "192.168.235.71",
+        "destination_ip": "241.146.145.229",
+        "action": "blocked",
+        "severity": "critical",
+        "details": "Port scan detected"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "critical",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-20 11:59:04 192.168.235.71 241.146.145.229 blocked critical Port scan detected"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-23 05:42:32",
+        "source_ip": "192.168.254.36",
+        "destination_ip": "16.231.215.138",
+        "action": "blocked",
+        "severity": "critical",
+        "details": "Brute-force attempt"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "critical",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-23 05:42:32 192.168.254.36 16.231.215.138 blocked critical Brute-force attempt"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-02 09:41",
+        "alert_type": "Brute Force",
+        "source_ip": "45.33.21.9",
+        "severity": "critical",
+        "status": "blocked"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "critical",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-02 09:41 Brute Force 45.33.21.9 critical blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-03 09:30",
+        "sender": "unknown@mail.ru",
+        "subject": "Invoice Attached",
+        "severity": "critical",
+        "action_taken": "blocked"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "critical",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-03 09:30 unknown@mail.ru Invoice Attached critical blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-03 13:25:24",
+        "source_ip": "192.168.169.59",
+        "destination_ip": "66.77.57.105",
+        "action": "blocked",
+        "severity": "high",
+        "details": "Normal traffic"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-03 13:25:24 192.168.169.59 66.77.57.105 blocked high Normal traffic"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-26 19:34:53",
+        "source_ip": "192.168.74.198",
+        "destination_ip": "157.88.143.89",
+        "action": "blocked",
+        "severity": "high",
+        "details": "Brute-force attempt"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-26 19:34:53 192.168.74.198 157.88.143.89 blocked high Brute-force attempt"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-01 10:15",
+        "source_ip": "192.168.1.10",
+        "destination_ip": "8.8.8.8",
+        "action": "blocked",
+        "severity": "high",
+        "details": "Port scan detected"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-01 10:15 192.168.1.10 8.8.8.8 blocked high Port scan detected"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-23 16:26:32",
+        "alert_type": "Suspicious Login",
+        "source_ip": "86.27.104.73",
+        "severity": "high",
+        "status": "blocked"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-23 16:26:32 Suspicious Login 86.27.104.73 high blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-08 11:55:38",
+        "alert_type": "DDoS",
+        "source_ip": "234.123.162.205",
+        "severity": "high",
+        "status": "blocked"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-08 11:55:38 DDoS 234.123.162.205 high blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-03 08:05",
+        "sender": "fake@paypal.com",
+        "subject": "Urgent: Account Locked!",
+        "severity": "high",
+        "action_taken": "blocked"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-03 08:05 fake@paypal.com Urgent: Account Locked! high blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-05 21:35:00",
+        "sender": "hr-support@company.com",
+        "subject": "Invoice Attached",
+        "severity": "high",
+        "action_taken": "blocked"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-05 21:35:00 hr-support@company.com Invoice Attached high blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-17 06:16:08",
+        "sender": "fake@paypal.com",
+        "subject": "Payment Needed",
+        "severity": "high",
+        "action_taken": "blocked"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-17 06:16:08 fake@paypal.com Payment Needed high blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-18 03:10:24",
+        "sender": "hr-support@company.com",
+        "subject": "Urgent: Account Locked!",
+        "severity": "high",
+        "action_taken": "blocked"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "high",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-18 03:10:24 hr-support@company.com Urgent: Account Locked! high blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-15 05:37:20",
+        "source_ip": "192.168.224.57",
+        "destination_ip": "25.65.255.151",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Suspicious outbound"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "medium",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-15 05:37:20 192.168.224.57 25.65.255.151 blocked medium Suspicious outbound"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-28 16:15:51",
+        "source_ip": "192.168.197.19",
+        "destination_ip": "222.250.58.19",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Brute-force attempt"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "medium",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-28 16:15:51 192.168.197.19 222.250.58.19 blocked medium Brute-force attempt"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-28 04:13:16",
+        "source_ip": "192.168.157.61",
+        "destination_ip": "17.4.155.178",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Brute-force attempt"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "medium",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-28 04:13:16 192.168.157.61 17.4.155.178 blocked medium Brute-force attempt"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-09 10:25:58",
+        "source_ip": "192.168.86.96",
+        "destination_ip": "164.225.213.51",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Suspicious outbound"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "medium",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-09 10:25:58 192.168.86.96 164.225.213.51 blocked medium Suspicious outbound"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-04 07:45:20",
+        "source_ip": "192.168.45.212",
+        "destination_ip": "55.39.90.204",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Normal traffic"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "medium",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-04 07:45:20 192.168.45.212 55.39.90.204 blocked medium Normal traffic"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-01 12:05",
+        "source_ip": "172.16.0.3",
+        "destination_ip": "1.1.1.1",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Suspicious outbound"
+      },
+      "classification": {
+        "type": "incident",
+        "severity": "medium",
+        "keywords_found": [
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": false
+      },
+      "text": "2025-01-01 12:05 172.16.0.3 1.1.1.1 blocked medium Suspicious outbound"
+    }
+  ],
+  "key_threats": [
+    {
+      "row": {
+        "timestamp": "2025-01-26 14:19:06",
+        "source_ip": "192.168.219.186",
+        "destination_ip": "14.190.187.80",
+        "action": "allowed",
+        "severity": "critical",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "critical",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-26 14:19:06 192.168.219.186 14.190.187.80 allowed critical Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-26 07:05:18",
+        "alert_type": "Malware",
+        "source_ip": "43.66.53.251",
+        "severity": "critical",
+        "status": "reviewed"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "critical",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-26 07:05:18 Malware 43.66.53.251 critical reviewed"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-05 13:43:45",
+        "alert_type": "Malware",
+        "source_ip": "63.105.204.45",
+        "severity": "critical",
+        "status": "blocked"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "critical",
+        "keywords_found": [
+          "malware",
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": true
+      },
+      "text": "2025-01-05 13:43:45 Malware 63.105.204.45 critical blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-13 03:20:00",
+        "source_ip": "192.168.158.155",
+        "destination_ip": "254.145.10.39",
+        "action": "allowed",
+        "severity": "high",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "high",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-13 03:20:00 192.168.158.155 254.145.10.39 allowed high Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-29 12:24:48",
+        "source_ip": "192.168.56.159",
+        "destination_ip": "72.8.251.195",
+        "action": "blocked",
+        "severity": "high",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "high",
+        "keywords_found": [
+          "malware",
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": true
+      },
+      "text": "2025-01-29 12:24:48 192.168.56.159 72.8.251.195 blocked high Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-02 10:12",
+        "alert_type": "Malware",
+        "source_ip": "113.53.29.2",
+        "severity": "high",
+        "status": "quarantined"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "high",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-02 10:12 Malware 113.53.29.2 high quarantined"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-08 16:14:36",
+        "alert_type": "Malware",
+        "source_ip": "66.92.109.1",
+        "severity": "high",
+        "status": "reviewed"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "high",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-08 16:14:36 Malware 66.92.109.1 high reviewed"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-03 12:25:59",
+        "alert_type": "Malware",
+        "source_ip": "112.151.128.8",
+        "severity": "high",
+        "status": "reviewed"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "high",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-03 12:25:59 Malware 112.151.128.8 high reviewed"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-11 16:21:50",
+        "alert_type": "Malware",
+        "source_ip": "5.130.224.222",
+        "severity": "high",
+        "status": "quarantined"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "high",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-11 16:21:50 Malware 5.130.224.222 high quarantined"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-24 10:53:32",
+        "source_ip": "192.168.152.193",
+        "destination_ip": "150.65.170.225",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware",
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": true
+      },
+      "text": "2025-01-24 10:53:32 192.168.152.193 150.65.170.225 blocked medium Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-25 03:11:24",
+        "source_ip": "192.168.215.122",
+        "destination_ip": "3.107.119.211",
+        "action": "allowed",
+        "severity": "medium",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-25 03:11:24 192.168.215.122 3.107.119.211 allowed medium Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-02 07:24:15",
+        "source_ip": "192.168.97.234",
+        "destination_ip": "150.151.100.16",
+        "action": "allowed",
+        "severity": "medium",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-02 07:24:15 192.168.97.234 150.151.100.16 allowed medium Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-18 21:00:21",
+        "source_ip": "192.168.194.150",
+        "destination_ip": "2.118.23.73",
+        "action": "allowed",
+        "severity": "medium",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-18 21:00:21 192.168.194.150 2.118.23.73 allowed medium Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-22 12:51:34",
+        "source_ip": "192.168.59.119",
+        "destination_ip": "47.210.193.144",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware",
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": true
+      },
+      "text": "2025-01-22 12:51:34 192.168.59.119 47.210.193.144 blocked medium Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-18 23:34:49",
+        "source_ip": "192.168.208.157",
+        "destination_ip": "9.37.162.73",
+        "action": "blocked",
+        "severity": "medium",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware",
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": true
+      },
+      "text": "2025-01-18 23:34:49 192.168.208.157 9.37.162.73 blocked medium Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-29 07:22:18",
+        "source_ip": "192.168.51.198",
+        "destination_ip": "160.82.192.226",
+        "action": "allowed",
+        "severity": "medium",
+        "details": "Malware signature found"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-29 07:22:18 192.168.51.198 160.82.192.226 allowed medium Malware signature found"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-22 18:22:31",
+        "alert_type": "Malware",
+        "source_ip": "152.19.222.202",
+        "severity": "medium",
+        "status": "quarantined"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-22 18:22:31 Malware 152.19.222.202 medium quarantined"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-24 02:15:01",
+        "alert_type": "Malware",
+        "source_ip": "87.95.225.217",
+        "severity": "medium",
+        "status": "quarantined"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware"
+        ],
+        "is_incident": false,
+        "is_threat": true
+      },
+      "text": "2025-01-24 02:15:01 Malware 87.95.225.217 medium quarantined"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-24 09:50:12",
+        "alert_type": "Malware",
+        "source_ip": "134.49.43.222",
+        "severity": "medium",
+        "status": "blocked"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware",
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": true
+      },
+      "text": "2025-01-24 09:50:12 Malware 134.49.43.222 medium blocked"
+    },
+    {
+      "row": {
+        "timestamp": "2025-01-27 22:43:25",
+        "alert_type": "Malware",
+        "source_ip": "199.218.149.59",
+        "severity": "medium",
+        "status": "blocked"
+      },
+      "classification": {
+        "type": "threat",
+        "severity": "medium",
+        "keywords_found": [
+          "malware",
+          "blocked"
+        ],
+        "is_incident": true,
+        "is_threat": true
+      },
+      "text": "2025-01-27 22:43:25 Malware 199.218.149.59 medium blocked"
+    }
+  ],
+  "trends": {}
+}

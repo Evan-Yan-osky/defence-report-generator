@@ -1,0 +1,1225 @@
+timestamp,source_ip,destination_ip,action,severity,details
+2025-01-15 05:37:20,192.168.224.57,25.65.255.151,blocked,medium,Suspicious outbound
+2025-01-18 01:52:49,192.168.234.64,255.228.213.5,allowed,medium,Suspicious outbound
+2025-01-26 20:40:44,192.168.15.117,52.241.102.66,allowed,critical,Brute-force attempt
+2025-01-28 16:15:51,192.168.197.19,222.250.58.19,blocked,medium,Brute-force attempt
+2025-01-03 13:25:24,192.168.169.59,66.77.57.105,blocked,high,Normal traffic
+2025-01-28 04:13:16,192.168.157.61,17.4.155.178,blocked,medium,Brute-force attempt
+2025-01-26 19:34:53,192.168.74.198,157.88.143.89,blocked,high,Brute-force attempt
+2025-01-08 23:12:39,192.168.165.47,183.254.166.82,allowed,medium,Port scan detected
+2025-01-09 10:25:58,192.168.86.96,164.225.213.51,blocked,medium,Suspicious outbound
+2025-01-18 21:25:18,192.168.153.119,44.152.192.103,allowed,medium,Port scan detected
+2025-01-17 06:27:47,192.168.114.230,58.52.73.20,allowed,medium,Normal traffic
+2025-01-01 22:51:08,192.168.28.225,190.180.79.165,allowed,medium,Normal traffic
+2025-01-04 07:45:20,192.168.45.212,55.39.90.204,blocked,medium,Normal traffic
+2025-01-29 15:46:12,192.168.193.214,231.166.180.79,blocked,critical,Port scan detected
+2025-01-25 04:06:05,192.168.146.196,143.46.105.57,allowed,medium,Port scan detected
+2025-01-26 21:02:59,192.168.201.23,85.142.73.206,allowed,medium,Normal traffic
+2025-01-08 18:30:45,192.168.27.122,141.20.94.138,allowed,critical,Suspicious outbound
+2025-01-20 11:59:04,192.168.235.71,241.146.145.229,blocked,critical,Port scan detected
+2025-01-03 06:13:06,192.168.122.84,194.17.168.56,allowed,medium,Normal traffic
+2025-01-28 10:43:48,192.168.10.133,238.88.226.46,allowed,high,Port scan detected
+2025-01-23 05:42:32,192.168.254.36,16.231.215.138,blocked,critical,Brute-force attempt
+2025-01-13 00:09:37,192.168.107.176,56.181.40.97,blocked,critical,Normal traffic
+2025-01-24 10:53:32,192.168.152.193,150.65.170.225,blocked,medium,Malware signature found
+2025-01-07 06:53:12,192.168.191.243,42.225.101.184,allowed,medium,Port scan detected
+2025-01-24 19:06:46,192.168.100.76,98.58.96.207,allowed,medium,Brute-force attempt
+2025-01-25 03:11:24,192.168.215.122,3.107.119.211,allowed,medium,Malware signature found
+2025-01-02 07:24:15,192.168.97.234,150.151.100.16,allowed,medium,Malware signature found
+2025-01-18 21:00:21,192.168.194.150,2.118.23.73,allowed,medium,Malware signature found
+2025-01-13 03:20:00,192.168.158.155,254.145.10.39,allowed,high,Malware signature found
+2025-01-08 13:32:38,192.168.84.146,194.35.207.155,blocked,medium,Brute-force attempt
+2025-01-24 09:40:38,192.168.198.216,238.244.22.2,blocked,medium,Port scan detected
+2025-01-18 08:01:49,192.168.234.15,240.29.160.213,allowed,critical,Brute-force attempt
+2025-01-14 12:02:38,192.168.133.125,123.203.150.42,allowed,medium,Brute-force attempt
+2025-01-02 00:13:45,192.168.157.202,138.43.117.86,blocked,medium,Suspicious outbound
+2025-01-29 12:20:51,192.168.7.11,217.143.156.92,allowed,high,Brute-force attempt
+2025-01-26 14:19:06,192.168.219.186,14.190.187.80,allowed,critical,Malware signature found
+2025-01-23 03:18:46,192.168.144.128,142.29.162.139,blocked,medium,Suspicious outbound
+2025-01-22 12:51:34,192.168.59.119,47.210.193.144,blocked,medium,Malware signature found
+2025-01-24 21:10:08,192.168.155.187,135.223.61.73,allowed,medium,Port scan detected
+2025-01-05 01:42:26,192.168.12.26,62.15.202.113,blocked,critical,Port scan detected
+2025-01-10 10:27:20,192.168.188.7,106.49.145.12,allowed,medium,Suspicious outbound
+2025-01-18 23:34:49,192.168.208.157,9.37.162.73,blocked,medium,Malware signature found
+2025-01-09 08:09:56,192.168.134.13,205.181.36.152,allowed,high,Brute-force attempt
+2025-01-04 19:51:39,192.168.229.253,34.145.192.181,allowed,critical,Suspicious outbound
+2025-01-29 12:24:48,192.168.56.159,72.8.251.195,blocked,high,Malware signature found
+2025-01-29 07:22:18,192.168.51.198,160.82.192.226,allowed,medium,Malware signature found
+2025-01-04 11:35:31,192.168.149.113,104.150.91.106,blocked,high,Malware signature found
+2025-01-27 21:00:30,192.168.21.168,142.210.93.47,blocked,medium,Malware signature found
+2025-01-19 12:45:38,192.168.22.170,131.242.18.138,allowed,medium,Brute-force attempt
+2025-01-22 06:20:08,192.168.186.255,32.18.73.50,allowed,critical,Port scan detected
+2025-01-17 11:57:24,192.168.203.39,133.223.162.157,blocked,medium,Suspicious outbound
+2025-01-16 23:26:27,192.168.138.224,225.255.64.83,allowed,medium,Malware signature found
+2025-01-17 08:26:19,192.168.201.231,19.197.76.32,allowed,medium,Suspicious outbound
+2025-01-12 04:43:15,192.168.100.224,10.82.63.142,allowed,high,Brute-force attempt
+2025-01-14 05:36:51,192.168.100.99,139.34.211.118,blocked,medium,Malware signature found
+2025-01-27 03:19:47,192.168.167.156,64.61.85.89,allowed,medium,Malware signature found
+2025-01-26 10:12:50,192.168.137.218,109.172.65.189,blocked,medium,Malware signature found
+2025-01-14 17:55:26,192.168.253.160,239.58.36.196,allowed,high,Port scan detected
+2025-01-14 02:12:51,192.168.58.88,202.97.191.94,blocked,medium,Normal traffic
+2025-01-13 08:43:53,192.168.3.23,220.121.169.238,allowed,critical,Suspicious outbound
+2025-01-25 20:33:06,192.168.6.123,132.245.80.188,allowed,critical,Port scan detected
+2025-01-21 06:16:28,192.168.58.70,219.92.100.7,blocked,medium,Port scan detected
+2025-01-13 17:45:20,192.168.156.170,67.137.47.103,allowed,critical,Malware signature found
+2025-01-20 08:32:08,192.168.69.27,162.122.79.230,allowed,medium,Port scan detected
+2025-01-27 00:24:39,192.168.181.247,125.240.92.231,blocked,medium,Port scan detected
+2025-01-18 04:29:00,192.168.232.97,1.59.55.144,blocked,medium,Port scan detected
+2025-01-20 12:58:25,192.168.90.254,99.180.55.93,allowed,high,Malware signature found
+2025-01-20 10:26:48,192.168.22.42,229.27.41.214,allowed,high,Malware signature found
+2025-01-23 01:15:11,192.168.70.210,218.78.39.3,allowed,medium,Brute-force attempt
+2025-01-22 19:50:10,192.168.12.229,95.66.173.112,allowed,high,Suspicious outbound
+2025-01-16 03:41:01,192.168.36.100,93.132.108.163,allowed,high,Malware signature found
+2025-01-27 08:34:36,192.168.68.45,247.63.218.24,allowed,high,Normal traffic
+2025-01-14 02:42:29,192.168.207.217,48.158.67.30,blocked,medium,Brute-force attempt
+2025-01-17 17:04:42,192.168.72.166,207.187.209.220,allowed,medium,Suspicious outbound
+2025-01-28 22:48:09,192.168.75.145,100.160.204.146,allowed,medium,Brute-force attempt
+2025-01-29 16:15:04,192.168.180.67,53.162.16.10,allowed,high,Normal traffic
+2025-01-20 14:21:43,192.168.174.197,15.216.228.161,blocked,medium,Port scan detected
+2025-01-12 23:48:29,192.168.111.197,47.14.130.221,allowed,medium,Normal traffic
+2025-01-02 07:07:22,192.168.99.214,74.126.139.28,allowed,medium,Suspicious outbound
+2025-01-12 07:40:35,192.168.205.217,109.18.104.106,allowed,medium,Normal traffic
+2025-01-07 16:33:08,192.168.149.236,192.123.167.153,blocked,high,Suspicious outbound
+2025-01-20 23:30:07,192.168.77.222,242.130.35.48,blocked,high,Port scan detected
+2025-01-23 13:31:20,192.168.37.27,124.222.153.10,blocked,medium,Malware signature found
+2025-01-07 15:36:42,192.168.241.98,37.167.216.29,allowed,medium,Normal traffic
+2025-01-21 22:14:18,192.168.154.101,232.157.192.150,allowed,high,Suspicious outbound
+2025-01-09 08:05:03,192.168.226.84,47.81.153.121,blocked,high,Suspicious outbound
+2025-01-11 20:18:06,192.168.180.181,111.231.25.22,blocked,high,Port scan detected
+2025-01-09 16:51:52,192.168.173.172,131.235.87.17,allowed,medium,Brute-force attempt
+2025-01-26 21:58:40,192.168.193.115,64.43.169.111,allowed,medium,Suspicious outbound
+2025-01-28 12:32:17,192.168.93.154,6.67.171.150,blocked,medium,Port scan detected
+2025-01-18 05:13:26,192.168.31.116,19.130.233.246,allowed,critical,Brute-force attempt
+2025-01-06 15:46:48,192.168.47.138,202.253.82.185,allowed,medium,Brute-force attempt
+2025-01-20 08:56:06,192.168.87.80,64.106.92.172,allowed,high,Normal traffic
+2025-01-11 07:35:20,192.168.18.130,254.91.52.7,allowed,high,Port scan detected
+2025-01-07 10:00:41,192.168.101.58,40.233.147.33,allowed,critical,Port scan detected
+2025-01-02 22:04:32,192.168.110.182,158.231.96.51,blocked,medium,Brute-force attempt
+2025-01-09 03:00:54,192.168.20.176,228.124.236.222,blocked,critical,Malware signature found
+2025-01-28 09:46:50,192.168.95.162,128.226.16.217,allowed,critical,Suspicious outbound
+2025-01-01 02:22:43,192.168.120.228,247.2.134.193,allowed,critical,Normal traffic
+2025-01-06 21:17:22,192.168.41.180,244.199.27.84,blocked,medium,Normal traffic
+2025-01-30 15:31:39,192.168.8.159,151.180.114.86,allowed,critical,Port scan detected
+2025-01-27 04:14:42,192.168.208.156,210.11.145.38,allowed,critical,Brute-force attempt
+2025-01-09 12:44:16,192.168.34.26,111.99.43.14,blocked,medium,Suspicious outbound
+2025-01-11 14:41:36,192.168.156.149,69.239.225.77,blocked,medium,Malware signature found
+2025-01-02 05:37:54,192.168.66.87,53.87.213.240,allowed,medium,Brute-force attempt
+2025-01-02 11:41:20,192.168.220.190,156.195.45.133,allowed,medium,Suspicious outbound
+2025-01-24 04:11:31,192.168.128.193,48.154.101.96,allowed,medium,Port scan detected
+2025-01-24 07:08:23,192.168.0.143,21.69.238.210,blocked,high,Normal traffic
+2025-01-22 01:38:51,192.168.8.107,228.68.205.39,blocked,critical,Port scan detected
+2025-01-06 06:56:58,192.168.145.39,177.151.99.129,blocked,critical,Suspicious outbound
+2025-01-23 18:24:10,192.168.159.3,164.182.23.235,blocked,medium,Suspicious outbound
+2025-01-14 05:35:53,192.168.93.130,122.85.222.99,blocked,high,Malware signature found
+2025-01-26 05:30:08,192.168.95.143,20.31.250.26,blocked,medium,Malware signature found
+2025-01-24 13:01:46,192.168.193.154,120.59.5.204,allowed,critical,Malware signature found
+2025-01-10 06:55:34,192.168.50.250,201.174.67.233,blocked,high,Suspicious outbound
+2025-01-08 23:28:47,192.168.134.43,43.142.129.130,allowed,high,Port scan detected
+2025-01-18 00:33:26,192.168.124.34,211.169.132.122,allowed,high,Suspicious outbound
+2025-01-10 00:00:36,192.168.160.66,238.8.247.188,blocked,high,Brute-force attempt
+2025-01-03 12:29:29,192.168.112.206,53.161.211.91,allowed,medium,Brute-force attempt
+2025-01-02 09:05:43,192.168.90.252,1.235.104.55,blocked,high,Malware signature found
+2025-01-22 04:51:51,192.168.128.0,232.78.46.96,allowed,medium,Brute-force attempt
+2025-01-06 06:19:22,192.168.223.44,98.102.233.60,allowed,medium,Brute-force attempt
+2025-01-05 08:28:13,192.168.99.50,82.108.135.66,blocked,high,Brute-force attempt
+2025-01-14 16:09:30,192.168.236.228,113.220.13.11,allowed,high,Normal traffic
+2025-01-01 18:49:05,192.168.195.188,47.82.203.60,allowed,medium,Brute-force attempt
+2025-01-08 23:00:36,192.168.232.124,76.65.130.121,blocked,high,Brute-force attempt
+2025-01-22 21:54:02,192.168.54.4,238.134.200.210,allowed,high,Normal traffic
+2025-01-28 18:01:14,192.168.102.169,235.222.172.193,allowed,medium,Port scan detected
+2025-01-28 03:20:42,192.168.61.158,242.131.164.3,blocked,critical,Brute-force attempt
+2025-01-15 18:28:48,192.168.133.156,12.180.192.67,allowed,medium,Normal traffic
+2025-01-08 17:58:06,192.168.85.73,148.216.253.67,allowed,medium,Normal traffic
+2025-01-19 05:29:21,192.168.176.166,86.251.111.137,allowed,medium,Suspicious outbound
+2025-01-01 20:40:00,192.168.46.8,171.46.188.229,allowed,high,Normal traffic
+2025-01-29 22:17:13,192.168.250.169,186.224.36.137,allowed,high,Port scan detected
+2025-01-13 10:24:57,192.168.133.61,53.84.120.134,blocked,high,Suspicious outbound
+2025-01-24 16:23:02,192.168.229.246,133.22.49.8,allowed,high,Port scan detected
+2025-01-19 08:42:05,192.168.34.124,23.194.185.45,blocked,high,Suspicious outbound
+2025-01-19 10:20:49,192.168.220.200,115.84.88.52,blocked,critical,Brute-force attempt
+2025-01-09 00:53:12,192.168.92.129,64.179.58.247,blocked,high,Brute-force attempt
+2025-01-04 15:49:53,192.168.7.148,78.234.86.40,blocked,medium,Port scan detected
+2025-01-01 02:15:22,192.168.91.184,113.39.74.114,allowed,medium,Brute-force attempt
+2025-01-16 01:21:16,192.168.225.243,159.36.90.91,allowed,high,Malware signature found
+2025-01-09 12:57:18,192.168.78.114,240.186.250.143,allowed,medium,Brute-force attempt
+2025-01-03 01:17:28,192.168.63.24,80.57.219.147,allowed,medium,Suspicious outbound
+2025-01-08 06:52:38,192.168.229.38,218.60.69.247,blocked,high,Normal traffic
+2025-01-19 23:28:48,192.168.172.73,79.204.244.102,blocked,high,Malware signature found
+2025-01-15 19:31:47,192.168.112.214,233.29.68.170,allowed,medium,Malware signature found
+2025-01-12 22:33:37,192.168.185.18,107.144.1.5,allowed,medium,Brute-force attempt
+2025-01-16 04:51:57,192.168.167.250,223.79.115.137,allowed,medium,Port scan detected
+2025-01-19 12:40:28,192.168.42.171,152.164.190.211,allowed,critical,Malware signature found
+2025-01-16 17:50:46,192.168.41.41,219.244.255.136,blocked,high,Normal traffic
+2025-01-08 03:45:43,192.168.251.98,8.134.213.228,allowed,high,Normal traffic
+2025-01-13 13:42:03,192.168.221.38,60.50.153.117,allowed,high,Port scan detected
+2025-01-16 22:02:45,192.168.150.17,92.254.1.185,allowed,high,Brute-force attempt
+2025-01-25 10:57:44,192.168.178.91,198.252.191.141,allowed,high,Port scan detected
+2025-01-07 11:27:16,192.168.45.88,88.199.87.7,allowed,medium,Malware signature found
+2025-01-12 19:52:58,192.168.152.67,106.198.26.4,allowed,medium,Suspicious outbound
+2025-01-19 05:46:13,192.168.153.212,193.156.92.108,allowed,high,Port scan detected
+2025-01-09 21:26:06,192.168.110.117,20.89.24.84,allowed,medium,Normal traffic
+2025-01-08 13:50:50,192.168.32.32,180.50.206.63,blocked,high,Normal traffic
+2025-01-19 07:04:02,192.168.55.249,193.224.25.148,allowed,medium,Normal traffic
+2025-01-15 07:27:56,192.168.215.248,55.153.179.233,allowed,medium,Suspicious outbound
+2025-01-21 09:50:12,192.168.26.29,222.226.198.66,blocked,medium,Malware signature found
+2025-01-21 05:11:10,192.168.142.8,236.99.206.26,blocked,medium,Brute-force attempt
+2025-01-12 20:29:12,192.168.53.51,241.247.156.39,allowed,medium,Normal traffic
+2025-01-17 09:23:30,192.168.230.38,175.161.38.146,allowed,high,Normal traffic
+2025-01-13 13:16:09,192.168.124.116,31.127.13.202,blocked,medium,Malware signature found
+2025-01-06 03:46:10,192.168.5.36,87.198.186.113,allowed,medium,Normal traffic
+2025-01-30 21:00:44,192.168.217.15,114.99.65.123,blocked,medium,Malware signature found
+2025-01-03 17:08:19,192.168.198.142,18.136.106.70,blocked,critical,Normal traffic
+2025-01-03 11:52:50,192.168.123.246,86.140.20.211,blocked,critical,Malware signature found
+2025-01-05 05:21:17,192.168.153.73,255.220.30.198,allowed,medium,Brute-force attempt
+2025-01-10 19:17:30,192.168.147.36,80.84.252.94,blocked,high,Malware signature found
+2025-01-04 14:17:37,192.168.116.141,183.47.193.69,allowed,critical,Suspicious outbound
+2025-01-23 17:36:53,192.168.217.108,216.146.83.162,allowed,medium,Brute-force attempt
+2025-01-05 03:21:12,192.168.157.144,129.77.151.34,allowed,critical,Malware signature found
+2025-01-25 10:56:41,192.168.128.184,162.76.209.71,allowed,medium,Port scan detected
+2025-01-20 05:19:36,192.168.174.64,239.11.242.167,allowed,high,Port scan detected
+2025-01-15 05:32:53,192.168.140.50,86.162.148.188,allowed,medium,Brute-force attempt
+2025-01-26 15:39:49,192.168.173.93,95.244.34.76,allowed,medium,Suspicious outbound
+2025-01-19 10:20:16,192.168.109.88,92.81.43.97,allowed,medium,Brute-force attempt
+2025-01-30 04:31:26,192.168.14.71,180.124.228.225,allowed,high,Normal traffic
+2025-01-29 05:52:47,192.168.152.173,196.162.47.126,blocked,high,Malware signature found
+2025-01-29 18:44:53,192.168.101.43,50.190.74.252,allowed,high,Brute-force attempt
+2025-01-10 03:46:38,192.168.188.70,170.84.176.105,blocked,high,Normal traffic
+2025-01-06 08:28:10,192.168.204.209,170.54.138.109,blocked,high,Port scan detected
+2025-01-30 09:29:56,192.168.145.145,234.253.64.49,allowed,medium,Suspicious outbound
+2025-01-22 18:26:24,192.168.71.154,132.46.114.182,blocked,medium,Brute-force attempt
+2025-01-25 02:56:16,192.168.18.7,236.202.154.51,blocked,medium,Suspicious outbound
+2025-01-01 05:17:08,192.168.137.245,189.22.16.4,blocked,medium,Brute-force attempt
+2025-01-11 17:02:06,192.168.73.35,102.75.42.202,allowed,critical,Suspicious outbound
+2025-01-10 01:54:26,192.168.17.138,172.210.61.217,allowed,high,Malware signature found
+2025-01-02 13:45:54,192.168.213.118,71.28.221.208,blocked,medium,Brute-force attempt
+2025-01-03 04:43:56,192.168.199.68,255.38.33.53,blocked,critical,Malware signature found
+2025-01-05 11:23:26,192.168.94.204,158.68.119.193,allowed,high,Port scan detected
+2025-01-15 10:30:56,192.168.30.222,124.1.87.148,blocked,critical,Normal traffic
+2025-01-03 18:48:30,192.168.23.169,231.254.230.249,allowed,high,Brute-force attempt
+2025-01-28 20:09:14,192.168.42.103,51.119.112.20,allowed,medium,Malware signature found
+2025-01-02 20:12:15,192.168.53.108,32.251.238.97,allowed,medium,Normal traffic
+2025-01-25 19:18:34,192.168.228.107,88.158.131.156,blocked,medium,Normal traffic
+2025-01-18 15:01:27,192.168.182.179,189.61.14.195,blocked,high,Port scan detected
+2025-01-14 14:27:03,192.168.241.91,200.144.163.73,allowed,medium,Normal traffic
+2025-01-09 06:39:12,192.168.86.238,120.141.68.58,allowed,medium,Port scan detected
+2025-01-06 03:01:09,192.168.25.91,120.109.253.96,allowed,medium,Normal traffic
+2025-01-07 00:17:35,192.168.200.202,133.37.133.210,allowed,medium,Normal traffic
+2025-01-15 14:43:00,192.168.145.79,216.235.36.64,blocked,medium,Port scan detected
+2025-01-12 14:19:34,192.168.134.221,58.137.50.47,blocked,high,Normal traffic
+2025-01-25 02:45:48,192.168.108.10,173.189.76.216,blocked,critical,Suspicious outbound
+2025-01-08 14:50:44,192.168.106.145,105.160.174.204,allowed,critical,Port scan detected
+2025-01-06 11:10:33,192.168.125.204,199.195.120.25,allowed,high,Suspicious outbound
+2025-01-12 14:16:15,192.168.32.70,244.255.105.26,blocked,critical,Port scan detected
+2025-01-19 01:50:17,192.168.153.199,197.14.49.225,allowed,high,Brute-force attempt
+2025-01-16 22:29:31,192.168.120.193,120.229.194.249,allowed,medium,Suspicious outbound
+2025-01-06 03:56:54,192.168.249.149,139.249.195.166,allowed,medium,Suspicious outbound
+2025-01-10 07:58:08,192.168.17.105,136.217.85.223,allowed,medium,Brute-force attempt
+2025-01-22 10:53:40,192.168.38.107,100.168.162.163,allowed,critical,Normal traffic
+2025-01-26 05:25:12,192.168.116.189,252.12.150.247,allowed,medium,Malware signature found
+2025-01-21 13:35:45,192.168.39.82,149.79.60.21,allowed,high,Port scan detected
+2025-01-16 22:53:28,192.168.219.87,13.191.14.201,allowed,critical,Normal traffic
+2025-01-28 20:40:26,192.168.224.193,35.181.78.21,allowed,medium,Port scan detected
+2025-01-14 13:18:07,192.168.34.144,152.146.155.16,allowed,medium,Malware signature found
+2025-01-30 05:42:00,192.168.84.222,1.47.58.99,blocked,medium,Port scan detected
+2025-01-23 06:57:17,192.168.238.173,34.169.92.38,allowed,medium,Port scan detected
+2025-01-19 06:25:57,192.168.106.145,14.213.56.236,blocked,critical,Suspicious outbound
+2025-01-22 03:13:07,192.168.20.47,83.90.241.78,allowed,medium,Malware signature found
+2025-01-27 04:26:20,192.168.23.130,76.198.98.112,allowed,medium,Malware signature found
+2025-01-03 09:59:16,192.168.170.159,104.23.161.175,allowed,critical,Normal traffic
+2025-01-22 04:07:37,192.168.118.60,54.233.32.25,allowed,critical,Malware signature found
+2025-01-22 10:02:04,192.168.120.27,153.181.152.18,allowed,medium,Brute-force attempt
+2025-01-02 23:22:48,192.168.217.182,213.26.23.239,blocked,high,Malware signature found
+2025-01-11 03:35:51,192.168.100.107,183.117.54.250,blocked,high,Port scan detected
+2025-01-20 17:34:46,192.168.143.45,32.83.155.173,allowed,high,Brute-force attempt
+2025-01-16 09:47:46,192.168.238.39,177.52.164.128,blocked,medium,Suspicious outbound
+2025-01-09 21:40:30,192.168.191.24,21.148.159.68,blocked,medium,Port scan detected
+2025-01-28 23:06:01,192.168.103.77,48.179.96.50,blocked,critical,Suspicious outbound
+2025-01-04 06:17:56,192.168.200.3,135.203.30.36,allowed,critical,Malware signature found
+2025-01-23 19:22:14,192.168.99.192,39.236.58.123,blocked,high,Port scan detected
+2025-01-08 08:42:38,192.168.201.236,127.87.34.186,allowed,medium,Normal traffic
+2025-01-22 12:02:00,192.168.77.208,148.117.11.54,blocked,high,Normal traffic
+2025-01-09 05:20:12,192.168.56.50,227.30.12.16,blocked,medium,Port scan detected
+2025-01-04 10:53:47,192.168.22.28,212.40.169.194,allowed,medium,Normal traffic
+2025-01-26 05:38:48,192.168.44.101,122.124.220.161,blocked,high,Suspicious outbound
+2025-01-18 10:39:22,192.168.47.94,221.87.119.5,allowed,critical,Normal traffic
+2025-01-21 17:42:09,192.168.249.39,93.13.33.237,allowed,medium,Suspicious outbound
+2025-01-05 20:54:12,192.168.19.36,198.207.169.138,blocked,medium,Malware signature found
+2025-01-10 17:24:08,192.168.59.63,6.110.29.217,allowed,medium,Port scan detected
+2025-01-23 00:17:43,192.168.53.173,7.188.92.228,allowed,high,Malware signature found
+2025-01-23 04:37:58,192.168.121.169,232.247.147.69,allowed,medium,Suspicious outbound
+2025-01-01 23:33:03,192.168.250.40,146.94.171.73,blocked,medium,Brute-force attempt
+2025-01-25 01:06:46,192.168.219.14,19.108.75.18,allowed,medium,Suspicious outbound
+2025-01-03 02:39:41,192.168.192.134,249.230.1.32,allowed,medium,Brute-force attempt
+2025-01-10 11:10:47,192.168.134.15,114.182.38.210,allowed,critical,Suspicious outbound
+2025-01-05 23:00:54,192.168.145.156,104.254.60.60,blocked,critical,Port scan detected
+2025-01-27 12:37:10,192.168.131.136,106.78.24.115,allowed,high,Brute-force attempt
+2025-01-23 19:38:55,192.168.168.183,182.169.195.89,blocked,medium,Brute-force attempt
+2025-01-03 03:30:36,192.168.4.217,22.199.3.71,blocked,critical,Malware signature found
+2025-01-22 18:32:51,192.168.52.31,90.208.37.133,allowed,medium,Port scan detected
+2025-01-21 03:47:28,192.168.124.204,43.141.76.146,allowed,medium,Normal traffic
+2025-01-15 23:44:26,192.168.120.151,69.148.67.36,allowed,medium,Suspicious outbound
+2025-01-29 22:01:14,192.168.254.114,51.8.102.65,allowed,medium,Suspicious outbound
+2025-01-22 14:45:22,192.168.91.160,152.102.145.77,allowed,high,Normal traffic
+2025-01-01 06:49:27,192.168.99.216,114.108.104.114,blocked,critical,Suspicious outbound
+2025-01-19 18:30:40,192.168.87.104,222.83.128.75,allowed,medium,Port scan detected
+2025-01-17 03:59:25,192.168.78.173,101.213.226.160,allowed,medium,Suspicious outbound
+2025-01-15 17:23:18,192.168.74.86,97.78.240.64,allowed,critical,Malware signature found
+2025-01-04 10:31:45,192.168.133.202,175.152.86.186,allowed,high,Suspicious outbound
+2025-01-01 09:22:37,192.168.14.218,36.243.187.246,allowed,high,Brute-force attempt
+2025-01-03 22:20:23,192.168.60.107,4.114.242.87,blocked,medium,Malware signature found
+2025-01-12 20:11:53,192.168.50.55,97.244.199.143,blocked,medium,Malware signature found
+2025-01-25 03:45:23,192.168.52.124,139.87.218.221,blocked,medium,Brute-force attempt
+2025-01-01 09:15:03,192.168.197.186,36.228.156.15,blocked,high,Malware signature found
+2025-01-06 08:38:15,192.168.152.14,27.190.163.177,allowed,critical,Normal traffic
+2025-01-18 12:58:08,192.168.15.133,127.49.93.48,blocked,medium,Brute-force attempt
+2025-01-05 06:26:30,192.168.174.161,35.37.13.189,allowed,critical,Brute-force attempt
+2025-01-05 23:14:15,192.168.251.141,76.141.123.175,allowed,medium,Brute-force attempt
+2025-01-21 08:25:01,192.168.0.66,15.120.2.199,blocked,medium,Normal traffic
+2025-01-07 21:51:36,192.168.8.67,148.94.24.114,blocked,medium,Malware signature found
+2025-01-09 21:55:07,192.168.243.8,254.55.172.246,blocked,medium,Brute-force attempt
+2025-01-14 19:57:01,192.168.49.206,233.102.238.125,allowed,critical,Suspicious outbound
+2025-01-29 16:33:19,192.168.63.88,247.176.214.254,allowed,critical,Brute-force attempt
+2025-01-27 20:55:49,192.168.66.120,153.218.255.181,blocked,medium,Brute-force attempt
+2025-01-23 08:28:41,192.168.147.69,145.193.55.246,allowed,high,Port scan detected
+2025-01-28 07:17:43,192.168.248.146,215.151.110.166,allowed,high,Brute-force attempt
+2025-01-16 16:16:48,192.168.246.150,126.41.199.75,allowed,medium,Port scan detected
+2025-01-23 21:50:04,192.168.240.123,34.126.202.36,blocked,high,Malware signature found
+2025-01-28 14:02:17,192.168.69.98,154.164.251.26,allowed,critical,Brute-force attempt
+2025-01-19 16:40:40,192.168.30.6,151.85.189.61,allowed,high,Normal traffic
+2025-01-20 07:44:04,192.168.75.18,112.14.42.175,allowed,high,Normal traffic
+2025-01-18 15:04:12,192.168.177.193,50.41.136.21,blocked,critical,Port scan detected
+2025-01-25 11:10:34,192.168.93.203,252.143.27.203,blocked,medium,Port scan detected
+2025-01-22 18:17:08,192.168.60.96,227.123.213.58,blocked,medium,Suspicious outbound
+2025-01-29 17:10:51,192.168.5.116,56.162.155.102,allowed,medium,Port scan detected
+2025-01-04 23:25:44,192.168.58.22,58.124.32.155,allowed,critical,Port scan detected
+2025-01-06 08:06:06,192.168.101.29,37.80.53.172,allowed,medium,Malware signature found
+2025-01-14 10:36:30,192.168.78.28,240.230.104.36,allowed,high,Suspicious outbound
+2025-01-09 10:58:07,192.168.108.105,89.237.40.241,allowed,medium,Normal traffic
+2025-01-13 06:19:54,192.168.101.133,223.203.193.173,allowed,medium,Port scan detected
+2025-01-30 12:58:23,192.168.68.20,229.198.119.230,allowed,critical,Brute-force attempt
+2025-01-02 15:16:06,192.168.103.238,248.185.221.152,allowed,high,Malware signature found
+2025-01-13 23:22:09,192.168.8.127,138.246.11.97,blocked,high,Malware signature found
+2025-01-14 15:56:41,192.168.77.46,144.119.150.179,allowed,high,Normal traffic
+2025-01-22 00:04:54,192.168.62.138,184.109.187.153,allowed,medium,Brute-force attempt
+2025-01-03 03:53:08,192.168.234.230,25.209.57.93,blocked,critical,Normal traffic
+2025-01-27 16:18:59,192.168.146.234,246.136.63.123,allowed,medium,Port scan detected
+2025-01-18 09:14:56,192.168.176.56,57.128.208.42,allowed,critical,Suspicious outbound
+2025-01-12 20:10:31,192.168.188.227,238.245.99.141,allowed,medium,Normal traffic
+2025-01-29 22:01:34,192.168.59.31,165.60.18.168,allowed,critical,Malware signature found
+2025-01-25 23:52:37,192.168.252.118,116.4.89.57,blocked,critical,Malware signature found
+2025-01-12 20:22:43,192.168.239.95,118.142.124.65,blocked,high,Normal traffic
+2025-01-28 13:52:36,192.168.73.246,133.79.159.172,allowed,medium,Normal traffic
+2025-01-30 16:02:55,192.168.173.246,70.87.105.160,allowed,critical,Normal traffic
+2025-01-02 13:38:46,192.168.162.96,230.160.139.66,allowed,medium,Suspicious outbound
+2025-01-30 06:43:43,192.168.111.51,21.205.229.57,allowed,medium,Malware signature found
+2025-01-07 04:17:40,192.168.234.227,133.78.27.210,allowed,high,Suspicious outbound
+2025-01-06 03:25:16,192.168.60.63,213.169.249.196,allowed,medium,Brute-force attempt
+2025-01-22 02:00:11,192.168.16.238,75.162.109.172,allowed,high,Suspicious outbound
+2025-01-07 23:02:28,192.168.254.74,146.92.49.216,allowed,medium,Malware signature found
+2025-01-11 17:54:04,192.168.206.253,45.135.156.229,allowed,high,Brute-force attempt
+2025-01-21 04:12:56,192.168.119.186,33.18.94.219,blocked,medium,Malware signature found
+2025-01-11 11:01:40,192.168.23.29,205.216.115.90,blocked,medium,Malware signature found
+2025-01-25 06:18:51,192.168.231.229,169.55.110.217,allowed,medium,Malware signature found
+2025-01-11 17:52:09,192.168.110.146,123.78.44.174,allowed,high,Suspicious outbound
+2025-01-20 14:51:58,192.168.40.219,18.190.194.144,blocked,critical,Suspicious outbound
+2025-01-12 02:46:44,192.168.233.134,75.96.195.85,blocked,medium,Normal traffic
+2025-01-19 02:58:51,192.168.74.72,199.248.38.156,allowed,medium,Normal traffic
+2025-01-27 22:51:43,192.168.28.157,229.82.43.251,allowed,critical,Port scan detected
+2025-01-30 18:25:04,192.168.213.33,162.219.22.108,allowed,medium,Port scan detected
+2025-01-21 05:27:07,192.168.87.187,4.167.125.16,allowed,high,Port scan detected
+2025-01-06 18:36:56,192.168.26.29,219.69.60.81,allowed,medium,Malware signature found
+2025-01-29 03:20:33,192.168.223.7,78.176.118.84,allowed,high,Suspicious outbound
+2025-01-24 03:41:38,192.168.214.50,46.212.126.152,allowed,medium,Malware signature found
+2025-01-27 02:32:34,192.168.124.185,183.11.150.27,allowed,medium,Suspicious outbound
+2025-01-08 00:20:54,192.168.115.140,168.214.12.121,allowed,high,Brute-force attempt
+2025-01-22 17:21:17,192.168.86.22,21.62.65.249,allowed,critical,Malware signature found
+2025-01-22 19:36:28,192.168.123.103,134.96.202.151,blocked,medium,Brute-force attempt
+2025-01-15 17:29:41,192.168.190.64,31.27.3.128,blocked,medium,Normal traffic
+2025-01-13 13:32:04,192.168.97.138,160.250.115.94,allowed,critical,Normal traffic
+2025-01-27 08:44:09,192.168.29.218,124.184.190.106,blocked,medium,Port scan detected
+2025-01-15 01:36:17,192.168.81.152,110.172.56.194,allowed,medium,Port scan detected
+2025-01-15 04:54:20,192.168.170.4,239.2.181.80,blocked,critical,Suspicious outbound
+2025-01-09 04:41:56,192.168.159.205,61.240.22.68,allowed,medium,Port scan detected
+2025-01-01 18:58:52,192.168.23.34,246.54.212.104,allowed,critical,Port scan detected
+2025-01-07 02:49:56,192.168.7.88,120.75.84.73,allowed,medium,Port scan detected
+2025-01-19 16:33:45,192.168.141.123,110.31.86.199,allowed,medium,Normal traffic
+2025-01-19 09:13:50,192.168.47.63,36.66.192.188,blocked,critical,Brute-force attempt
+2025-01-09 00:09:11,192.168.133.148,63.74.127.144,allowed,medium,Suspicious outbound
+2025-01-06 16:31:25,192.168.48.251,205.87.83.143,blocked,high,Malware signature found
+2025-01-09 13:50:48,192.168.12.115,54.34.3.56,allowed,high,Normal traffic
+2025-01-24 08:43:15,192.168.74.74,119.138.99.69,blocked,medium,Port scan detected
+2025-01-17 00:59:52,192.168.87.85,214.96.118.140,allowed,high,Suspicious outbound
+2025-01-05 14:07:34,192.168.6.181,29.132.145.5,allowed,medium,Port scan detected
+2025-01-02 18:54:49,192.168.181.105,141.80.158.81,allowed,critical,Normal traffic
+2025-01-09 20:47:29,192.168.200.5,55.187.111.254,blocked,high,Normal traffic
+2025-01-18 03:36:26,192.168.46.251,229.61.42.237,allowed,high,Suspicious outbound
+2025-01-06 11:45:17,192.168.160.142,51.107.132.111,allowed,medium,Port scan detected
+2025-01-05 22:08:44,192.168.201.51,25.148.240.44,allowed,medium,Port scan detected
+2025-01-01 04:47:12,192.168.219.111,20.154.114.20,allowed,medium,Suspicious outbound
+2025-01-20 14:15:44,192.168.198.232,227.83.91.178,allowed,medium,Normal traffic
+2025-01-04 14:25:19,192.168.44.166,196.202.107.10,allowed,high,Normal traffic
+2025-01-15 15:42:55,192.168.56.55,187.142.50.55,allowed,critical,Brute-force attempt
+2025-01-19 03:38:03,192.168.173.200,101.10.152.248,allowed,medium,Brute-force attempt
+2025-01-07 05:22:24,192.168.19.58,125.35.29.132,blocked,medium,Suspicious outbound
+2025-01-15 02:00:44,192.168.137.17,39.174.194.169,allowed,medium,Malware signature found
+2025-01-12 08:36:10,192.168.25.97,25.110.68.38,allowed,high,Brute-force attempt
+2025-01-09 06:55:32,192.168.107.81,249.195.84.65,blocked,high,Suspicious outbound
+2025-01-01 07:40:22,192.168.177.47,69.207.156.117,allowed,medium,Malware signature found
+2025-01-30 04:07:45,192.168.97.92,20.39.107.31,blocked,medium,Port scan detected
+2025-01-30 20:50:38,192.168.18.0,161.163.41.143,blocked,medium,Normal traffic
+2025-01-27 08:40:31,192.168.31.152,220.58.224.111,allowed,medium,Malware signature found
+2025-01-13 10:14:21,192.168.173.57,63.189.242.197,allowed,high,Suspicious outbound
+2025-01-15 19:25:09,192.168.119.75,59.154.7.71,allowed,medium,Port scan detected
+2025-01-19 16:31:31,192.168.155.141,204.26.247.2,allowed,medium,Brute-force attempt
+2025-01-14 15:32:02,192.168.82.152,148.206.225.25,blocked,medium,Suspicious outbound
+2025-01-12 02:03:29,192.168.145.141,133.25.48.16,blocked,medium,Brute-force attempt
+2025-01-24 05:36:06,192.168.116.114,140.250.167.247,blocked,medium,Brute-force attempt
+2025-01-01 04:27:26,192.168.205.159,79.190.93.159,blocked,critical,Suspicious outbound
+2025-01-05 22:07:51,192.168.246.28,186.48.194.203,blocked,medium,Malware signature found
+2025-01-04 23:50:39,192.168.15.117,201.81.131.243,allowed,medium,Malware signature found
+2025-01-29 22:29:19,192.168.137.102,91.203.31.42,blocked,high,Normal traffic
+2025-01-19 07:15:41,192.168.128.98,190.108.97.44,allowed,medium,Malware signature found
+2025-01-05 10:57:34,192.168.158.97,41.7.234.208,allowed,critical,Suspicious outbound
+2025-01-08 16:49:49,192.168.163.141,104.96.185.168,allowed,medium,Malware signature found
+2025-01-22 08:28:22,192.168.110.132,66.21.124.154,allowed,medium,Normal traffic
+2025-01-26 15:35:57,192.168.125.164,253.135.13.212,blocked,medium,Suspicious outbound
+2025-01-07 08:30:08,192.168.145.204,152.180.182.51,blocked,critical,Brute-force attempt
+2025-01-04 18:50:19,192.168.81.77,82.102.229.41,blocked,medium,Port scan detected
+2025-01-29 08:42:04,192.168.123.145,14.126.236.61,blocked,medium,Suspicious outbound
+2025-01-02 14:39:30,192.168.12.211,160.123.120.169,allowed,medium,Normal traffic
+2025-01-05 09:38:31,192.168.151.208,145.191.21.158,blocked,medium,Brute-force attempt
+2025-01-06 07:19:09,192.168.114.163,96.116.77.59,blocked,high,Normal traffic
+2025-01-14 22:16:38,192.168.117.155,196.125.98.205,allowed,medium,Brute-force attempt
+2025-01-15 16:05:09,192.168.211.66,83.45.137.89,blocked,high,Brute-force attempt
+2025-01-24 03:44:57,192.168.236.219,13.109.166.101,allowed,high,Normal traffic
+2025-01-19 01:41:52,192.168.68.154,103.26.252.186,blocked,medium,Brute-force attempt
+2025-01-22 21:17:48,192.168.156.219,93.48.59.167,allowed,medium,Brute-force attempt
+2025-01-05 05:48:43,192.168.11.72,66.186.164.195,allowed,critical,Brute-force attempt
+2025-01-17 04:13:18,192.168.212.21,74.107.121.78,allowed,high,Port scan detected
+2025-01-15 00:00:21,192.168.234.231,164.224.35.71,blocked,high,Port scan detected
+2025-01-11 23:06:50,192.168.51.207,24.106.150.100,blocked,high,Suspicious outbound
+2025-01-22 09:31:49,192.168.98.140,177.225.91.2,allowed,medium,Malware signature found
+2025-01-28 08:56:21,192.168.1.212,1.54.27.135,blocked,medium,Port scan detected
+2025-01-28 00:31:24,192.168.236.107,51.6.1.52,blocked,high,Suspicious outbound
+2025-01-11 05:57:49,192.168.104.211,187.23.126.159,blocked,critical,Suspicious outbound
+2025-01-21 18:34:06,192.168.39.200,193.251.152.210,blocked,critical,Port scan detected
+2025-01-03 21:54:52,192.168.53.99,186.104.64.14,blocked,critical,Suspicious outbound
+2025-01-12 12:05:22,192.168.24.94,206.41.219.239,allowed,medium,Malware signature found
+2025-01-06 16:24:19,192.168.59.77,146.89.68.36,allowed,medium,Brute-force attempt
+2025-01-25 04:16:08,192.168.231.219,13.14.6.122,allowed,high,Malware signature found
+2025-01-24 19:41:34,192.168.54.196,157.4.156.94,blocked,high,Brute-force attempt
+2025-01-02 07:59:49,192.168.120.187,85.131.119.227,allowed,medium,Normal traffic
+2025-01-28 05:32:45,192.168.3.65,47.7.132.64,blocked,high,Normal traffic
+2025-01-26 12:53:24,192.168.188.184,113.168.197.137,allowed,medium,Brute-force attempt
+2025-01-01 00:22:23,192.168.170.64,192.59.33.173,allowed,high,Normal traffic
+2025-01-18 16:35:09,192.168.219.121,23.42.155.122,allowed,medium,Normal traffic
+2025-01-16 14:29:59,192.168.123.115,86.226.176.228,allowed,medium,Suspicious outbound
+2025-01-05 04:13:18,192.168.9.172,241.243.228.19,allowed,critical,Suspicious outbound
+2025-01-23 18:36:51,192.168.238.227,25.109.246.10,allowed,critical,Normal traffic
+2025-01-26 10:51:24,192.168.52.51,139.193.50.71,blocked,medium,Brute-force attempt
+2025-01-12 09:32:19,192.168.28.89,75.249.113.184,allowed,medium,Port scan detected
+2025-01-21 21:10:01,192.168.252.35,63.14.83.42,blocked,medium,Port scan detected
+2025-01-11 09:49:31,192.168.109.227,163.247.183.35,allowed,medium,Malware signature found
+2025-01-20 23:10:39,192.168.97.41,185.226.107.243,allowed,high,Malware signature found
+2025-01-19 20:40:23,192.168.93.77,118.228.206.237,allowed,medium,Suspicious outbound
+2025-01-08 07:51:32,192.168.247.9,78.36.229.82,blocked,critical,Brute-force attempt
+2025-01-06 22:13:27,192.168.203.64,3.207.88.221,allowed,critical,Malware signature found
+2025-01-15 07:41:29,192.168.251.96,75.231.75.45,allowed,medium,Suspicious outbound
+2025-01-06 14:20:55,192.168.242.45,243.62.30.245,blocked,high,Malware signature found
+2025-01-12 13:06:18,192.168.174.236,44.207.152.182,allowed,critical,Suspicious outbound
+2025-01-21 20:04:27,192.168.33.113,50.138.249.150,allowed,high,Brute-force attempt
+2025-01-14 01:07:06,192.168.94.55,74.5.14.51,allowed,high,Suspicious outbound
+2025-01-29 17:38:49,192.168.227.206,238.158.95.69,allowed,medium,Normal traffic
+2025-01-22 22:25:44,192.168.217.10,2.123.11.7,allowed,medium,Normal traffic
+2025-01-12 07:30:15,192.168.237.226,148.36.126.250,blocked,critical,Brute-force attempt
+2025-01-11 11:57:15,192.168.139.22,24.17.32.47,allowed,high,Normal traffic
+2025-01-18 20:30:06,192.168.92.44,67.220.6.5,allowed,medium,Suspicious outbound
+2025-01-14 22:08:50,192.168.61.224,46.199.244.162,blocked,critical,Malware signature found
+2025-01-28 21:34:10,192.168.24.164,58.76.250.204,blocked,high,Suspicious outbound
+2025-01-02 14:01:05,192.168.6.126,78.17.239.73,allowed,medium,Suspicious outbound
+2025-01-03 08:42:11,192.168.98.94,146.73.23.34,blocked,high,Malware signature found
+2025-01-10 20:24:22,192.168.123.222,1.109.129.99,blocked,high,Malware signature found
+2025-01-16 06:52:48,192.168.6.7,99.9.44.173,allowed,critical,Suspicious outbound
+2025-01-21 13:21:27,192.168.44.53,56.116.242.162,blocked,critical,Suspicious outbound
+2025-01-15 03:14:12,192.168.182.102,39.146.184.89,allowed,critical,Port scan detected
+2025-01-23 07:20:56,192.168.157.186,181.21.147.88,blocked,critical,Brute-force attempt
+2025-01-25 12:31:16,192.168.241.177,154.207.24.151,blocked,medium,Malware signature found
+2025-01-05 13:56:34,192.168.127.144,121.72.19.189,allowed,medium,Normal traffic
+2025-01-30 08:31:42,192.168.182.118,54.164.7.85,allowed,medium,Normal traffic
+2025-01-13 06:47:55,192.168.61.121,54.232.92.220,allowed,medium,Malware signature found
+2025-01-14 03:59:11,192.168.215.15,102.27.172.199,allowed,medium,Port scan detected
+2025-01-14 11:41:01,192.168.141.91,133.162.141.125,allowed,high,Suspicious outbound
+2025-01-18 20:33:25,192.168.40.116,202.89.96.28,blocked,medium,Brute-force attempt
+2025-01-27 11:56:12,192.168.158.94,253.127.234.135,blocked,high,Normal traffic
+2025-01-04 07:41:14,192.168.226.178,156.237.254.51,allowed,high,Malware signature found
+2025-01-12 06:19:31,192.168.181.12,137.248.174.51,blocked,high,Malware signature found
+2025-01-22 02:06:49,192.168.185.85,54.160.203.184,blocked,high,Suspicious outbound
+2025-01-03 14:58:38,192.168.150.82,103.10.168.4,blocked,high,Port scan detected
+2025-01-11 08:31:09,192.168.171.85,104.246.31.251,allowed,critical,Malware signature found
+2025-01-25 08:45:48,192.168.35.166,57.46.239.167,blocked,critical,Malware signature found
+2025-01-11 13:39:34,192.168.40.5,230.55.155.117,allowed,critical,Malware signature found
+2025-01-12 21:17:46,192.168.34.212,24.176.31.9,allowed,medium,Brute-force attempt
+2025-01-02 16:55:25,192.168.24.82,29.6.69.38,blocked,medium,Suspicious outbound
+2025-01-27 11:36:37,192.168.73.75,137.149.135.8,blocked,medium,Malware signature found
+2025-01-03 08:55:17,192.168.218.221,176.160.44.182,allowed,medium,Port scan detected
+2025-01-27 09:27:18,192.168.78.172,1.119.65.154,allowed,medium,Brute-force attempt
+2025-01-23 11:29:12,192.168.18.42,1.24.105.80,allowed,medium,Normal traffic
+2025-01-15 00:28:08,192.168.79.160,40.154.69.90,allowed,high,Normal traffic
+2025-01-11 23:42:42,192.168.108.118,192.173.245.80,blocked,critical,Suspicious outbound
+2025-01-24 16:12:54,192.168.106.94,122.114.211.65,blocked,medium,Malware signature found
+2025-01-19 11:22:20,192.168.131.183,125.140.203.1,allowed,medium,Normal traffic
+2025-01-28 16:07:27,192.168.90.40,61.111.39.228,allowed,medium,Normal traffic
+2025-01-22 06:41:26,192.168.107.227,213.239.160.177,allowed,critical,Port scan detected
+2025-01-10 08:36:55,192.168.45.229,203.41.250.129,blocked,critical,Suspicious outbound
+2025-01-03 09:11:11,192.168.81.103,64.84.98.131,blocked,medium,Suspicious outbound
+2025-01-06 22:28:29,192.168.154.99,250.70.53.117,allowed,high,Malware signature found
+2025-01-20 09:33:45,192.168.129.1,27.216.194.207,blocked,medium,Normal traffic
+2025-01-23 12:01:00,192.168.129.187,82.104.112.151,allowed,high,Suspicious outbound
+2025-01-29 17:10:00,192.168.11.41,244.205.167.178,allowed,high,Port scan detected
+2025-01-18 23:38:47,192.168.207.3,117.125.110.221,allowed,medium,Malware signature found
+2025-01-09 14:51:45,192.168.14.140,165.128.170.4,blocked,medium,Malware signature found
+2025-01-25 10:44:36,192.168.161.0,28.243.13.28,allowed,high,Brute-force attempt
+2025-01-17 06:27:51,192.168.55.173,63.81.189.86,blocked,high,Malware signature found
+2025-01-16 10:23:46,192.168.243.88,153.15.178.192,allowed,critical,Suspicious outbound
+2025-01-02 00:30:11,192.168.92.243,216.179.27.247,allowed,critical,Malware signature found
+2025-01-08 16:05:35,192.168.250.209,45.9.224.56,allowed,medium,Brute-force attempt
+2025-01-26 03:22:02,192.168.106.184,119.148.192.189,blocked,medium,Suspicious outbound
+2025-01-30 17:20:55,192.168.60.163,199.231.19.213,blocked,high,Brute-force attempt
+2025-01-02 02:57:06,192.168.17.114,186.245.152.120,blocked,high,Malware signature found
+2025-01-08 21:27:37,192.168.194.160,216.125.243.16,allowed,high,Brute-force attempt
+2025-01-08 01:08:26,192.168.145.154,61.3.209.160,allowed,medium,Normal traffic
+2025-01-05 11:25:08,192.168.82.166,94.198.165.153,allowed,critical,Normal traffic
+2025-01-23 15:22:05,192.168.3.225,40.10.48.43,blocked,high,Brute-force attempt
+2025-01-06 11:42:44,192.168.13.39,199.152.133.175,allowed,medium,Suspicious outbound
+2025-01-19 16:40:19,192.168.185.226,188.101.167.48,allowed,medium,Suspicious outbound
+2025-01-26 04:00:25,192.168.153.181,153.254.90.238,blocked,high,Port scan detected
+2025-01-11 12:00:04,192.168.233.136,18.106.62.135,blocked,medium,Brute-force attempt
+2025-01-28 16:38:40,192.168.111.12,48.122.155.78,blocked,medium,Suspicious outbound
+2025-01-01 18:16:31,192.168.142.154,152.211.218.133,allowed,medium,Malware signature found
+2025-01-17 13:22:58,192.168.148.206,185.230.206.41,allowed,medium,Port scan detected
+2025-01-29 23:03:31,192.168.189.132,195.163.94.52,allowed,medium,Suspicious outbound
+2025-01-26 15:48:42,192.168.246.238,109.223.81.92,blocked,high,Malware signature found
+2025-01-18 03:08:07,192.168.172.166,23.101.241.153,blocked,high,Brute-force attempt
+2025-01-30 03:19:30,192.168.154.112,31.137.153.205,allowed,high,Brute-force attempt
+2025-01-04 05:36:41,192.168.118.40,54.108.117.44,blocked,critical,Suspicious outbound
+2025-01-02 21:09:49,192.168.148.247,193.252.249.50,blocked,high,Brute-force attempt
+2025-01-22 15:39:35,192.168.217.87,168.38.238.233,blocked,medium,Suspicious outbound
+2025-01-13 13:22:52,192.168.160.200,85.16.119.93,allowed,high,Port scan detected
+2025-01-26 19:38:25,192.168.60.88,47.234.247.37,blocked,critical,Brute-force attempt
+2025-01-07 00:24:23,192.168.13.34,177.208.187.112,allowed,critical,Suspicious outbound
+2025-01-04 02:21:08,192.168.155.130,242.74.189.46,blocked,high,Malware signature found
+2025-01-28 21:32:56,192.168.55.230,20.19.185.66,allowed,medium,Brute-force attempt
+2025-01-26 13:41:36,192.168.40.161,6.124.118.104,blocked,high,Suspicious outbound
+2025-01-16 08:20:40,192.168.233.231,254.156.176.107,allowed,medium,Brute-force attempt
+2025-01-06 14:04:13,192.168.18.158,229.179.182.139,allowed,critical,Brute-force attempt
+2025-01-24 08:02:57,192.168.187.67,225.194.82.121,allowed,medium,Malware signature found
+2025-01-27 08:14:39,192.168.3.37,17.112.31.228,allowed,high,Brute-force attempt
+2025-01-21 19:35:00,192.168.165.151,45.192.184.95,allowed,medium,Port scan detected
+2025-01-01 17:56:20,192.168.218.114,66.129.12.141,allowed,high,Suspicious outbound
+2025-01-29 12:01:53,192.168.229.141,230.177.132.127,blocked,medium,Normal traffic
+2025-01-27 15:58:23,192.168.164.66,89.172.35.63,allowed,high,Brute-force attempt
+2025-01-01 07:32:20,192.168.160.225,49.84.141.110,allowed,high,Normal traffic
+2025-01-01 06:59:14,192.168.122.133,117.69.241.199,allowed,medium,Malware signature found
+2025-01-12 04:29:48,192.168.11.54,82.125.80.124,allowed,medium,Normal traffic
+2025-01-19 16:20:50,192.168.183.241,148.132.44.187,allowed,critical,Port scan detected
+2025-01-10 21:33:04,192.168.50.114,78.28.60.48,blocked,medium,Suspicious outbound
+2025-01-15 07:38:52,192.168.4.8,149.236.92.176,allowed,medium,Normal traffic
+2025-01-18 06:13:48,192.168.215.228,147.134.147.66,allowed,high,Normal traffic
+2025-01-09 17:58:51,192.168.34.96,218.104.59.21,allowed,medium,Normal traffic
+2025-01-29 07:46:53,192.168.210.65,205.34.168.89,allowed,medium,Suspicious outbound
+2025-01-25 01:02:03,192.168.38.171,157.244.212.98,allowed,medium,Suspicious outbound
+2025-01-02 02:26:35,192.168.131.10,32.146.210.54,blocked,medium,Malware signature found
+2025-01-09 07:50:06,192.168.107.26,87.177.205.179,allowed,critical,Brute-force attempt
+2025-01-04 05:47:07,192.168.244.9,44.92.37.222,allowed,medium,Normal traffic
+2025-01-24 01:28:10,192.168.65.178,112.36.66.88,blocked,medium,Brute-force attempt
+2025-01-17 18:22:01,192.168.53.129,74.52.129.223,blocked,high,Port scan detected
+2025-01-08 22:47:11,192.168.198.186,130.22.186.238,blocked,critical,Malware signature found
+2025-01-13 08:34:00,192.168.197.61,208.225.43.40,allowed,critical,Port scan detected
+2025-01-16 01:50:59,192.168.222.23,232.227.254.17,allowed,medium,Port scan detected
+2025-01-18 21:58:52,192.168.87.55,153.46.2.159,allowed,medium,Suspicious outbound
+2025-01-19 17:46:01,192.168.209.109,191.5.239.3,allowed,high,Brute-force attempt
+2025-01-16 18:40:35,192.168.144.83,11.112.98.239,blocked,medium,Normal traffic
+2025-01-12 04:15:54,192.168.162.50,187.127.39.222,allowed,high,Normal traffic
+2025-01-15 18:22:21,192.168.122.130,148.151.25.126,blocked,high,Suspicious outbound
+2025-01-05 20:21:47,192.168.156.35,82.214.248.14,allowed,medium,Normal traffic
+2025-01-25 02:36:19,192.168.96.177,96.63.117.18,blocked,medium,Brute-force attempt
+2025-01-04 19:11:57,192.168.71.254,166.219.199.54,allowed,medium,Port scan detected
+2025-01-26 02:37:12,192.168.120.148,71.232.197.3,allowed,medium,Malware signature found
+2025-01-10 18:16:09,192.168.4.109,149.19.40.61,allowed,high,Normal traffic
+2025-01-29 15:26:59,192.168.228.25,153.219.229.142,blocked,medium,Suspicious outbound
+2025-01-18 23:29:43,192.168.214.152,99.29.52.147,blocked,medium,Malware signature found
+2025-01-13 17:06:48,192.168.16.2,189.180.191.204,allowed,medium,Suspicious outbound
+2025-01-03 09:40:46,192.168.145.182,49.80.244.187,allowed,high,Port scan detected
+2025-01-24 12:33:58,192.168.177.217,82.208.38.159,blocked,high,Port scan detected
+2025-01-19 01:46:47,192.168.225.206,64.118.171.1,allowed,medium,Brute-force attempt
+2025-01-28 23:42:13,192.168.59.255,71.17.95.195,allowed,critical,Port scan detected
+2025-01-08 00:35:43,192.168.237.39,70.56.131.216,allowed,critical,Normal traffic
+2025-01-04 00:46:53,192.168.252.248,128.38.216.231,allowed,high,Malware signature found
+2025-01-05 11:59:30,192.168.201.68,197.251.128.109,blocked,high,Port scan detected
+2025-01-22 13:45:08,192.168.137.168,17.193.11.216,blocked,critical,Malware signature found
+2025-01-03 01:32:46,192.168.103.187,5.41.30.108,allowed,critical,Normal traffic
+2025-01-24 23:59:22,192.168.23.203,141.89.154.211,blocked,medium,Brute-force attempt
+2025-01-27 01:56:03,192.168.251.4,208.149.187.1,allowed,medium,Brute-force attempt
+2025-01-09 00:48:50,192.168.4.173,249.103.161.25,allowed,high,Malware signature found
+2025-01-29 22:46:42,192.168.234.196,156.129.208.13,blocked,high,Brute-force attempt
+2025-01-11 07:50:22,192.168.196.34,113.69.79.195,allowed,high,Brute-force attempt
+2025-01-11 19:21:54,192.168.196.123,85.42.87.100,allowed,medium,Port scan detected
+2025-01-15 06:28:29,192.168.116.69,253.105.240.6,blocked,medium,Malware signature found
+2025-01-13 01:22:28,192.168.23.64,65.141.229.252,allowed,high,Brute-force attempt
+2025-01-02 07:30:55,192.168.194.20,173.186.115.52,allowed,medium,Brute-force attempt
+2025-01-12 06:47:34,192.168.161.68,1.73.217.225,allowed,high,Suspicious outbound
+2025-01-30 22:12:29,192.168.105.89,145.50.122.126,allowed,critical,Suspicious outbound
+2025-01-16 20:25:44,192.168.75.204,215.11.71.40,allowed,high,Brute-force attempt
+2025-01-08 14:01:29,192.168.45.12,180.191.3.51,allowed,medium,Brute-force attempt
+2025-01-27 20:59:28,192.168.96.56,72.165.229.48,allowed,high,Port scan detected
+2025-01-27 00:06:25,192.168.208.250,212.253.48.242,blocked,medium,Brute-force attempt
+2025-01-24 13:12:17,192.168.20.95,9.113.197.66,blocked,medium,Malware signature found
+2025-01-23 20:54:30,192.168.196.87,195.182.140.111,blocked,medium,Suspicious outbound
+2025-01-17 02:35:58,192.168.116.168,187.154.167.245,allowed,medium,Port scan detected
+2025-01-12 09:13:43,192.168.134.128,2.47.179.78,allowed,critical,Port scan detected
+2025-01-30 07:02:01,192.168.209.49,133.206.20.90,allowed,high,Suspicious outbound
+2025-01-25 06:06:10,192.168.57.129,254.119.19.20,allowed,medium,Brute-force attempt
+2025-01-12 16:15:51,192.168.142.218,86.210.212.65,allowed,medium,Port scan detected
+2025-01-01 10:25:08,192.168.243.17,127.115.216.197,allowed,critical,Normal traffic
+2025-01-11 08:17:21,192.168.222.34,116.154.213.181,allowed,medium,Malware signature found
+2025-01-25 08:14:22,192.168.45.234,124.250.34.177,allowed,high,Malware signature found
+2025-01-27 05:03:21,192.168.49.168,198.28.89.40,blocked,high,Normal traffic
+2025-01-27 05:21:55,192.168.28.138,137.42.102.211,allowed,high,Suspicious outbound
+2025-01-12 03:10:07,192.168.29.114,181.34.252.5,allowed,high,Normal traffic
+2025-01-14 00:25:07,192.168.238.157,175.22.1.108,blocked,high,Suspicious outbound
+2025-01-08 03:18:38,192.168.76.31,204.131.174.224,allowed,medium,Normal traffic
+2025-01-14 22:49:09,192.168.104.68,173.212.201.224,blocked,medium,Suspicious outbound
+2025-01-14 17:13:02,192.168.84.123,65.159.160.132,blocked,high,Malware signature found
+2025-01-07 22:41:01,192.168.204.139,78.31.12.117,blocked,medium,Port scan detected
+2025-01-24 20:03:58,192.168.26.89,185.136.152.141,blocked,medium,Malware signature found
+2025-01-16 22:47:04,192.168.42.248,56.60.22.147,blocked,medium,Normal traffic
+2025-01-22 03:27:51,192.168.140.214,215.30.154.164,allowed,critical,Normal traffic
+2025-01-18 04:15:51,192.168.60.194,94.83.37.13,allowed,medium,Normal traffic
+2025-01-22 13:28:12,192.168.4.115,246.4.226.82,allowed,high,Port scan detected
+2025-01-11 09:12:35,192.168.56.249,203.39.215.50,blocked,high,Normal traffic
+2025-01-27 21:20:24,192.168.214.154,233.83.122.98,blocked,medium,Port scan detected
+2025-01-20 03:53:25,192.168.174.163,220.24.15.6,allowed,medium,Port scan detected
+2025-01-21 08:06:10,192.168.255.109,122.3.142.72,allowed,medium,Port scan detected
+2025-01-15 08:55:41,192.168.152.168,108.153.30.11,allowed,medium,Suspicious outbound
+2025-01-01 21:14:32,192.168.35.185,228.34.130.126,allowed,medium,Brute-force attempt
+2025-01-11 21:52:28,192.168.68.217,215.80.169.175,allowed,medium,Brute-force attempt
+2025-01-13 15:35:50,192.168.236.244,109.228.155.138,blocked,high,Normal traffic
+2025-01-26 20:37:37,192.168.108.149,138.93.20.202,allowed,high,Malware signature found
+2025-01-22 18:41:01,192.168.40.84,215.198.110.69,allowed,high,Brute-force attempt
+2025-01-08 14:46:07,192.168.107.216,72.100.216.247,blocked,high,Normal traffic
+2025-01-10 18:32:48,192.168.113.187,174.40.187.142,allowed,high,Normal traffic
+2025-01-21 08:04:22,192.168.139.9,143.144.142.249,blocked,medium,Brute-force attempt
+2025-01-29 11:06:41,192.168.87.70,191.169.26.27,blocked,medium,Port scan detected
+2025-01-17 00:58:23,192.168.105.125,202.183.122.172,blocked,high,Port scan detected
+2025-01-10 18:33:24,192.168.179.53,101.196.30.179,blocked,medium,Brute-force attempt
+2025-01-18 08:28:56,192.168.178.254,254.164.212.148,blocked,high,Port scan detected
+2025-01-24 12:19:06,192.168.189.73,23.211.191.144,allowed,medium,Port scan detected
+2025-01-19 04:32:54,192.168.50.190,139.249.245.51,allowed,high,Normal traffic
+2025-01-19 02:19:54,192.168.46.1,74.158.167.181,blocked,high,Port scan detected
+2025-01-12 04:17:04,192.168.176.177,12.86.14.200,blocked,critical,Normal traffic
+2025-01-14 00:28:38,192.168.109.254,85.50.193.31,blocked,high,Suspicious outbound
+2025-01-22 17:59:18,192.168.88.145,196.64.165.136,blocked,medium,Suspicious outbound
+2025-01-11 00:24:55,192.168.8.120,29.61.82.124,allowed,critical,Normal traffic
+2025-01-08 16:51:58,192.168.179.124,72.254.225.79,allowed,critical,Port scan detected
+2025-01-19 11:27:12,192.168.131.105,14.70.107.202,allowed,medium,Port scan detected
+2025-01-01 20:09:51,192.168.127.226,41.150.102.19,blocked,medium,Port scan detected
+2025-01-17 05:16:09,192.168.62.99,224.237.119.2,allowed,high,Normal traffic
+2025-01-04 19:10:51,192.168.121.159,85.220.100.16,allowed,high,Brute-force attempt
+2025-01-08 12:22:42,192.168.209.43,52.19.47.250,allowed,medium,Normal traffic
+2025-01-10 22:58:57,192.168.80.69,92.178.160.38,allowed,medium,Suspicious outbound
+2025-01-20 20:38:05,192.168.79.203,155.223.151.225,allowed,critical,Brute-force attempt
+2025-01-19 16:49:18,192.168.23.225,56.121.102.222,allowed,medium,Normal traffic
+2025-01-30 04:29:43,192.168.177.95,128.202.100.143,blocked,high,Brute-force attempt
+2025-01-16 17:07:51,192.168.223.189,219.33.117.93,allowed,medium,Port scan detected
+2025-01-18 18:03:47,192.168.155.136,32.112.33.240,blocked,medium,Port scan detected
+2025-01-22 15:42:43,192.168.144.214,14.217.131.162,blocked,critical,Port scan detected
+2025-01-05 04:07:06,192.168.13.100,134.43.68.61,allowed,high,Port scan detected
+2025-01-12 12:32:08,192.168.15.109,22.161.192.98,allowed,medium,Port scan detected
+2025-01-14 21:14:50,192.168.160.180,52.254.97.106,allowed,high,Normal traffic
+2025-01-26 12:07:30,192.168.139.57,119.103.58.207,allowed,medium,Brute-force attempt
+2025-01-30 11:21:10,192.168.64.173,2.184.96.150,blocked,medium,Brute-force attempt
+2025-01-26 05:58:45,192.168.117.100,229.148.217.84,allowed,medium,Port scan detected
+2025-01-05 07:07:20,192.168.43.245,37.44.6.131,blocked,medium,Brute-force attempt
+2025-01-11 07:30:43,192.168.110.49,134.143.39.30,allowed,medium,Port scan detected
+2025-01-20 04:16:07,192.168.223.79,56.114.79.23,allowed,medium,Port scan detected
+2025-01-17 20:00:38,192.168.97.133,20.144.185.166,blocked,medium,Port scan detected
+2025-01-30 10:21:12,192.168.190.124,121.18.72.161,allowed,high,Port scan detected
+2025-01-11 16:30:50,192.168.89.88,112.22.49.37,allowed,medium,Normal traffic
+2025-01-12 22:34:02,192.168.217.210,39.236.139.133,blocked,critical,Malware signature found
+2025-01-13 18:17:57,192.168.28.55,183.203.22.94,allowed,medium,Suspicious outbound
+2025-01-07 21:33:33,192.168.51.197,145.43.160.207,allowed,high,Normal traffic
+2025-01-15 19:01:51,192.168.185.237,90.81.18.65,allowed,high,Suspicious outbound
+2025-01-13 03:28:31,192.168.125.255,14.74.253.130,allowed,critical,Normal traffic
+2025-01-26 12:51:14,192.168.185.232,51.187.124.113,allowed,medium,Brute-force attempt
+2025-01-07 00:48:43,192.168.87.101,117.46.168.21,allowed,critical,Port scan detected
+2025-01-29 00:50:41,192.168.179.103,111.205.6.228,blocked,medium,Normal traffic
+2025-01-10 19:54:52,192.168.63.159,250.50.189.40,blocked,medium,Port scan detected
+2025-01-08 05:28:03,192.168.16.221,42.52.29.241,blocked,medium,Port scan detected
+2025-01-28 04:02:57,192.168.183.48,93.214.6.230,blocked,medium,Brute-force attempt
+2025-01-16 18:57:54,192.168.200.58,228.85.227.76,blocked,medium,Normal traffic
+2025-01-22 07:56:14,192.168.1.217,137.5.30.21,blocked,high,Port scan detected
+2025-01-25 18:45:11,192.168.254.199,168.116.204.61,allowed,medium,Suspicious outbound
+2025-01-25 13:27:55,192.168.29.43,102.151.115.221,blocked,high,Normal traffic
+2025-01-18 16:58:16,192.168.21.15,1.236.133.1,allowed,medium,Suspicious outbound
+2025-01-28 22:29:37,192.168.199.0,195.124.198.212,blocked,medium,Suspicious outbound
+2025-01-18 23:23:15,192.168.184.8,199.149.206.175,blocked,medium,Brute-force attempt
+2025-01-12 16:23:34,192.168.76.238,96.46.163.105,blocked,critical,Brute-force attempt
+2025-01-05 10:30:07,192.168.207.240,172.94.169.42,allowed,critical,Port scan detected
+2025-01-20 10:30:26,192.168.195.200,121.142.32.59,blocked,high,Malware signature found
+2025-01-22 04:26:06,192.168.100.91,30.34.178.113,allowed,medium,Suspicious outbound
+2025-01-27 19:50:17,192.168.31.31,65.251.231.81,blocked,high,Suspicious outbound
+2025-01-24 12:52:49,192.168.190.18,228.213.44.49,allowed,critical,Suspicious outbound
+2025-01-15 10:08:55,192.168.20.57,114.31.201.251,allowed,medium,Brute-force attempt
+2025-01-08 12:01:54,192.168.195.54,166.60.217.173,blocked,medium,Brute-force attempt
+2025-01-13 15:14:06,192.168.216.182,46.123.7.201,blocked,medium,Normal traffic
+2025-01-15 06:18:38,192.168.208.3,188.5.169.71,blocked,high,Malware signature found
+2025-01-27 23:02:09,192.168.237.198,129.164.44.171,blocked,medium,Normal traffic
+2025-01-14 16:34:11,192.168.92.17,8.228.162.173,blocked,medium,Suspicious outbound
+2025-01-23 12:14:17,192.168.87.17,21.118.238.16,allowed,medium,Brute-force attempt
+2025-01-19 11:46:13,192.168.126.231,144.155.76.65,allowed,high,Normal traffic
+2025-01-07 04:23:00,192.168.6.168,181.87.10.17,allowed,medium,Suspicious outbound
+2025-01-05 18:56:47,192.168.175.241,63.163.199.89,allowed,medium,Brute-force attempt
+2025-01-08 19:56:27,192.168.47.58,42.239.244.38,allowed,medium,Port scan detected
+2025-01-02 08:16:36,192.168.2.135,193.239.175.73,blocked,medium,Malware signature found
+2025-01-11 17:39:26,192.168.225.148,82.159.13.246,allowed,medium,Suspicious outbound
+2025-01-13 19:03:09,192.168.66.140,80.249.223.86,allowed,high,Port scan detected
+2025-01-15 05:06:20,192.168.225.242,154.129.213.135,blocked,high,Brute-force attempt
+2025-01-10 07:00:22,192.168.187.20,26.101.209.160,allowed,medium,Normal traffic
+2025-01-30 20:44:19,192.168.196.227,90.43.250.244,blocked,high,Malware signature found
+2025-01-22 05:36:27,192.168.67.86,70.58.196.1,allowed,medium,Normal traffic
+2025-01-05 00:54:27,192.168.209.73,103.222.47.171,allowed,medium,Suspicious outbound
+2025-01-27 13:48:56,192.168.250.168,12.245.97.28,allowed,medium,Malware signature found
+2025-01-06 11:09:17,192.168.198.134,133.147.81.99,blocked,critical,Brute-force attempt
+2025-01-16 00:32:30,192.168.105.42,188.126.111.39,allowed,critical,Brute-force attempt
+2025-01-12 23:50:06,192.168.206.87,31.86.193.13,blocked,medium,Port scan detected
+2025-01-11 01:03:05,192.168.210.154,212.117.231.186,allowed,medium,Malware signature found
+2025-01-27 18:43:12,192.168.38.182,229.76.210.110,allowed,medium,Suspicious outbound
+2025-01-10 06:56:26,192.168.43.99,36.198.92.181,allowed,high,Normal traffic
+2025-01-02 14:17:45,192.168.126.172,118.109.208.159,blocked,high,Port scan detected
+2025-01-11 22:33:21,192.168.147.82,84.131.71.119,blocked,medium,Malware signature found
+2025-01-22 20:07:34,192.168.140.107,138.146.167.201,allowed,high,Suspicious outbound
+2025-01-06 00:57:25,192.168.240.240,171.137.156.105,blocked,critical,Port scan detected
+2025-01-23 16:13:38,192.168.95.162,170.37.136.68,allowed,medium,Normal traffic
+2025-01-05 19:47:59,192.168.242.80,136.162.217.78,blocked,medium,Malware signature found
+2025-01-11 14:46:56,192.168.50.197,50.122.250.189,allowed,medium,Malware signature found
+2025-01-30 08:16:59,192.168.17.198,56.246.129.1,blocked,critical,Suspicious outbound
+2025-01-16 07:59:11,192.168.194.242,3.147.203.255,allowed,high,Normal traffic
+2025-01-27 03:36:16,192.168.226.164,240.20.44.84,allowed,high,Malware signature found
+2025-01-13 15:11:14,192.168.122.94,34.100.14.225,allowed,medium,Malware signature found
+2025-01-18 19:42:08,192.168.45.31,160.48.35.236,blocked,critical,Port scan detected
+2025-01-13 06:36:04,192.168.150.192,108.250.228.88,allowed,medium,Malware signature found
+2025-01-08 07:06:56,192.168.25.83,156.239.67.86,blocked,high,Suspicious outbound
+2025-01-12 17:06:42,192.168.56.231,208.14.179.67,allowed,high,Brute-force attempt
+2025-01-10 21:30:40,192.168.223.250,49.24.1.182,blocked,medium,Suspicious outbound
+2025-01-15 18:10:06,192.168.249.164,252.159.119.1,blocked,high,Suspicious outbound
+2025-01-15 23:57:18,192.168.179.220,195.56.3.131,allowed,high,Port scan detected
+2025-01-26 07:41:43,192.168.20.79,64.119.6.177,allowed,high,Malware signature found
+2025-01-11 22:26:46,192.168.212.77,138.157.69.179,allowed,medium,Brute-force attempt
+2025-01-15 22:30:38,192.168.62.93,132.80.36.249,blocked,critical,Malware signature found
+2025-01-12 20:50:21,192.168.149.122,182.185.92.95,allowed,critical,Port scan detected
+2025-01-10 07:37:24,192.168.238.165,220.168.31.188,allowed,high,Port scan detected
+2025-01-08 08:13:30,192.168.136.247,228.31.152.117,allowed,medium,Normal traffic
+2025-01-02 09:40:05,192.168.177.79,140.94.242.178,allowed,high,Normal traffic
+2025-01-22 01:06:19,192.168.89.37,85.128.157.49,blocked,medium,Port scan detected
+2025-01-11 06:48:09,192.168.48.151,255.173.40.197,blocked,medium,Brute-force attempt
+2025-01-03 22:32:41,192.168.81.99,242.211.51.107,blocked,medium,Suspicious outbound
+2025-01-19 07:37:25,192.168.216.47,4.121.147.124,blocked,high,Normal traffic
+2025-01-30 05:25:21,192.168.107.163,22.207.9.11,blocked,medium,Port scan detected
+2025-01-09 23:25:19,192.168.186.62,1.51.2.84,allowed,medium,Normal traffic
+2025-01-07 09:26:57,192.168.242.119,74.162.20.102,allowed,medium,Suspicious outbound
+2025-01-23 12:48:57,192.168.230.159,187.52.160.224,allowed,critical,Brute-force attempt
+2025-01-23 14:42:12,192.168.114.81,30.181.246.231,allowed,high,Suspicious outbound
+2025-01-23 04:21:20,192.168.216.80,254.129.22.121,blocked,medium,Normal traffic
+2025-01-10 19:15:18,192.168.137.28,157.219.250.201,allowed,medium,Brute-force attempt
+2025-01-07 10:13:55,192.168.91.22,136.83.198.7,allowed,medium,Normal traffic
+2025-01-30 14:19:29,192.168.179.100,151.197.91.197,blocked,medium,Port scan detected
+2025-01-14 21:01:06,192.168.99.115,149.221.103.59,allowed,critical,Malware signature found
+2025-01-20 08:45:54,192.168.139.152,230.158.168.91,blocked,critical,Port scan detected
+2025-01-17 06:48:20,192.168.238.139,138.213.133.51,blocked,high,Normal traffic
+2025-01-03 05:31:51,192.168.94.17,124.166.113.151,blocked,medium,Malware signature found
+2025-01-16 20:28:04,192.168.77.119,181.35.148.86,blocked,medium,Malware signature found
+2025-01-27 18:22:16,192.168.255.31,235.104.166.17,allowed,high,Port scan detected
+2025-01-06 15:18:57,192.168.34.225,238.134.228.34,allowed,high,Normal traffic
+2025-01-14 21:06:08,192.168.165.241,244.91.9.15,allowed,high,Brute-force attempt
+2025-01-16 00:40:28,192.168.63.21,139.135.126.76,blocked,critical,Port scan detected
+2025-01-21 22:59:12,192.168.222.13,244.198.222.218,allowed,high,Brute-force attempt
+2025-01-21 08:17:58,192.168.40.112,61.181.35.29,allowed,medium,Malware signature found
+2025-01-01 23:10:45,192.168.247.161,115.251.117.83,allowed,medium,Brute-force attempt
+2025-01-13 09:19:12,192.168.69.132,95.14.101.197,blocked,high,Port scan detected
+2025-01-30 18:08:49,192.168.105.171,55.12.12.1,allowed,critical,Port scan detected
+2025-01-24 17:43:23,192.168.234.208,69.187.20.154,allowed,critical,Normal traffic
+2025-01-13 20:19:27,192.168.249.164,179.151.134.111,allowed,medium,Suspicious outbound
+2025-01-22 09:54:13,192.168.233.11,116.147.216.225,allowed,high,Malware signature found
+2025-01-20 01:33:28,192.168.64.255,75.126.150.243,allowed,medium,Normal traffic
+2025-01-15 07:45:17,192.168.70.172,102.229.152.143,allowed,high,Normal traffic
+2025-01-05 12:47:11,192.168.127.118,151.148.147.83,allowed,critical,Normal traffic
+2025-01-04 09:45:36,192.168.157.142,171.197.36.43,blocked,high,Malware signature found
+2025-01-17 13:27:08,192.168.5.42,59.27.221.37,blocked,medium,Port scan detected
+2025-01-14 12:50:57,192.168.83.101,87.114.216.199,allowed,high,Normal traffic
+2025-01-28 07:08:50,192.168.251.125,42.62.246.117,blocked,medium,Normal traffic
+2025-01-30 21:11:02,192.168.131.6,220.93.124.20,blocked,high,Port scan detected
+2025-01-07 22:34:05,192.168.34.71,104.175.126.109,blocked,critical,Port scan detected
+2025-01-02 17:30:18,192.168.57.170,137.8.143.9,blocked,high,Brute-force attempt
+2025-01-25 16:00:48,192.168.66.185,100.112.36.246,allowed,critical,Suspicious outbound
+2025-01-14 01:58:58,192.168.181.102,4.96.233.193,blocked,medium,Suspicious outbound
+2025-01-28 18:03:06,192.168.121.111,117.121.81.116,allowed,medium,Normal traffic
+2025-01-05 04:21:33,192.168.2.122,125.101.244.206,allowed,medium,Port scan detected
+2025-01-25 11:12:33,192.168.121.239,12.147.99.154,blocked,medium,Port scan detected
+2025-01-01 18:53:57,192.168.40.224,107.107.194.9,allowed,medium,Brute-force attempt
+2025-01-03 02:37:00,192.168.216.146,95.236.170.226,allowed,critical,Normal traffic
+2025-01-12 00:08:53,192.168.249.96,190.70.128.192,allowed,medium,Brute-force attempt
+2025-01-25 13:33:35,192.168.92.135,165.228.211.120,blocked,high,Port scan detected
+2025-01-18 05:51:57,192.168.245.62,152.45.181.240,allowed,high,Brute-force attempt
+2025-01-28 10:07:15,192.168.196.111,179.58.91.90,blocked,medium,Suspicious outbound
+2025-01-02 08:31:42,192.168.243.28,118.249.53.237,blocked,medium,Normal traffic
+2025-01-01 23:11:08,192.168.237.33,187.78.117.68,allowed,critical,Port scan detected
+2025-01-26 16:41:05,192.168.63.141,117.126.176.187,allowed,high,Normal traffic
+2025-01-24 13:38:47,192.168.43.144,111.120.183.180,blocked,critical,Malware signature found
+2025-01-04 22:46:32,192.168.222.194,237.200.152.71,blocked,medium,Suspicious outbound
+2025-01-24 06:10:50,192.168.237.91,189.51.174.67,allowed,critical,Suspicious outbound
+2025-01-11 18:00:47,192.168.145.55,191.219.14.24,allowed,high,Suspicious outbound
+2025-01-05 04:48:40,192.168.165.215,226.220.124.66,blocked,high,Brute-force attempt
+2025-01-04 09:14:49,192.168.249.72,66.144.147.249,blocked,medium,Port scan detected
+2025-01-16 19:46:50,192.168.90.165,86.183.57.70,allowed,critical,Normal traffic
+2025-01-10 21:03:23,192.168.145.19,164.255.57.45,allowed,medium,Port scan detected
+2025-01-05 12:55:56,192.168.45.236,24.39.225.65,allowed,high,Suspicious outbound
+2025-01-11 04:43:25,192.168.108.82,119.97.117.170,allowed,medium,Malware signature found
+2025-01-01 16:04:00,192.168.196.135,94.3.174.96,allowed,high,Brute-force attempt
+2025-01-24 09:26:42,192.168.123.150,19.193.170.69,blocked,medium,Suspicious outbound
+2025-01-28 11:30:13,192.168.51.222,87.70.114.115,blocked,high,Suspicious outbound
+2025-01-04 00:08:37,192.168.180.142,236.114.116.54,blocked,medium,Malware signature found
+2025-01-27 14:46:51,192.168.119.217,59.215.43.159,allowed,critical,Brute-force attempt
+2025-01-19 04:55:28,192.168.231.153,37.85.90.54,blocked,critical,Suspicious outbound
+2025-01-09 12:59:06,192.168.7.19,240.96.233.78,allowed,critical,Port scan detected
+2025-01-25 15:08:46,192.168.209.123,200.113.86.23,blocked,critical,Port scan detected
+2025-01-05 11:46:33,192.168.91.48,175.2.155.148,allowed,medium,Suspicious outbound
+2025-01-14 18:07:50,192.168.108.24,176.189.202.187,blocked,medium,Normal traffic
+2025-01-28 12:58:02,192.168.188.96,122.161.20.136,blocked,medium,Suspicious outbound
+2025-01-12 18:12:04,192.168.77.170,79.25.235.118,blocked,medium,Suspicious outbound
+2025-01-29 06:03:29,192.168.111.69,43.220.83.151,allowed,medium,Suspicious outbound
+2025-01-22 23:35:02,192.168.6.10,236.151.238.241,allowed,medium,Suspicious outbound
+2025-01-06 03:46:20,192.168.45.95,98.72.115.235,allowed,medium,Port scan detected
+2025-01-23 12:26:51,192.168.87.49,222.97.99.245,allowed,high,Port scan detected
+2025-01-11 09:56:17,192.168.161.71,112.43.223.21,blocked,high,Malware signature found
+2025-01-04 22:55:59,192.168.79.191,191.202.37.95,allowed,high,Suspicious outbound
+2025-01-17 14:51:11,192.168.67.213,136.196.54.112,allowed,high,Malware signature found
+2025-01-13 05:51:52,192.168.142.23,110.116.79.118,allowed,high,Port scan detected
+2025-01-09 17:00:07,192.168.64.92,113.112.151.102,allowed,high,Brute-force attempt
+2025-01-08 11:42:28,192.168.150.85,239.160.51.251,allowed,critical,Suspicious outbound
+2025-01-16 13:49:17,192.168.232.222,72.248.28.142,allowed,medium,Normal traffic
+2025-01-20 12:24:37,192.168.221.132,109.93.42.254,allowed,high,Suspicious outbound
+2025-01-13 13:02:48,192.168.74.193,239.87.56.102,allowed,medium,Port scan detected
+2025-01-27 23:30:03,192.168.91.233,101.44.106.188,allowed,medium,Malware signature found
+2025-01-16 11:14:27,192.168.185.129,64.234.49.67,allowed,medium,Malware signature found
+2025-01-23 13:42:32,192.168.58.66,209.149.77.179,allowed,high,Brute-force attempt
+2025-01-12 08:33:33,192.168.149.191,197.66.66.16,blocked,medium,Normal traffic
+2025-01-04 14:05:59,192.168.3.217,115.227.154.230,blocked,medium,Port scan detected
+2025-01-15 13:04:20,192.168.174.91,231.25.179.79,blocked,critical,Suspicious outbound
+2025-01-22 10:53:44,192.168.186.61,114.183.63.218,allowed,medium,Suspicious outbound
+2025-01-24 01:11:56,192.168.106.119,92.145.228.184,allowed,high,Suspicious outbound
+2025-01-11 21:12:15,192.168.247.248,70.185.33.44,blocked,critical,Malware signature found
+2025-01-13 10:28:50,192.168.222.57,78.40.70.12,blocked,medium,Brute-force attempt
+2025-01-25 23:41:46,192.168.244.34,165.160.179.199,blocked,critical,Normal traffic
+2025-01-14 13:19:07,192.168.107.244,88.220.237.36,allowed,high,Normal traffic
+2025-01-17 19:08:53,192.168.10.185,11.30.62.10,allowed,critical,Port scan detected
+2025-01-12 08:45:28,192.168.208.200,147.242.237.229,blocked,medium,Brute-force attempt
+2025-01-12 06:01:54,192.168.226.234,255.177.85.249,blocked,medium,Port scan detected
+2025-01-08 16:05:12,192.168.66.9,229.130.147.95,allowed,medium,Brute-force attempt
+2025-01-29 12:24:18,192.168.63.89,152.150.12.149,blocked,high,Port scan detected
+2025-01-20 19:38:20,192.168.2.124,247.197.59.105,blocked,medium,Malware signature found
+2025-01-25 22:15:20,192.168.65.213,83.109.103.45,allowed,critical,Suspicious outbound
+2025-01-09 14:37:00,192.168.178.81,231.251.118.10,blocked,medium,Brute-force attempt
+2025-01-11 13:02:53,192.168.207.252,8.95.209.176,allowed,high,Normal traffic
+2025-01-02 03:13:08,192.168.88.11,75.72.161.164,allowed,critical,Brute-force attempt
+2025-01-22 01:07:15,192.168.71.218,2.215.61.132,allowed,medium,Malware signature found
+2025-01-03 14:14:24,192.168.120.157,179.134.84.84,allowed,medium,Port scan detected
+2025-01-29 00:59:38,192.168.201.143,230.23.90.226,allowed,critical,Brute-force attempt
+2025-01-14 12:15:07,192.168.213.240,250.64.95.84,blocked,critical,Suspicious outbound
+2025-01-05 12:45:16,192.168.162.113,112.93.30.179,allowed,medium,Normal traffic
+2025-01-24 15:24:49,192.168.196.56,35.89.146.215,allowed,high,Suspicious outbound
+2025-01-06 14:35:26,192.168.111.226,14.228.171.229,allowed,medium,Normal traffic
+2025-01-07 02:39:29,192.168.192.209,189.163.85.187,blocked,medium,Brute-force attempt
+2025-01-19 17:48:37,192.168.5.59,240.4.9.167,blocked,medium,Malware signature found
+2025-01-24 03:23:13,192.168.136.80,22.247.110.178,blocked,medium,Port scan detected
+2025-01-23 14:11:39,192.168.89.197,187.202.166.81,allowed,high,Port scan detected
+2025-01-11 14:32:30,192.168.31.71,233.139.197.148,allowed,medium,Suspicious outbound
+2025-01-25 02:46:09,192.168.191.121,132.113.60.236,allowed,medium,Normal traffic
+2025-01-18 17:05:31,192.168.120.242,53.228.225.8,blocked,critical,Suspicious outbound
+2025-01-04 23:28:40,192.168.135.62,1.23.12.223,blocked,critical,Brute-force attempt
+2025-01-19 09:03:10,192.168.52.139,128.250.255.182,blocked,high,Port scan detected
+2025-01-13 07:15:17,192.168.36.24,120.33.123.184,allowed,medium,Normal traffic
+2025-01-08 11:46:16,192.168.127.184,83.187.206.88,blocked,high,Brute-force attempt
+2025-01-30 07:19:36,192.168.62.94,45.180.103.168,allowed,medium,Brute-force attempt
+2025-01-02 15:26:57,192.168.207.58,54.3.185.50,blocked,medium,Malware signature found
+2025-01-18 17:08:39,192.168.129.201,220.149.27.57,allowed,critical,Suspicious outbound
+2025-01-23 10:22:24,192.168.219.83,16.158.60.159,blocked,critical,Normal traffic
+2025-01-01 03:31:55,192.168.131.211,54.217.39.207,allowed,medium,Normal traffic
+2025-01-28 10:43:30,192.168.149.169,73.24.114.116,blocked,high,Port scan detected
+2025-01-22 03:01:55,192.168.255.194,206.181.192.253,allowed,medium,Malware signature found
+2025-01-07 11:53:20,192.168.217.10,204.67.40.156,allowed,medium,Port scan detected
+2025-01-25 18:00:09,192.168.174.22,24.246.219.150,allowed,medium,Malware signature found
+2025-01-06 15:06:39,192.168.140.127,206.42.90.197,allowed,medium,Port scan detected
+2025-01-07 12:57:57,192.168.234.76,94.29.225.237,blocked,critical,Brute-force attempt
+2025-01-07 01:57:54,192.168.200.47,244.130.184.235,blocked,high,Port scan detected
+2025-01-24 14:51:05,192.168.66.124,127.247.71.238,allowed,critical,Suspicious outbound
+2025-01-02 14:59:44,192.168.243.58,96.166.48.211,allowed,medium,Port scan detected
+2025-01-03 06:24:45,192.168.135.190,227.130.201.190,blocked,medium,Malware signature found
+2025-01-11 14:45:12,192.168.215.122,189.73.202.69,allowed,high,Normal traffic
+2025-01-05 13:11:08,192.168.11.53,74.45.104.253,blocked,medium,Malware signature found
+2025-01-21 04:19:37,192.168.148.107,124.167.237.197,allowed,medium,Port scan detected
+2025-01-29 07:32:02,192.168.15.191,61.95.232.64,allowed,medium,Normal traffic
+2025-01-20 20:34:11,192.168.248.174,37.202.68.126,blocked,critical,Malware signature found
+2025-01-01 22:06:59,192.168.50.118,76.200.34.98,allowed,medium,Brute-force attempt
+2025-01-09 22:05:16,192.168.243.0,71.57.133.3,allowed,critical,Port scan detected
+2025-01-14 19:29:54,192.168.2.87,39.203.226.202,allowed,high,Malware signature found
+2025-01-12 16:49:49,192.168.100.249,234.2.135.119,allowed,high,Brute-force attempt
+2025-01-02 11:34:36,192.168.131.142,200.185.65.2,allowed,critical,Normal traffic
+2025-01-01 00:56:13,192.168.205.178,199.34.97.146,allowed,high,Port scan detected
+2025-01-23 01:01:35,192.168.10.208,174.173.170.7,allowed,high,Malware signature found
+2025-01-28 15:44:52,192.168.207.194,50.66.210.200,blocked,high,Suspicious outbound
+2025-01-04 11:12:21,192.168.164.3,39.214.228.160,allowed,medium,Normal traffic
+2025-01-20 23:09:43,192.168.151.245,235.143.27.30,allowed,medium,Brute-force attempt
+2025-01-21 22:27:41,192.168.32.85,1.168.125.62,blocked,high,Port scan detected
+2025-01-20 17:17:32,192.168.122.83,137.255.96.180,allowed,critical,Malware signature found
+2025-01-29 07:35:59,192.168.205.74,99.84.235.128,allowed,high,Normal traffic
+2025-01-05 01:02:21,192.168.125.113,151.160.240.193,blocked,medium,Normal traffic
+2025-01-28 09:34:11,192.168.128.11,155.118.181.9,allowed,medium,Normal traffic
+2025-01-12 11:42:20,192.168.133.95,246.99.2.70,allowed,medium,Normal traffic
+2025-01-05 20:42:00,192.168.25.123,216.160.190.34,allowed,medium,Normal traffic
+2025-01-13 10:58:55,192.168.201.15,207.227.137.186,blocked,high,Normal traffic
+2025-01-17 03:49:50,192.168.0.14,92.226.18.22,allowed,medium,Suspicious outbound
+2025-01-22 08:12:12,192.168.75.243,19.89.36.163,allowed,critical,Port scan detected
+2025-01-04 00:13:47,192.168.114.233,40.24.194.34,blocked,medium,Port scan detected
+2025-01-27 08:40:51,192.168.116.79,39.207.213.182,allowed,medium,Suspicious outbound
+2025-01-17 18:35:28,192.168.217.48,211.81.140.206,blocked,medium,Malware signature found
+2025-01-12 08:59:49,192.168.20.35,170.23.34.149,allowed,critical,Suspicious outbound
+2025-01-28 01:31:55,192.168.198.6,174.85.173.18,blocked,critical,Brute-force attempt
+2025-01-26 21:47:16,192.168.47.74,17.146.238.65,allowed,medium,Malware signature found
+2025-01-24 11:37:20,192.168.146.34,159.122.34.225,blocked,medium,Brute-force attempt
+2025-01-19 23:13:07,192.168.41.168,53.7.169.69,allowed,high,Port scan detected
+2025-01-13 01:16:28,192.168.249.234,240.194.179.222,allowed,high,Brute-force attempt
+2025-01-25 23:00:05,192.168.42.191,86.248.46.135,allowed,high,Normal traffic
+2025-01-23 06:57:29,192.168.214.110,151.108.87.251,blocked,high,Suspicious outbound
+2025-01-22 21:50:20,192.168.16.1,191.242.181.21,blocked,high,Malware signature found
+2025-01-20 07:37:27,192.168.50.157,108.155.2.64,allowed,high,Port scan detected
+2025-01-11 11:21:57,192.168.204.13,140.89.142.113,blocked,high,Port scan detected
+2025-01-14 23:19:28,192.168.171.73,128.230.162.178,allowed,high,Normal traffic
+2025-01-21 06:57:23,192.168.250.74,107.141.141.205,blocked,high,Normal traffic
+2025-01-05 08:01:05,192.168.61.36,93.125.153.173,blocked,medium,Brute-force attempt
+2025-01-25 09:14:21,192.168.195.22,78.15.133.159,blocked,medium,Port scan detected
+2025-01-23 00:16:00,192.168.193.196,43.87.103.18,allowed,medium,Suspicious outbound
+2025-01-18 14:00:24,192.168.138.132,93.12.148.227,allowed,high,Normal traffic
+2025-01-21 12:56:22,192.168.30.248,248.101.99.225,blocked,high,Normal traffic
+2025-01-28 14:14:44,192.168.25.0,170.236.128.53,allowed,medium,Port scan detected
+2025-01-20 22:41:51,192.168.7.131,197.6.243.186,allowed,medium,Brute-force attempt
+2025-01-06 09:59:43,192.168.221.9,218.99.27.158,blocked,medium,Malware signature found
+2025-01-03 15:43:27,192.168.245.6,31.223.217.32,allowed,critical,Normal traffic
+2025-01-12 22:31:26,192.168.51.157,77.9.161.80,allowed,high,Suspicious outbound
+2025-01-05 07:34:04,192.168.34.229,149.52.235.212,allowed,medium,Brute-force attempt
+2025-01-29 02:00:59,192.168.4.224,132.98.90.80,blocked,high,Normal traffic
+2025-01-02 12:22:06,192.168.54.85,192.159.151.62,allowed,medium,Port scan detected
+2025-01-25 18:05:34,192.168.162.220,220.46.64.193,allowed,medium,Suspicious outbound
+2025-01-26 07:35:23,192.168.244.74,223.106.177.169,allowed,medium,Normal traffic
+2025-01-12 07:00:23,192.168.95.6,157.83.223.10,allowed,high,Normal traffic
+2025-01-03 08:46:10,192.168.167.26,158.228.18.172,allowed,medium,Brute-force attempt
+2025-01-04 19:42:23,192.168.211.5,112.54.208.64,allowed,medium,Malware signature found
+2025-01-06 03:47:19,192.168.29.250,25.35.123.193,allowed,medium,Normal traffic
+2025-01-18 04:36:12,192.168.219.58,80.235.179.235,allowed,critical,Brute-force attempt
+2025-01-07 12:21:31,192.168.133.1,21.115.181.80,allowed,high,Brute-force attempt
+2025-01-11 18:45:52,192.168.170.109,173.59.192.33,blocked,medium,Normal traffic
+2025-01-24 05:55:06,192.168.2.93,74.156.223.169,allowed,high,Port scan detected
+2025-01-09 05:50:47,192.168.198.17,175.225.215.206,allowed,high,Normal traffic
+2025-01-17 05:24:35,192.168.187.82,225.104.112.72,blocked,medium,Malware signature found
+2025-01-01 23:26:52,192.168.205.48,253.194.157.101,allowed,medium,Suspicious outbound
+2025-01-26 14:24:12,192.168.70.22,13.91.60.80,allowed,critical,Suspicious outbound
+2025-01-17 01:42:32,192.168.181.123,56.77.222.123,blocked,medium,Malware signature found
+2025-01-27 12:08:01,192.168.16.126,171.122.71.53,allowed,high,Malware signature found
+2025-01-06 03:19:57,192.168.171.6,218.106.98.90,allowed,critical,Brute-force attempt
+2025-01-29 18:57:34,192.168.206.51,144.245.148.49,allowed,high,Malware signature found
+2025-01-23 01:44:00,192.168.253.204,80.229.24.94,blocked,high,Brute-force attempt
+2025-01-08 14:20:35,192.168.179.179,133.47.125.103,allowed,medium,Brute-force attempt
+2025-01-25 18:14:45,192.168.124.147,3.217.244.18,blocked,high,Normal traffic
+2025-01-20 16:56:11,192.168.44.9,24.70.68.36,allowed,high,Malware signature found
+2025-01-26 02:00:47,192.168.69.57,185.200.166.232,blocked,critical,Malware signature found
+2025-01-14 17:53:27,192.168.93.24,225.231.139.234,allowed,critical,Port scan detected
+2025-01-16 10:00:40,192.168.86.96,111.144.3.247,allowed,medium,Suspicious outbound
+2025-01-09 23:57:19,192.168.105.187,83.180.253.33,allowed,medium,Brute-force attempt
+2025-01-02 14:01:55,192.168.242.166,127.122.139.79,allowed,medium,Suspicious outbound
+2025-01-25 16:14:21,192.168.208.130,215.183.6.216,blocked,medium,Port scan detected
+2025-01-04 18:12:42,192.168.69.42,7.27.132.48,blocked,medium,Normal traffic
+2025-01-18 17:23:13,192.168.1.20,240.124.126.153,allowed,high,Suspicious outbound
+2025-01-12 22:55:18,192.168.241.143,158.73.48.131,blocked,medium,Suspicious outbound
+2025-01-20 14:41:17,192.168.33.217,105.39.16.133,allowed,high,Suspicious outbound
+2025-01-16 04:00:48,192.168.176.202,53.78.242.167,blocked,medium,Brute-force attempt
+2025-01-11 22:17:30,192.168.126.149,113.248.163.58,allowed,high,Normal traffic
+2025-01-08 18:29:06,192.168.208.91,15.210.117.134,blocked,high,Brute-force attempt
+2025-01-12 10:13:23,192.168.132.28,135.226.173.114,blocked,high,Malware signature found
+2025-01-26 02:24:10,192.168.56.104,132.48.234.46,allowed,medium,Normal traffic
+2025-01-25 01:46:11,192.168.78.211,101.109.50.111,blocked,medium,Port scan detected
+2025-01-01 09:21:15,192.168.147.61,154.62.170.63,blocked,critical,Port scan detected
+2025-01-10 18:41:03,192.168.128.136,208.150.222.10,blocked,high,Malware signature found
+2025-01-08 10:50:07,192.168.231.18,158.157.106.12,allowed,high,Suspicious outbound
+2025-01-18 10:04:55,192.168.208.133,198.157.194.85,allowed,medium,Normal traffic
+2025-01-19 20:03:26,192.168.203.222,71.16.48.226,blocked,high,Port scan detected
+2025-01-22 17:15:04,192.168.68.214,187.167.64.249,allowed,critical,Port scan detected
+2025-01-25 09:33:47,192.168.17.125,143.127.26.234,allowed,medium,Suspicious outbound
+2025-01-13 14:40:47,192.168.193.197,87.210.23.55,allowed,critical,Malware signature found
+2025-01-29 09:34:18,192.168.69.65,150.63.247.173,blocked,medium,Suspicious outbound
+2025-01-26 17:17:20,192.168.70.44,84.138.50.197,allowed,medium,Brute-force attempt
+2025-01-09 00:54:19,192.168.112.49,148.97.212.242,blocked,high,Suspicious outbound
+2025-01-08 21:30:16,192.168.21.36,53.246.189.136,blocked,medium,Port scan detected
+2025-01-17 02:30:56,192.168.120.235,54.150.160.31,allowed,medium,Brute-force attempt
+2025-01-04 22:34:58,192.168.222.13,111.126.239.242,blocked,medium,Suspicious outbound
+2025-01-04 17:50:09,192.168.209.123,130.131.180.132,allowed,medium,Malware signature found
+2025-01-21 06:45:58,192.168.107.186,249.117.106.151,allowed,medium,Normal traffic
+2025-01-30 22:05:04,192.168.50.1,18.130.90.49,blocked,high,Brute-force attempt
+2025-01-28 19:42:11,192.168.158.20,229.244.243.18,allowed,medium,Port scan detected
+2025-01-15 06:16:10,192.168.169.241,9.235.216.82,blocked,medium,Normal traffic
+2025-01-08 06:48:59,192.168.246.164,191.251.212.219,allowed,high,Malware signature found
+2025-01-18 13:51:15,192.168.143.204,151.137.141.112,allowed,critical,Normal traffic
+2025-01-14 05:58:17,192.168.71.117,41.60.244.219,allowed,high,Brute-force attempt
+2025-01-28 08:09:21,192.168.125.156,180.156.185.237,allowed,medium,Malware signature found
+2025-01-11 04:05:22,192.168.146.224,213.20.121.115,allowed,high,Brute-force attempt
+2025-01-11 11:21:51,192.168.92.217,75.51.157.62,allowed,high,Suspicious outbound
+2025-01-29 23:47:38,192.168.4.156,131.188.123.118,blocked,medium,Normal traffic
+2025-01-16 22:52:45,192.168.213.42,46.213.29.106,allowed,medium,Malware signature found
+2025-01-08 09:47:22,192.168.191.68,212.29.90.183,blocked,high,Brute-force attempt
+2025-01-26 15:46:40,192.168.9.5,169.151.197.148,allowed,high,Port scan detected
+2025-01-23 01:47:54,192.168.211.86,211.121.61.157,blocked,high,Malware signature found
+2025-01-30 17:41:29,192.168.212.38,65.5.36.161,allowed,medium,Malware signature found
+2025-01-06 15:02:32,192.168.65.83,167.3.59.93,allowed,medium,Port scan detected
+2025-01-13 13:33:59,192.168.251.176,121.187.25.206,allowed,medium,Malware signature found
+2025-01-11 20:08:15,192.168.221.46,128.137.224.104,blocked,high,Malware signature found
+2025-01-28 09:54:18,192.168.183.75,85.225.111.80,blocked,medium,Normal traffic
+2025-01-24 16:44:43,192.168.132.36,86.2.137.64,allowed,high,Malware signature found
+2025-01-06 17:06:50,192.168.42.218,111.127.157.100,blocked,medium,Suspicious outbound
+2025-01-09 16:58:05,192.168.21.220,118.252.231.228,blocked,high,Port scan detected
+2025-01-25 16:24:52,192.168.89.225,239.154.14.231,allowed,high,Suspicious outbound
+2025-01-10 18:04:25,192.168.91.157,233.30.114.224,blocked,critical,Port scan detected
+2025-01-23 00:25:50,192.168.243.75,3.197.107.213,allowed,high,Port scan detected
+2025-01-09 09:48:01,192.168.161.1,35.18.217.116,blocked,medium,Suspicious outbound
+2025-01-29 09:32:27,192.168.110.206,56.13.36.212,allowed,medium,Normal traffic
+2025-01-28 21:14:30,192.168.46.139,222.213.175.186,allowed,medium,Normal traffic
+2025-01-18 15:35:24,192.168.206.37,97.30.202.122,allowed,critical,Brute-force attempt
+2025-01-16 16:02:44,192.168.6.163,40.228.162.37,blocked,high,Malware signature found
+2025-01-23 17:00:03,192.168.127.239,142.246.31.104,allowed,high,Malware signature found
+2025-01-19 05:50:40,192.168.182.38,22.70.8.36,allowed,high,Brute-force attempt
+2025-01-26 07:11:14,192.168.36.147,247.160.35.236,allowed,medium,Malware signature found
+2025-01-29 14:03:54,192.168.112.210,38.115.199.108,allowed,medium,Brute-force attempt
+2025-01-04 01:27:26,192.168.176.202,162.169.209.191,blocked,medium,Malware signature found
+2025-01-20 08:40:24,192.168.227.161,52.175.166.10,allowed,medium,Malware signature found
+2025-01-28 21:19:40,192.168.8.28,92.232.181.250,allowed,medium,Malware signature found
+2025-01-10 16:23:02,192.168.180.21,107.242.136.231,blocked,high,Normal traffic
+2025-01-19 12:33:00,192.168.96.165,35.33.13.21,blocked,medium,Port scan detected
+2025-01-18 13:28:08,192.168.35.135,144.80.16.147,blocked,medium,Port scan detected
+2025-01-09 09:22:42,192.168.155.33,164.250.155.65,allowed,high,Malware signature found
+2025-01-19 06:12:55,192.168.121.190,101.77.88.46,allowed,high,Normal traffic
+2025-01-03 05:39:30,192.168.227.215,224.181.230.227,blocked,medium,Suspicious outbound
+2025-01-21 03:03:50,192.168.114.98,222.123.123.57,allowed,high,Normal traffic
+2025-01-18 18:58:10,192.168.170.99,152.254.65.47,blocked,medium,Malware signature found
+2025-01-15 11:02:55,192.168.240.245,75.126.54.225,blocked,medium,Malware signature found
+2025-01-22 15:50:22,192.168.36.88,149.84.19.28,blocked,medium,Port scan detected
+2025-01-26 14:33:39,192.168.148.103,122.220.250.221,blocked,critical,Normal traffic
+2025-01-15 23:41:14,192.168.61.122,114.183.120.163,allowed,high,Malware signature found
+2025-01-04 17:14:36,192.168.193.33,78.223.189.176,blocked,high,Suspicious outbound
+2025-01-22 11:48:34,192.168.150.226,240.52.224.65,allowed,medium,Malware signature found
+2025-01-08 19:21:28,192.168.80.29,157.8.150.90,blocked,medium,Malware signature found
+2025-01-09 23:53:00,192.168.250.165,226.44.192.231,allowed,medium,Suspicious outbound
+2025-01-18 18:14:15,192.168.197.80,166.142.35.95,allowed,medium,Malware signature found
+2025-01-27 09:04:30,192.168.1.53,216.236.255.70,allowed,critical,Port scan detected
+2025-01-14 16:14:46,192.168.21.206,191.91.250.172,blocked,high,Brute-force attempt
+2025-01-08 07:17:03,192.168.32.103,203.217.180.207,allowed,high,Normal traffic
+2025-01-03 05:35:52,192.168.134.22,142.27.70.152,allowed,high,Malware signature found
+2025-01-28 13:10:51,192.168.201.108,21.27.163.89,blocked,medium,Brute-force attempt
+2025-01-04 22:16:05,192.168.254.140,137.208.51.238,blocked,high,Port scan detected
+2025-01-04 10:40:37,192.168.195.44,74.78.163.188,blocked,high,Normal traffic
+2025-01-24 09:43:42,192.168.253.179,92.209.152.41,allowed,medium,Suspicious outbound
+2025-01-21 17:08:13,192.168.21.156,91.249.250.185,allowed,medium,Normal traffic
+2025-01-29 16:19:29,192.168.218.81,112.42.69.23,blocked,high,Brute-force attempt
+2025-01-03 21:48:58,192.168.110.67,200.11.24.29,allowed,high,Normal traffic
+2025-01-20 05:27:25,192.168.20.227,255.99.137.23,blocked,medium,Suspicious outbound
+2025-01-29 15:28:47,192.168.3.58,62.159.56.115,blocked,high,Malware signature found
+2025-01-26 19:22:44,192.168.210.26,109.30.241.27,blocked,medium,Malware signature found
+2025-01-27 20:48:48,192.168.228.141,173.125.3.248,allowed,medium,Normal traffic
+2025-01-08 10:53:26,192.168.161.33,16.99.47.233,allowed,medium,Malware signature found
+2025-01-29 06:05:31,192.168.116.2,207.181.252.50,blocked,critical,Port scan detected
+2025-01-13 19:31:53,192.168.178.85,3.224.51.70,blocked,medium,Port scan detected
+2025-01-13 19:51:55,192.168.26.27,200.159.159.10,blocked,critical,Port scan detected
+2025-01-13 21:45:22,192.168.243.182,137.8.175.107,allowed,medium,Normal traffic
+2025-01-18 10:55:40,192.168.4.13,212.157.103.199,blocked,medium,Suspicious outbound
+2025-01-09 08:01:15,192.168.35.165,87.133.233.127,allowed,medium,Normal traffic
+2025-01-04 14:11:04,192.168.223.216,24.48.201.43,allowed,medium,Suspicious outbound
+2025-01-29 23:25:16,192.168.16.79,251.203.146.19,blocked,medium,Malware signature found
+2025-01-06 09:41:33,192.168.39.167,192.247.205.43,allowed,medium,Normal traffic
+2025-01-10 17:22:35,192.168.168.176,198.252.25.131,blocked,medium,Normal traffic
+2025-01-13 02:09:47,192.168.175.218,196.64.245.146,blocked,medium,Malware signature found
+2025-01-26 10:22:53,192.168.28.96,59.169.24.223,allowed,medium,Malware signature found
+2025-01-20 16:22:34,192.168.254.170,47.34.219.18,allowed,high,Normal traffic
+2025-01-25 04:58:09,192.168.66.67,94.115.186.151,allowed,high,Malware signature found
+2025-01-01 13:52:58,192.168.144.229,63.231.20.245,allowed,medium,Suspicious outbound
+2025-01-29 17:08:33,192.168.217.152,23.18.123.213,blocked,medium,Suspicious outbound
+2025-01-16 09:52:37,192.168.212.82,96.251.203.19,allowed,high,Normal traffic
+2025-01-14 08:46:17,192.168.63.146,55.255.206.86,allowed,critical,Malware signature found
+2025-01-19 09:01:31,192.168.215.28,251.195.103.78,blocked,medium,Suspicious outbound
+2025-01-22 22:48:02,192.168.18.181,177.86.80.39,blocked,medium,Brute-force attempt
+2025-01-11 04:14:02,192.168.230.232,4.102.177.188,allowed,critical,Brute-force attempt
+2025-01-04 00:42:55,192.168.142.135,147.119.79.46,allowed,medium,Malware signature found
+2025-01-12 01:35:03,192.168.49.59,200.79.12.8,allowed,medium,Normal traffic
+2025-01-06 03:06:43,192.168.69.122,164.206.56.148,allowed,critical,Brute-force attempt
+2025-01-02 17:56:38,192.168.62.163,75.188.145.132,allowed,medium,Malware signature found
+2025-01-21 21:43:31,192.168.182.136,179.199.201.33,blocked,high,Normal traffic
+2025-01-03 07:41:17,192.168.81.211,113.61.151.139,allowed,high,Brute-force attempt
+2025-01-26 10:03:26,192.168.46.75,114.128.110.216,allowed,critical,Port scan detected
+2025-01-19 05:29:19,192.168.158.249,218.22.49.19,allowed,medium,Brute-force attempt
+2025-01-16 17:44:24,192.168.74.86,240.157.172.64,allowed,high,Normal traffic
+2025-01-12 17:55:55,192.168.37.53,131.170.72.142,allowed,medium,Normal traffic
+2025-01-10 15:17:22,192.168.54.200,22.222.81.151,blocked,medium,Port scan detected
+2025-01-11 10:28:26,192.168.92.204,85.201.24.103,blocked,medium,Brute-force attempt
+2025-01-22 18:32:24,192.168.59.247,132.211.213.227,allowed,high,Malware signature found
+2025-01-25 03:12:03,192.168.215.11,59.192.28.238,allowed,medium,Port scan detected
+2025-01-29 21:27:11,192.168.101.235,145.236.129.165,blocked,medium,Port scan detected
+2025-01-01 10:55:56,192.168.178.176,102.169.164.124,blocked,critical,Brute-force attempt
+2025-01-02 12:04:25,192.168.6.80,192.252.231.210,allowed,medium,Brute-force attempt
+2025-01-08 14:28:22,192.168.72.192,40.118.113.154,allowed,high,Brute-force attempt
+2025-01-02 23:31:49,192.168.117.128,145.96.90.75,blocked,medium,Port scan detected
+2025-01-05 17:44:34,192.168.16.30,113.207.185.15,blocked,medium,Normal traffic
+2025-01-26 21:43:22,192.168.150.173,184.129.105.253,allowed,high,Malware signature found
+2025-01-12 07:10:51,192.168.37.18,93.184.140.83,allowed,critical,Port scan detected
+2025-01-18 08:08:59,192.168.89.177,254.251.185.171,allowed,medium,Suspicious outbound
+2025-01-20 02:55:26,192.168.45.120,3.169.30.9,allowed,critical,Normal traffic
+2025-01-30 00:33:56,192.168.81.250,213.59.88.137,allowed,high,Port scan detected
+2025-01-13 03:37:02,192.168.58.53,227.79.111.5,blocked,high,Port scan detected
+2025-01-14 22:34:50,192.168.169.23,168.126.193.214,allowed,high,Normal traffic
+2025-01-24 06:49:56,192.168.106.239,31.150.74.102,allowed,high,Suspicious outbound
+2025-01-14 04:16:17,192.168.126.81,62.242.230.187,allowed,high,Port scan detected
+2025-01-08 10:57:58,192.168.14.136,99.226.58.239,blocked,high,Suspicious outbound
+2025-01-01 16:07:48,192.168.74.108,12.84.184.23,blocked,medium,Suspicious outbound
+2025-01-01 12:50:10,192.168.134.77,197.199.33.60,allowed,critical,Malware signature found
+2025-01-06 21:27:18,192.168.146.144,74.172.36.103,blocked,medium,Brute-force attempt
+2025-01-28 19:56:04,192.168.60.47,188.163.250.91,allowed,critical,Suspicious outbound
+2025-01-25 13:43:30,192.168.82.94,17.126.39.198,allowed,medium,Normal traffic
+2025-01-15 09:06:59,192.168.249.218,120.219.112.224,blocked,high,Brute-force attempt
+2025-01-27 20:23:09,192.168.122.2,103.201.178.70,blocked,high,Suspicious outbound
+2025-01-19 22:01:04,192.168.177.21,109.255.10.136,allowed,high,Suspicious outbound
+2025-01-19 07:53:26,192.168.34.106,121.55.70.44,blocked,high,Port scan detected
+2025-01-14 22:34:11,192.168.179.4,7.180.142.115,allowed,high,Suspicious outbound
+2025-01-21 04:20:05,192.168.222.33,211.17.100.18,allowed,medium,Port scan detected
+2025-01-12 23:28:15,192.168.84.239,53.220.48.86,blocked,critical,Suspicious outbound
+2025-01-18 07:16:02,192.168.244.206,20.12.171.110,allowed,high,Port scan detected
+2025-01-05 23:28:00,192.168.183.71,14.193.120.186,allowed,medium,Suspicious outbound
+2025-01-26 14:04:06,192.168.100.46,213.228.150.229,allowed,medium,Port scan detected
+2025-01-14 19:36:49,192.168.51.88,249.182.36.198,allowed,high,Normal traffic
+2025-01-18 20:43:07,192.168.175.198,205.35.128.124,blocked,high,Brute-force attempt
+2025-01-16 13:38:09,192.168.174.103,9.27.241.120,blocked,high,Suspicious outbound
+2025-01-17 03:29:22,192.168.107.60,75.218.136.224,allowed,medium,Brute-force attempt
+2025-01-15 22:47:23,192.168.149.88,234.125.105.197,allowed,medium,Normal traffic
+2025-01-23 02:31:04,192.168.253.140,11.167.76.242,allowed,critical,Suspicious outbound
+2025-01-30 07:36:07,192.168.123.249,235.206.244.228,allowed,critical,Suspicious outbound
+2025-01-06 10:47:32,192.168.26.147,136.102.105.109,allowed,critical,Brute-force attempt
+2025-01-24 17:19:16,192.168.213.213,7.190.192.84,blocked,high,Port scan detected
+2025-01-29 01:23:40,192.168.167.206,28.31.97.65,allowed,high,Port scan detected
+2025-01-11 05:15:42,192.168.106.168,198.31.211.16,allowed,high,Normal traffic
+2025-01-15 11:56:40,192.168.83.248,182.93.140.155,blocked,medium,Port scan detected
+2025-01-21 05:23:46,192.168.8.26,136.185.238.72,allowed,critical,Normal traffic
+2025-01-08 00:54:58,192.168.156.204,246.92.80.228,blocked,medium,Malware signature found
+2025-01-03 08:15:48,192.168.177.57,172.60.232.180,blocked,high,Normal traffic
+2025-01-09 03:42:45,192.168.140.173,129.117.98.213,allowed,high,Malware signature found
+2025-01-18 17:18:27,192.168.124.111,139.220.93.187,allowed,critical,Brute-force attempt
+2025-01-07 20:36:05,192.168.229.51,98.43.158.185,blocked,high,Malware signature found
+2025-01-29 12:25:59,192.168.119.102,66.196.218.176,allowed,medium,Port scan detected
+2025-01-08 12:35:08,192.168.73.91,46.102.94.150,allowed,critical,Port scan detected
+2025-01-27 21:44:42,192.168.252.241,124.152.175.241,allowed,medium,Normal traffic
+2025-01-19 00:57:17,192.168.156.119,129.252.247.188,allowed,critical,Brute-force attempt
+2025-01-13 10:59:28,192.168.70.70,164.231.210.74,blocked,high,Brute-force attempt
+2025-01-07 09:55:01,192.168.195.33,232.209.231.45,blocked,high,Malware signature found
+2025-01-25 07:50:04,192.168.87.245,198.197.37.66,blocked,critical,Brute-force attempt
+2025-01-25 14:40:37,192.168.249.233,88.107.228.38,blocked,medium,Port scan detected
+2025-01-14 12:45:04,192.168.145.235,58.26.212.210,allowed,medium,Brute-force attempt
+2025-01-01 14:35:55,192.168.67.165,94.184.103.168,allowed,medium,Brute-force attempt
+2025-01-30 13:13:54,192.168.179.155,78.224.43.17,allowed,medium,Brute-force attempt
+2025-01-14 17:51:00,192.168.16.59,175.253.185.191,allowed,medium,Malware signature found
+2025-01-13 12:44:27,192.168.165.189,79.108.68.108,allowed,medium,Port scan detected
+2025-01-18 07:27:34,192.168.140.42,72.174.6.188,blocked,high,Brute-force attempt
+2025-01-23 02:56:27,192.168.156.184,167.28.122.50,allowed,medium,Brute-force attempt
+2025-01-14 20:15:25,192.168.42.138,18.77.202.218,allowed,medium,Port scan detected
+2025-01-20 07:28:09,192.168.115.244,150.217.108.20,allowed,critical,Malware signature found
+2025-01-14 13:40:49,192.168.130.123,218.24.127.95,allowed,medium,Normal traffic
+2025-01-16 12:21:54,192.168.189.104,20.231.90.189,blocked,medium,Port scan detected
+2025-01-25 03:22:26,192.168.75.167,238.230.98.232,allowed,medium,Malware signature found
+2025-01-01 18:54:44,192.168.63.178,234.96.66.6,allowed,medium,Suspicious outbound
+2025-01-20 23:35:14,192.168.126.191,97.246.163.3,allowed,high,Normal traffic
+2025-01-21 07:44:12,192.168.249.200,85.208.173.7,allowed,medium,Normal traffic
+2025-01-18 00:36:05,192.168.97.104,217.162.66.45,blocked,medium,Brute-force attempt
+2025-01-13 02:50:59,192.168.156.223,84.47.140.30,blocked,critical,Port scan detected
+2025-01-28 17:51:26,192.168.58.33,116.2.85.148,allowed,medium,Suspicious outbound
+2025-01-07 04:44:24,192.168.39.139,108.83.192.138,allowed,medium,Suspicious outbound
+2025-01-08 23:16:39,192.168.48.244,203.243.4.77,allowed,medium,Suspicious outbound
+2025-01-28 11:08:07,192.168.167.78,83.218.228.111,allowed,high,Brute-force attempt
+2025-01-24 11:16:40,192.168.151.93,175.66.2.110,allowed,high,Normal traffic
+2025-01-08 08:17:30,192.168.64.36,144.92.37.142,allowed,high,Port scan detected
+2025-01-14 15:22:08,192.168.254.226,25.94.58.49,allowed,medium,Brute-force attempt
+2025-01-24 00:49:35,192.168.3.59,177.12.148.154,allowed,medium,Normal traffic
+2025-01-26 12:51:15,192.168.110.99,141.126.217.44,allowed,medium,Malware signature found
+2025-01-17 07:22:02,192.168.53.63,160.181.11.220,allowed,medium,Port scan detected
+2025-01-22 14:46:17,192.168.51.201,19.72.51.236,allowed,high,Suspicious outbound
+2025-01-30 00:28:35,192.168.6.189,65.25.78.206,allowed,medium,Port scan detected
+2025-01-10 14:52:40,192.168.119.61,49.200.163.67,allowed,medium,Malware signature found
+2025-01-09 04:30:31,192.168.169.195,22.8.91.98,blocked,high,Port scan detected
+2025-01-30 01:30:13,192.168.6.124,182.5.155.47,allowed,medium,Brute-force attempt
+2025-01-24 19:28:22,192.168.51.190,105.222.28.139,allowed,high,Normal traffic
+2025-01-25 13:08:25,192.168.58.191,129.184.94.69,allowed,high,Port scan detected
+2025-01-03 05:21:28,192.168.55.49,196.218.137.86,allowed,medium,Malware signature found
+2025-01-25 19:01:03,192.168.101.37,32.19.203.95,allowed,medium,Brute-force attempt
+2025-01-24 16:12:14,192.168.24.34,79.19.17.238,allowed,high,Malware signature found
+2025-01-21 11:34:54,192.168.235.207,226.173.224.31,blocked,medium,Brute-force attempt
+2025-01-22 23:45:16,192.168.229.188,204.57.252.36,allowed,high,Suspicious outbound
+2025-01-11 19:28:29,192.168.98.89,74.96.74.175,blocked,medium,Suspicious outbound
+2025-01-21 22:36:40,192.168.221.124,91.188.126.104,allowed,medium,Suspicious outbound
+2025-01-13 13:23:48,192.168.118.146,57.105.132.104,blocked,high,Brute-force attempt
+2025-01-15 10:56:46,192.168.198.154,247.23.174.40,allowed,high,Malware signature found
+2025-01-22 22:18:04,192.168.139.150,142.229.247.161,allowed,medium,Suspicious outbound
+2025-01-07 10:36:22,192.168.215.142,73.56.228.54,blocked,high,Suspicious outbound
+2025-01-09 11:29:03,192.168.39.225,125.194.93.60,allowed,medium,Port scan detected
+2025-01-08 09:00:00,192.168.244.101,169.223.4.166,blocked,high,Normal traffic
+2025-01-10 05:35:25,192.168.49.134,186.97.84.254,blocked,medium,Suspicious outbound
+2025-01-29 18:44:43,192.168.82.80,238.12.58.35,allowed,medium,Suspicious outbound
+2025-01-18 22:19:01,192.168.96.32,107.122.62.116,allowed,medium,Normal traffic
+2025-01-02 06:21:12,192.168.248.120,97.255.15.60,allowed,medium,Malware signature found
+2025-01-08 23:56:07,192.168.255.26,66.252.127.51,allowed,critical,Suspicious outbound
+2025-01-02 14:39:45,192.168.53.171,145.211.179.68,allowed,medium,Normal traffic
+2025-01-13 16:07:39,192.168.244.125,120.153.183.223,allowed,medium,Brute-force attempt
+2025-01-27 07:09:09,192.168.221.185,186.150.245.32,blocked,medium,Suspicious outbound
+2025-01-18 23:52:12,192.168.61.156,221.220.113.218,blocked,medium,Suspicious outbound
+2025-01-06 13:54:23,192.168.160.110,103.88.118.38,blocked,medium,Malware signature found
+2025-01-21 06:05:42,192.168.152.23,124.107.174.145,allowed,high,Normal traffic
+2025-01-01 09:51:32,192.168.182.13,67.226.98.160,allowed,medium,Malware signature found
+2025-01-14 05:48:07,192.168.133.44,243.190.15.2,blocked,high,Normal traffic
+2025-01-28 11:36:49,192.168.190.130,55.34.186.201,allowed,medium,Brute-force attempt
+2025-01-12 21:52:10,192.168.62.138,238.170.78.176,allowed,high,Normal traffic
+2025-01-27 14:00:45,192.168.13.245,45.62.220.164,blocked,medium,Normal traffic
+2025-01-08 07:19:15,192.168.121.75,187.253.233.179,blocked,high,Malware signature found
+2025-01-11 11:42:05,192.168.73.27,34.226.37.148,allowed,high,Port scan detected
+2025-01-20 18:06:43,192.168.187.122,241.69.206.233,allowed,medium,Suspicious outbound
+2025-01-23 13:56:25,192.168.93.247,38.123.87.40,blocked,high,Port scan detected
+2025-01-10 15:36:57,192.168.206.16,107.88.118.10,allowed,critical,Malware signature found
+2025-01-12 06:32:57,192.168.239.117,177.148.58.17,blocked,medium,Port scan detected
+2025-01-26 03:01:46,192.168.251.78,168.180.153.32,blocked,high,Brute-force attempt
+2025-01-21 23:39:35,192.168.211.244,89.40.186.174,blocked,medium,Normal traffic
+2025-01-19 06:34:10,192.168.33.52,162.181.11.123,allowed,medium,Brute-force attempt
+2025-01-05 02:39:50,192.168.18.91,177.191.142.59,blocked,medium,Normal traffic
+2025-01-04 18:39:40,192.168.129.41,146.81.211.160,blocked,medium,Malware signature found
+2025-01-22 00:18:32,192.168.11.173,242.218.37.58,blocked,high,Normal traffic
+2025-01-08 16:01:24,192.168.195.248,168.46.3.125,allowed,critical,Suspicious outbound
+2025-01-03 21:01:30,192.168.195.80,163.150.181.22,allowed,medium,Normal traffic
+2025-01-24 03:28:11,192.168.51.85,112.28.140.41,blocked,medium,Malware signature found
+2025-01-16 05:17:02,192.168.191.141,230.16.126.207,blocked,medium,Suspicious outbound
+2025-01-23 08:09:44,192.168.85.198,83.85.193.201,blocked,high,Brute-force attempt
+2025-01-03 08:20:05,192.168.236.115,225.6.210.208,blocked,high,Brute-force attempt
+2025-01-01 08:37:14,192.168.7.169,159.61.52.34,blocked,medium,Port scan detected
+2025-01-30 13:30:16,192.168.241.132,54.45.166.109,blocked,medium,Normal traffic
+2025-01-01 00:35:16,192.168.209.107,158.228.141.252,blocked,medium,Normal traffic
+2025-01-04 11:42:02,192.168.93.113,84.84.164.1,allowed,critical,Suspicious outbound
+2025-01-23 00:35:30,192.168.220.158,13.115.253.4,allowed,high,Malware signature found
+2025-01-02 21:45:02,192.168.43.162,36.157.192.255,blocked,medium,Malware signature found
+2025-01-29 01:58:30,192.168.166.166,103.102.123.92,blocked,medium,Brute-force attempt
+2025-01-15 06:24:25,192.168.115.174,192.246.52.129,blocked,critical,Malware signature found
